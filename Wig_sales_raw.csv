@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,customer_age_group,customer_city,wig_type,wig_length_inches,hair_color,unit_price_ngn,quantity,discount_ngn,total_sales_ngn,payment_method,sales_channel,customer_type,delivery_status,promo_used,delivery_days,customer_rating,profit_margin_percent
+WIG0001,2025-01-08,CUST2535,18-24,Abuja,Pixie Wig,12,Ombre,36717,4,0,146868,Transfer,Walk-in,New,Returned,No,2,3.9,23.3
+WIG0002,2025-04-08,CUST2584,25-34,Kano,Water Wave,10,Blonde,124118,1,0,124118,Cash,Instagram,Returning,Returned,Yes,4,3.2,23.8
+WIG0003,2025-01-26,CUST7227,25-34,Ibadan,Pixie Wig,28,Blonde,44935,1,0,44935,POS,WhatsApp,Returning,Delivered,No,6,4.9,34.4
+WIG0004,2025-02-28,CUST1525,25-34,Ibadan,Frontal Wig,30,Blonde,114735,3,0,344205,Transfer,TikTok,Returning,Delivered,No,4,4.8,34.3
+WIG0005,2025-02-05,CUST9348,25-34,Lagos,Curly,18,Natural Black,102325,3,0,306975,Transfer,TikTok,New,Returned,No,5,3.1,26.4
+WIG0006,2025-03-17,CUST8123,18-24,Ibadan,Closure Wig,26,Natural Black,65014,3,0,195042,Cash,Walk-in,New,Returned,Yes,7,4.3,40.3
+WIG0007,2025-01-05,CUST2832,25-34,Kano,Frontal Wig,28,Blonde,135697,3,5000,402091,POS,Instagram,New,Returned,Yes,1,4.5,39.5
+WIG0008,2025-05-19,CUST4295,35-45,Port Harcourt,Water Wave,26,Burgundy,114741,4,0,458964,Cash,Facebook,Returning,Delivered,Yes,2,3.1,15.6
+WIG0009,2025-03-26,CUST2160,35-45,Abuja,Frontal Wig,16,Blonde,157778,1,0,157778,Card,TikTok,New,Returned,No,2,4.6,39.2
+WIG0010,2025-04-14,CUST6559,18-24,Abuja,Curly,12,Brown,126498,1,0,126498,POS,Walk-in,Returning,Delivered,No,2,3.6,22.5
+WIG0011,2025-05-04,CUST4502,25-34,Lagos,Bone Straight,24,Brown,167132,4,5000,663528,Card,Instagram,Returning,Pending,No,3,3.8,43.7
+WIG0012,2025-01-13,CUST8811,35-45,Kano,Water Wave,26,Ombre,87989,3,0,263967,POS,Instagram,New,Delivered,Yes,5,3.1,40.9
+WIG0013,2025-02-22,CUST6147,18-24,Port Harcourt,Closure Wig,12,Burgundy,55209,3,0,165627,POS,WhatsApp,Returning,Pending,Yes,1,3.9,45
+WIG0014,2025-03-14,CUST3584,25-34,Kano,Bone Straight,12,Ombre,165468,2,0,330936,Cash,Walk-in,New,Returned,No,6,3.2,41.3
+WIG0015,2025-06-12,CUST5325,35-45,Ibadan,Bob Wig,12,Blonde,52848,2,15000,90696,Transfer,Instagram,Returning,Pending,Yes,1,3.7,18.9
+WIG0016,2025-05-30,CUST3426,25-34,Abuja,Bob Wig,14,Natural Black,71759,1,0,71759,Cash,WhatsApp,New,Pending,Yes,6,3.5,18.1
+WIG0017,2025-03-27,CUST7745,35-45,Kano,Water Wave,26,Brown,83248,2,15000,151496,Cash,TikTok,New,Pending,Yes,7,3.9,21
+WIG0018,2025-01-18,CUST5573,25-34,Enugu,Closure Wig,20,Ombre,53101,3,0,159303,Card,Walk-in,Returning,Delivered,Yes,3,3.4,43.9
+WIG0019,2025-05-28,CUST4114,25-34,Lagos,Bob Wig,10,Burgundy,57654,1,5000,52654,Transfer,Walk-in,New,Pending,No,1,4.9,42.6
+WIG0020,2025-03-17,CUST3085,18-24,Ibadan,Frontal Wig,20,Burgundy,152410,4,15000,594640,POS,Walk-in,Returning,Pending,Yes,3,3.6,27.9
+WIG0021,2025-02-13,CUST2389,25-34,Benin,Frontal Wig,28,Ombre,153555,4,15000,599220,Cash,Instagram,New,Returned,No,2,4.6,19.4
+WIG0022,2025-04-13,CUST4997,18-24,Enugu,Bone Straight,16,Natural Black,157277,4,5000,624108,Transfer,Facebook,New,Delivered,No,1,4.1,42.5
+WIG0023,2025-05-10,CUST7991,35-45,Ibadan,Bone Straight,24,Brown,112477,4,10000,439908,Card,Facebook,Returning,Delivered,No,7,4.6,29.5
+WIG0024,2025-01-21,CUST3267,18-24,Abuja,Curly,18,Burgundy,80155,3,10000,230465,POS,TikTok,New,Pending,No,3,4.1,27.5
+WIG0025,2025-04-18,CUST9818,35-45,Enugu,Curly,22,Ombre,72560,3,5000,212680,POS,Facebook,New,Pending,No,4,3.1,25.1
+WIG0026,2025-04-20,CUST3223,25-34,Abuja,Pixie Wig,22,Natural Black,68790,1,15000,53790,Cash,Facebook,Returning,Delivered,No,3,3.7,41.4
+WIG0027,2025-01-18,CUST1659,18-24,Abuja,Bob Wig,22,Brown,65822,2,15000,116644,Transfer,Walk-in,New,Delivered,Yes,4,4.3,31.9
+WIG0028,2025-05-28,CUST7149,25-34,Enugu,Curly,24,Brown,118351,1,0,118351,Transfer,Walk-in,New,Delivered,No,7,4.4,39.2
+WIG0029,2025-04-18,CUST9031,18-24,Ibadan,Water Wave,28,Blonde,89038,3,0,267114,Card,TikTok,Returning,Delivered,No,5,4.6,31.1
+WIG0030,2025-05-26,CUST7209,25-34,Lagos,Closure Wig,24,Burgundy,82177,2,5000,159354,Cash,TikTok,Returning,Delivered,No,7,3.5,23.4
+WIG0031,2025-03-03,CUST8800,35-45,Enugu,Frontal Wig,18,Burgundy,76221,4,10000,294884,Card,Instagram,New,Pending,Yes,4,4.4,24.2
+WIG0032,2025-03-20,CUST5118,18-24,Lagos,Frontal Wig,20,Brown,137140,4,0,548560,Cash,Instagram,New,Delivered,Yes,6,4,36.7
+WIG0033,2025-01-04,CUST9751,18-24,Port Harcourt,Water Wave,26,Natural Black,127301,2,0,254602,Transfer,Walk-in,Returning,Returned,Yes,6,4.7,29.7
+WIG0034,2025-05-03,CUST2869,18-24,Ibadan,Water Wave,10,Burgundy,104164,1,0,104164,Transfer,Walk-in,New,Delivered,Yes,7,4.1,24.1
+WIG0035,2025-05-31,CUST8025,25-34,Benin,Curly,12,Ombre,124548,4,0,498192,Transfer,Walk-in,New,Delivered,Yes,3,4.3,19.7
+WIG0036,2025-03-01,CUST5720,35-45,Port Harcourt,Curly,26,Burgundy,90517,3,0,271551,Transfer,TikTok,Returning,Returned,Yes,4,3.2,21.7
+WIG0037,2025-04-30,CUST5982,35-45,Ibadan,Curly,18,Blonde,79359,4,0,317436,Card,Facebook,New,Returned,Yes,4,4.5,33.1
+WIG0038,2025-06-16,CUST8245,25-34,Abuja,Bone Straight,12,Ombre,125005,4,10000,490020,Card,Facebook,New,Pending,No,4,3.7,35.1
+WIG0039,2025-03-22,CUST5135,25-34,Lagos,Water Wave,14,Burgundy,84809,4,0,339236,Transfer,Walk-in,Returning,Pending,Yes,2,4,33.7
+WIG0040,2025-05-05,CUST2989,18-24,Enugu,Closure Wig,30,Ombre,85003,4,15000,325012,POS,TikTok,Returning,Returned,Yes,5,3.8,21.7
+WIG0041,2025-05-04,CUST8736,18-24,Ibadan,Water Wave,12,Ombre,146698,3,5000,435094,POS,Facebook,New,Returned,Yes,7,3.1,38.2
+WIG0042,2025-05-18,CUST8935,25-34,Port Harcourt,Water Wave,22,Ombre,144178,2,5000,283356,Card,Facebook,Returning,Delivered,Yes,5,3.8,40.7
+WIG0043,2025-05-09,CUST6439,18-24,Kano,Closure Wig,10,Burgundy,99968,1,0,99968,Transfer,Walk-in,Returning,Delivered,Yes,4,4.7,44.1
+WIG0044,2025-06-10,CUST8994,35-45,Lagos,Bone Straight,24,Ombre,129737,4,0,518948,Transfer,TikTok,Returning,Delivered,Yes,4,5,37.8
+WIG0045,2025-04-02,CUST7141,25-34,Abuja,Pixie Wig,12,Brown,33014,1,0,33014,Card,Walk-in,New,Delivered,Yes,1,4.2,26.5
+WIG0046,2025-01-03,CUST8622,25-34,Enugu,Pixie Wig,16,Ombre,46644,3,15000,124932,POS,Instagram,Returning,Pending,No,6,4.9,35.7
+WIG0047,2025-03-17,CUST1359,35-45,Ibadan,Closure Wig,18,Blonde,63979,3,15000,176937,Transfer,Walk-in,New,Returned,No,7,4.8,23.6
+WIG0048,2025-06-15,CUST1645,25-34,Kano,Water Wave,16,Burgundy,97927,1,15000,82927,Transfer,Walk-in,Returning,Returned,Yes,1,4.8,24.8
+WIG0049,2025-05-04,CUST5835,35-45,Kano,Closure Wig,14,Blonde,97953,2,0,195906,Transfer,Facebook,New,Delivered,Yes,7,4.4,35.2
+WIG0050,2025-06-22,CUST5295,35-45,Ibadan,Closure Wig,26,Blonde,51824,4,0,207296,Transfer,TikTok,Returning,Delivered,No,5,3.4,16.9
+WIG0051,2025-01-25,CUST4846,35-45,Abuja,Water Wave,24,Burgundy,119893,4,0,479572,Card,WhatsApp,Returning,Returned,Yes,4,4.3,40
+WIG0052,2025-01-26,CUST7018,35-45,Enugu,Frontal Wig,22,Blonde,93477,2,0,186954,Transfer,Facebook,Returning,Delivered,Yes,7,4.6,17.8
+WIG0053,2025-02-23,CUST4538,18-24,Port Harcourt,Curly,30,Brown,72799,1,10000,62799,Transfer,WhatsApp,New,Delivered,No,7,3.3,34.8
+WIG0054,2025-04-18,CUST9619,18-24,Enugu,Bone Straight,14,Natural Black,96947,1,0,96947,Card,Facebook,Returning,Returned,Yes,4,4,43.4
+WIG0055,2025-01-28,CUST9032,35-45,Ibadan,Bone Straight,30,Natural Black,163347,4,15000,638388,Transfer,WhatsApp,New,Delivered,Yes,3,4.2,32.6
+WIG0056,2025-01-30,CUST4522,25-34,Ibadan,Pixie Wig,20,Brown,69677,1,15000,54677,Card,WhatsApp,Returning,Pending,No,6,3.2,27.8
+WIG0057,2025-01-25,CUST7105,18-24,Benin,Pixie Wig,18,Natural Black,35978,1,5000,30978,Cash,Instagram,Returning,Pending,No,7,4.8,16.5
+WIG0058,2025-03-31,CUST7022,18-24,Kano,Bob Wig,28,Blonde,41789,2,0,83578,POS,Facebook,New,Returned,No,1,3.4,36.1
+WIG0059,2025-06-12,CUST1502,18-24,Enugu,Bob Wig,20,Ombre,46888,2,15000,78776,POS,Facebook,Returning,Pending,No,2,3.7,36.6
+WIG0060,2025-06-19,CUST7947,25-34,Benin,Water Wave,28,Burgundy,90693,3,5000,267079,Card,WhatsApp,New,Returned,Yes,3,3.9,23.5
+WIG0061,2025-02-22,CUST5938,18-24,Kano,Pixie Wig,28,Brown,44451,1,0,44451,Cash,WhatsApp,Returning,Delivered,Yes,4,4.5,20.3
+WIG0062,2025-04-28,CUST2275,25-34,Benin,Closure Wig,26,Burgundy,96421,4,0,385684,Card,Facebook,Returning,Delivered,No,1,4.9,20.2
+WIG0063,2025-03-21,CUST6562,18-24,Port Harcourt,Frontal Wig,24,Brown,96891,1,5000,91891,Transfer,Walk-in,New,Returned,Yes,7,3.7,36.8
+WIG0064,2025-01-20,CUST3902,35-45,Ibadan,Water Wave,30,Burgundy,102740,2,15000,190480,Card,Walk-in,Returning,Returned,No,2,3.9,29.1
+WIG0065,2025-01-15,CUST7041,25-34,Lagos,Pixie Wig,18,Natural Black,50342,4,0,201368,Card,Facebook,New,Pending,Yes,3,4.2,30
+WIG0066,2025-04-23,CUST8199,35-45,Benin,Bone Straight,24,Ombre,108566,2,15000,202132,POS,WhatsApp,Returning,Pending,No,4,4.5,35.4
+WIG0067,2025-06-18,CUST3463,25-34,Lagos,Bone Straight,30,Ombre,179843,3,0,539529,POS,WhatsApp,Returning,Returned,No,2,4.2,43.1
+WIG0068,2025-04-03,CUST6060,18-24,Abuja,Bob Wig,26,Blonde,43375,3,0,130125,Card,TikTok,New,Delivered,Yes,1,3.6,38.6
+WIG0069,2025-02-16,CUST3712,35-45,Ibadan,Frontal Wig,26,Natural Black,146006,2,0,292012,Card,WhatsApp,New,Pending,No,7,4.5,28.5
+WIG0070,2025-04-08,CUST9239,35-45,Ibadan,Frontal Wig,16,Brown,153907,4,0,615628,POS,Walk-in,New,Pending,Yes,6,4,26.1
+WIG0071,2025-01-24,CUST4637,25-34,Port Harcourt,Bone Straight,26,Natural Black,111341,2,5000,217682,Card,Instagram,Returning,Returned,No,2,3.8,17.4
+WIG0072,2025-06-28,CUST3273,35-45,Ibadan,Curly,10,Burgundy,82987,3,5000,243961,Transfer,Instagram,New,Pending,Yes,7,3.3,43.2
+WIG0073,2025-06-13,CUST8489,18-24,Lagos,Frontal Wig,26,Burgundy,104472,2,5000,203944,Transfer,Walk-in,New,Returned,Yes,3,3.9,33.4
+WIG0074,2025-05-01,CUST1713,35-45,Ibadan,Curly,28,Blonde,94551,1,5000,89551,Cash,Instagram,Returning,Delivered,No,2,4.5,33.8
+WIG0075,2025-05-03,CUST3986,18-24,Lagos,Water Wave,28,Burgundy,102949,4,15000,396796,Transfer,WhatsApp,New,Delivered,Yes,1,3.6,24.3
+WIG0076,2025-02-01,CUST7029,25-34,Ibadan,Closure Wig,26,Burgundy,75048,3,0,225144,Card,WhatsApp,New,Pending,No,3,4.8,30.6
+WIG0077,2025-03-25,CUST5843,25-34,Ibadan,Water Wave,12,Ombre,122101,1,0,122101,Card,TikTok,Returning,Pending,No,1,4.5,42.3
+WIG0078,2025-06-05,CUST8179,18-24,Abuja,Frontal Wig,22,Natural Black,112619,1,0,112619,POS,WhatsApp,Returning,Pending,Yes,5,3.3,28.5
+WIG0079,2025-03-13,CUST5089,18-24,Lagos,Bob Wig,20,Brown,72612,3,15000,202836,Card,Walk-in,Returning,Returned,Yes,3,4.5,36.1
+WIG0080,2025-04-24,CUST2438,35-45,Kano,Curly,28,Blonde,134382,2,15000,253764,Cash,Instagram,Returning,Pending,Yes,6,4.4,36
+WIG0081,2025-05-22,CUST7044,25-34,Kano,Curly,20,Ombre,99391,1,0,99391,POS,Walk-in,New,Delivered,No,4,5,36.6
+WIG0082,2025-05-13,CUST6644,18-24,Kano,Frontal Wig,22,Ombre,149192,4,15000,581768,POS,TikTok,Returning,Returned,Yes,7,3.2,19.6
+WIG0083,2025-05-22,CUST5496,18-24,Enugu,Curly,14,Blonde,99552,2,15000,184104,Transfer,Walk-in,New,Returned,Yes,2,4.3,36.6
+WIG0084,2025-04-17,CUST1496,25-34,Enugu,Frontal Wig,20,Ombre,70958,2,10000,131916,Cash,WhatsApp,Returning,Delivered,No,3,3.9,35.7
+WIG0085,2025-03-23,CUST6658,25-34,Abuja,Curly,24,Blonde,133471,3,15000,385413,Transfer,WhatsApp,New,Pending,Yes,3,3.9,19.2
+WIG0086,2025-05-08,CUST9433,25-34,Ibadan,Bone Straight,18,Blonde,145351,2,0,290702,Card,Instagram,New,Pending,No,2,3.4,25.6
+WIG0087,2025-04-04,CUST7606,25-34,Lagos,Bone Straight,18,Burgundy,159866,3,15000,464598,Transfer,Walk-in,New,Pending,No,1,3.8,28.5
+WIG0088,2025-02-20,CUST9341,25-34,Benin,Frontal Wig,18,Natural Black,116629,3,0,349887,Transfer,Instagram,New,Returned,No,7,3.9,28.7
+WIG0089,2025-05-11,CUST9721,25-34,Enugu,Frontal Wig,26,Ombre,86299,3,10000,248897,Cash,Facebook,New,Pending,No,6,3.2,27.5
+WIG0090,2025-06-11,CUST7229,18-24,Kano,Bob Wig,30,Brown,52401,2,10000,94802,Transfer,Walk-in,New,Delivered,Yes,4,3.6,19.5
+WIG0091,2025-03-25,CUST8837,35-45,Ibadan,Pixie Wig,16,Blonde,39049,2,10000,68098,POS,Facebook,Returning,Returned,No,6,4.5,36.6
+WIG0092,2025-03-15,CUST4396,35-45,Enugu,Pixie Wig,18,Burgundy,66574,2,0,133148,Cash,Facebook,Returning,Returned,No,3,3.2,35.3
+WIG0093,2025-03-07,CUST8849,18-24,Abuja,Closure Wig,22,Ombre,55513,4,15000,207052,Cash,Walk-in,Returning,Delivered,Yes,5,4.5,22.2
+WIG0094,2025-05-01,CUST2647,35-45,Kano,Bone Straight,30,Brown,164604,3,15000,478812,Transfer,Walk-in,New,Pending,No,4,4.3,37.7
+WIG0095,2025-01-10,CUST7504,25-34,Abuja,Bob Wig,20,Blonde,40862,4,0,163448,Transfer,Instagram,Returning,Returned,Yes,3,3.6,44.7
+WIG0096,2025-04-28,CUST5215,35-45,Abuja,Frontal Wig,26,Natural Black,100761,3,0,302283,Cash,WhatsApp,New,Delivered,No,7,3.9,24.8
+WIG0097,2025-03-02,CUST8319,25-34,Port Harcourt,Closure Wig,30,Blonde,112580,3,5000,332740,Transfer,WhatsApp,Returning,Returned,Yes,1,4.3,29
+WIG0098,2025-02-04,CUST8834,18-24,Ibadan,Curly,22,Ombre,110760,2,0,221520,Cash,Facebook,Returning,Returned,Yes,7,3.5,37.6
+WIG0099,2025-05-10,CUST4312,35-45,Benin,Water Wave,12,Brown,94707,1,10000,84707,POS,WhatsApp,Returning,Delivered,Yes,6,4.2,17.7
+WIG0100,2025-03-20,CUST1356,25-34,Port Harcourt,Frontal Wig,24,Natural Black,119450,4,15000,462800,POS,Walk-in,New,Delivered,No,3,4.4,31.2
+WIG0101,2025-04-25,CUST7184,25-34,Lagos,Bone Straight,12,Ombre,156875,3,5000,465625,POS,WhatsApp,New,Delivered,No,5,3.3,44.4
+WIG0102,2025-03-30,CUST3541,25-34,Abuja,Water Wave,10,Natural Black,110102,2,5000,215204,Transfer,Facebook,New,Delivered,Yes,1,3.2,16
+WIG0103,2025-02-05,CUST9255,25-34,Abuja,Frontal Wig,30,Ombre,117725,2,0,235450,Cash,Walk-in,Returning,Delivered,No,2,5,30.6
+WIG0104,2025-06-14,CUST7244,35-45,Port Harcourt,Closure Wig,18,Burgundy,72955,1,0,72955,Card,TikTok,Returning,Pending,Yes,7,4.1,22.2
+WIG0105,2025-03-04,CUST5177,18-24,Port Harcourt,Curly,18,Natural Black,130689,2,5000,256378,Card,WhatsApp,New,Returned,Yes,1,3.5,35.2
+WIG0106,2025-02-24,CUST4113,35-45,Lagos,Frontal Wig,10,Burgundy,127835,3,0,383505,POS,Walk-in,New,Pending,Yes,5,3.6,23.5
+WIG0107,2025-05-01,CUST6246,18-24,Port Harcourt,Closure Wig,26,Blonde,97139,1,15000,82139,Card,Instagram,New,Returned,Yes,1,3.5,43
+WIG0108,2025-06-17,CUST6530,25-34,Kano,Frontal Wig,22,Burgundy,95149,4,10000,370596,Card,Facebook,New,Returned,No,2,3.3,31.4
+WIG0109,2025-06-11,CUST4791,18-24,Enugu,Curly,26,Brown,77698,4,0,310792,Transfer,TikTok,Returning,Pending,Yes,5,4.3,43
+WIG0110,2025-03-12,CUST9777,25-34,Lagos,Closure Wig,30,Ombre,119758,1,10000,109758,Card,TikTok,New,Delivered,Yes,2,3.4,30.8
+WIG0111,2025-06-25,CUST2320,35-45,Kano,Water Wave,20,Natural Black,111877,2,0,223754,Transfer,Facebook,Returning,Pending,No,1,4.3,36.1
+WIG0112,2025-05-26,CUST8790,25-34,Lagos,Bone Straight,24,Natural Black,151873,2,15000,288746,Cash,Walk-in,New,Delivered,No,1,4.9,32.6
+WIG0113,2025-02-05,CUST2284,35-45,Enugu,Water Wave,22,Blonde,123480,4,15000,478920,Transfer,Instagram,Returning,Delivered,Yes,3,4.2,33.4
+WIG0114,2025-04-07,CUST8075,18-24,Enugu,Frontal Wig,22,Ombre,124054,3,10000,362162,Card,Instagram,Returning,Delivered,Yes,1,3.5,26.4
+WIG0115,2025-04-03,CUST5419,18-24,Abuja,Water Wave,30,Natural Black,80680,3,5000,237040,POS,Facebook,Returning,Returned,No,1,3.1,25.6
+WIG0116,2025-05-24,CUST4977,35-45,Benin,Bone Straight,28,Brown,173386,1,15000,158386,Card,TikTok,New,Pending,No,3,4,16.9
+WIG0117,2025-06-07,CUST4203,25-34,Lagos,Closure Wig,18,Brown,60082,4,10000,230328,Cash,Instagram,Returning,Pending,No,7,4.7,28.2
+WIG0118,2025-04-12,CUST6228,25-34,Enugu,Closure Wig,30,Burgundy,92030,3,0,276090,POS,WhatsApp,Returning,Pending,No,3,3.2,31.9
+WIG0119,2025-01-18,CUST7703,35-45,Ibadan,Frontal Wig,26,Brown,157847,3,15000,458541,Cash,TikTok,Returning,Returned,Yes,6,3.8,26.3
+WIG0120,2025-05-18,CUST2392,18-24,Kano,Closure Wig,28,Brown,116402,3,15000,334206,Cash,TikTok,New,Returned,No,7,3.7,38.9
+WIG0121,2025-04-11,CUST8586,35-45,Benin,Bone Straight,10,Ombre,107924,4,0,431696,POS,WhatsApp,New,Pending,Yes,3,3.8,43.9
+WIG0122,2025-01-25,CUST8178,35-45,Enugu,Bone Straight,14,Burgundy,140656,3,5000,416968,Cash,Instagram,Returning,Delivered,Yes,1,4.7,34.4
+WIG0123,2025-04-14,CUST4022,18-24,Enugu,Pixie Wig,14,Burgundy,66690,4,0,266760,Card,Instagram,New,Pending,No,4,3,21.4
+WIG0124,2025-03-09,CUST9019,35-45,Enugu,Bob Wig,12,Blonde,70185,4,0,280740,Card,Walk-in,Returning,Returned,Yes,3,3.7,28.7
+WIG0125,2025-02-16,CUST7116,35-45,Abuja,Curly,30,Ombre,81108,3,0,243324,Card,Facebook,New,Returned,No,4,3.4,34.1
+WIG0126,2025-01-14,CUST6882,18-24,Ibadan,Pixie Wig,30,Brown,42261,4,10000,159044,POS,Facebook,Returning,Pending,No,4,4.4,28.3
+WIG0127,2025-03-15,CUST3755,25-34,Benin,Curly,12,Burgundy,74044,2,10000,138088,Transfer,Walk-in,New,Pending,No,5,4.6,16.2
+WIG0128,2025-03-09,CUST6711,18-24,Ibadan,Pixie Wig,24,Natural Black,46222,1,5000,41222,POS,TikTok,Returning,Returned,No,2,4.2,38.5
+WIG0129,2025-03-16,CUST5740,35-45,Port Harcourt,Water Wave,16,Ombre,102069,3,15000,291207,Transfer,TikTok,Returning,Delivered,No,7,4.3,36
+WIG0130,2025-04-26,CUST2237,35-45,Kano,Curly,16,Natural Black,112217,4,5000,443868,Card,Walk-in,Returning,Returned,No,4,4.9,24.8
+WIG0131,2025-03-24,CUST5646,25-34,Benin,Bone Straight,12,Ombre,155089,4,0,620356,POS,Walk-in,Returning,Pending,Yes,1,3.2,38.5
+WIG0132,2025-03-19,CUST3604,25-34,Lagos,Closure Wig,10,Blonde,109836,2,15000,204672,Cash,Instagram,Returning,Returned,Yes,1,3.8,24.2
+WIG0133,2025-06-01,CUST4705,35-45,Enugu,Pixie Wig,16,Burgundy,43986,1,0,43986,Transfer,Instagram,Returning,Delivered,No,6,3.3,17.1
+WIG0134,2025-06-23,CUST3340,18-24,Benin,Closure Wig,12,Ombre,98177,2,15000,181354,Transfer,Walk-in,New,Pending,No,6,3.4,37.4
+WIG0135,2025-03-22,CUST3290,18-24,Port Harcourt,Closure Wig,28,Natural Black,63168,3,5000,184504,POS,Walk-in,Returning,Returned,Yes,7,4.7,41.3
+WIG0136,2025-01-29,CUST4949,25-34,Enugu,Curly,26,Ombre,136784,4,5000,542136,Transfer,Walk-in,New,Pending,No,2,3.8,40.2
+WIG0137,2025-02-25,CUST1652,18-24,Kano,Closure Wig,20,Burgundy,111736,1,0,111736,Cash,Walk-in,Returning,Pending,No,1,4.3,31.1
+WIG0138,2025-06-12,CUST2083,25-34,Enugu,Curly,18,Burgundy,110620,4,10000,432480,POS,Instagram,New,Delivered,No,1,3.9,33.3
+WIG0139,2025-05-14,CUST9474,35-45,Port Harcourt,Bob Wig,30,Brown,35830,4,0,143320,Cash,TikTok,Returning,Returned,Yes,7,4.8,25.1
+WIG0140,2025-05-08,CUST3734,25-34,Abuja,Closure Wig,18,Blonde,60101,3,0,180303,Transfer,Walk-in,New,Delivered,Yes,1,4.7,15.4
+WIG0141,2025-03-05,CUST7819,35-45,Port Harcourt,Bone Straight,24,Blonde,142707,2,0,285414,Transfer,Walk-in,Returning,Delivered,Yes,2,3.4,30.5
+WIG0142,2025-02-21,CUST5777,35-45,Kano,Bone Straight,22,Blonde,104034,1,0,104034,POS,Facebook,Returning,Returned,No,7,4.6,37
+WIG0143,2025-01-01,CUST7164,35-45,Enugu,Frontal Wig,16,Blonde,95539,1,0,95539,Transfer,TikTok,New,Pending,No,1,4.9,19.3
+WIG0144,2025-01-25,CUST9280,18-24,Enugu,Bob Wig,12,Burgundy,69062,1,10000,59062,Transfer,Walk-in,New,Pending,Yes,2,3.6,40.5
+WIG0145,2025-01-28,CUST3546,18-24,Abuja,Water Wave,22,Burgundy,106569,2,10000,203138,Card,WhatsApp,Returning,Delivered,No,7,3.4,24.2
+WIG0146,2025-02-07,CUST2494,35-45,Abuja,Bob Wig,12,Blonde,79961,2,0,159922,Card,Walk-in,New,Returned,No,3,4.6,20.2
+WIG0147,2025-02-26,CUST3141,18-24,Kano,Closure Wig,24,Burgundy,110560,1,0,110560,Cash,Instagram,Returning,Delivered,Yes,1,3.4,34.4
+WIG0148,2025-04-12,CUST9128,18-24,Ibadan,Water Wave,14,Burgundy,102018,4,15000,393072,POS,WhatsApp,New,Delivered,No,3,3.9,19.5
+WIG0149,2025-03-13,CUST7275,18-24,Ibadan,Frontal Wig,28,Brown,130390,1,0,130390,POS,Walk-in,New,Pending,No,4,4.1,29.5
+WIG0150,2025-01-15,CUST8728,35-45,Port Harcourt,Frontal Wig,26,Ombre,68416,1,0,68416,POS,TikTok,New,Delivered,Yes,3,4.1,38.7
+WIG0151,2025-01-08,CUST6761,35-45,Benin,Pixie Wig,10,Brown,45502,3,10000,126506,POS,Facebook,Returning,Delivered,No,1,3.2,22
+WIG0152,2025-02-15,CUST6301,18-24,Lagos,Curly,10,Brown,132650,3,15000,382950,POS,Instagram,Returning,Delivered,No,6,4.9,26.9
+WIG0153,2025-05-24,CUST6846,18-24,Enugu,Bone Straight,20,Ombre,134552,2,15000,254104,POS,Facebook,Returning,Returned,No,2,3.4,15.1
+WIG0154,2025-03-26,CUST2274,18-24,Port Harcourt,Pixie Wig,28,Blonde,44476,4,0,177904,POS,Instagram,Returning,Pending,Yes,3,3.4,35.8
+WIG0155,2025-04-07,CUST6754,35-45,Ibadan,Bob Wig,18,Natural Black,38155,4,5000,147620,Card,Walk-in,New,Delivered,No,1,4.6,16
+WIG0156,2025-01-24,CUST6536,35-45,Benin,Bone Straight,20,Burgundy,129226,1,10000,119226,Transfer,Facebook,New,Returned,No,2,3.1,24.9
+WIG0157,2025-05-27,CUST9043,18-24,Lagos,Curly,22,Blonde,104768,1,5000,99768,Transfer,Facebook,New,Pending,No,2,3.2,21.2
+WIG0158,2025-06-14,CUST9914,25-34,Abuja,Pixie Wig,18,Blonde,60863,3,0,182589,Card,WhatsApp,New,Pending,Yes,3,3.9,22.9
+WIG0159,2025-01-16,CUST7342,35-45,Ibadan,Water Wave,18,Ombre,134262,2,10000,258524,Card,Walk-in,New,Pending,No,1,3.8,40.6
+WIG0160,2025-02-19,CUST3067,18-24,Ibadan,Bone Straight,26,Natural Black,169870,2,0,339740,Card,TikTok,New,Returned,No,3,4.8,42.4
+WIG0161,2025-06-09,CUST9561,25-34,Lagos,Bone Straight,12,Burgundy,145868,1,15000,130868,POS,TikTok,New,Delivered,Yes,7,3.6,31.1
+WIG0162,2025-03-12,CUST7602,18-24,Benin,Bob Wig,22,Ombre,77912,1,0,77912,Card,Instagram,Returning,Pending,Yes,1,4.5,42.6
+WIG0163,2025-04-24,CUST6257,25-34,Enugu,Bob Wig,10,Burgundy,55378,2,0,110756,Transfer,TikTok,Returning,Delivered,No,6,4,30.5
+WIG0164,2025-05-26,CUST1474,18-24,Abuja,Bob Wig,10,Brown,39300,2,10000,68600,Transfer,TikTok,New,Pending,Yes,3,4.4,23.2
+WIG0165,2025-06-02,CUST8308,18-24,Kano,Water Wave,24,Burgundy,111711,3,5000,330133,Cash,WhatsApp,New,Pending,Yes,3,3.1,16.5
+WIG0166,2025-01-06,CUST1145,25-34,Abuja,Water Wave,28,Brown,115269,4,10000,451076,Transfer,TikTok,Returning,Returned,No,6,4.9,34.3
+WIG0167,2025-01-27,CUST1120,35-45,Enugu,Closure Wig,22,Blonde,78601,4,10000,304404,Cash,WhatsApp,New,Pending,Yes,3,5,34.2
+WIG0168,2025-03-23,CUST3292,35-45,Lagos,Water Wave,18,Burgundy,87441,4,15000,334764,Cash,WhatsApp,Returning,Pending,No,6,3.1,36.2
+WIG0169,2025-06-18,CUST3967,25-34,Lagos,Frontal Wig,16,Burgundy,153063,3,0,459189,POS,WhatsApp,New,Returned,No,6,3.2,25.7
+WIG0170,2025-01-14,CUST2166,25-34,Abuja,Pixie Wig,18,Ombre,49270,1,5000,44270,Transfer,Facebook,Returning,Pending,Yes,7,4.7,19.1
+WIG0171,2025-06-11,CUST3897,25-34,Enugu,Curly,20,Natural Black,129974,4,0,519896,Transfer,Facebook,Returning,Delivered,Yes,5,4.5,29.7
+WIG0172,2025-01-10,CUST9745,18-24,Enugu,Water Wave,12,Blonde,142573,4,0,570292,Transfer,WhatsApp,New,Delivered,Yes,6,4.5,21.8
+WIG0173,2025-03-18,CUST5764,25-34,Enugu,Bob Wig,18,Ombre,60136,1,0,60136,Cash,Facebook,New,Pending,No,3,4.5,19.9
+WIG0174,2025-04-04,CUST1612,25-34,Enugu,Water Wave,22,Blonde,146143,2,0,292286,Transfer,Walk-in,New,Returned,Yes,6,4.7,16.4
+WIG0175,2025-04-18,CUST2654,35-45,Benin,Bone Straight,22,Blonde,153237,1,0,153237,POS,Facebook,New,Returned,Yes,3,3.2,18.2
+WIG0176,2025-05-21,CUST9132,18-24,Enugu,Curly,28,Burgundy,104471,2,0,208942,Cash,TikTok,New,Delivered,Yes,1,4.7,35.1
+WIG0177,2025-04-29,CUST1820,18-24,Kano,Curly,12,Brown,79836,3,0,239508,Transfer,WhatsApp,Returning,Returned,No,4,4.5,17.8
+WIG0178,2025-01-24,CUST7105,25-34,Abuja,Water Wave,10,Natural Black,137372,3,15000,397116,Card,Facebook,Returning,Pending,No,6,4.7,39
+WIG0179,2025-06-23,CUST8178,18-24,Benin,Pixie Wig,14,Burgundy,36796,4,10000,137184,Cash,Walk-in,New,Returned,Yes,4,4.8,18.4
+WIG0180,2025-05-14,CUST2560,25-34,Enugu,Closure Wig,24,Brown,91187,3,10000,263561,Card,WhatsApp,Returning,Delivered,Yes,1,4.3,19.7
+WIG0181,2025-05-10,CUST4648,35-45,Enugu,Water Wave,24,Burgundy,123371,3,0,370113,Card,TikTok,New,Pending,No,7,4.1,17.6
+WIG0182,2025-05-21,CUST1002,18-24,Kano,Closure Wig,24,Ombre,52329,1,10000,42329,Cash,Walk-in,New,Returned,No,3,3.7,16.6
+WIG0183,2025-02-26,CUST1035,25-34,Port Harcourt,Curly,24,Blonde,132014,1,15000,117014,Cash,Instagram,New,Delivered,No,2,4.6,37.3
+WIG0184,2025-03-28,CUST2765,25-34,Lagos,Closure Wig,12,Ombre,65826,2,15000,116652,Transfer,Facebook,Returning,Returned,Yes,4,3,37.1
+WIG0185,2025-04-10,CUST6273,35-45,Ibadan,Frontal Wig,22,Burgundy,155677,2,0,311354,POS,WhatsApp,Returning,Pending,No,4,4.6,19.1
+WIG0186,2025-02-03,CUST3913,35-45,Benin,Frontal Wig,26,Blonde,91330,3,15000,258990,Transfer,WhatsApp,Returning,Returned,No,6,4.5,40.2
+WIG0187,2025-03-10,CUST3636,25-34,Enugu,Bob Wig,22,Blonde,41977,1,0,41977,POS,Instagram,Returning,Delivered,Yes,3,4.6,18.1
+WIG0188,2025-04-10,CUST7825,35-45,Port Harcourt,Water Wave,30,Ombre,117701,1,5000,112701,Transfer,Instagram,Returning,Delivered,No,7,3.5,34
+WIG0189,2025-02-14,CUST9418,18-24,Ibadan,Pixie Wig,30,Natural Black,59413,1,0,59413,Card,WhatsApp,Returning,Delivered,Yes,5,4.7,15.2
+WIG0190,2025-03-23,CUST9608,18-24,Abuja,Closure Wig,14,Ombre,56665,3,0,169995,Transfer,Walk-in,New,Pending,No,1,3.7,41.5
+WIG0191,2025-06-21,CUST6668,25-34,Abuja,Pixie Wig,20,Ombre,64766,1,0,64766,POS,Instagram,Returning,Pending,Yes,4,3.5,36.7
+WIG0192,2025-05-12,CUST2349,18-24,Abuja,Bone Straight,26,Ombre,144146,2,0,288292,Transfer,Instagram,New,Returned,Yes,7,4.4,40.1
+WIG0193,2025-01-19,CUST1889,18-24,Kano,Curly,26,Blonde,79452,1,0,79452,Transfer,Walk-in,New,Pending,No,4,3.9,27.1
+WIG0194,2025-05-09,CUST2738,25-34,Kano,Bob Wig,10,Blonde,70050,1,0,70050,Transfer,WhatsApp,Returning,Pending,No,7,4.3,29.2
+WIG0195,2025-05-22,CUST3316,18-24,Lagos,Frontal Wig,16,Natural Black,148105,3,0,444315,Card,Walk-in,New,Pending,Yes,6,4.5,36.8
+WIG0196,2025-02-16,CUST1891,35-45,Ibadan,Curly,22,Ombre,137181,2,0,274362,Transfer,WhatsApp,New,Pending,Yes,2,4.5,29.6
+WIG0197,2025-04-26,CUST6379,35-45,Enugu,Bob Wig,20,Blonde,41556,3,5000,119668,POS,Walk-in,Returning,Pending,No,2,3,22.4
+WIG0198,2025-04-02,CUST6004,25-34,Benin,Curly,30,Natural Black,106264,4,5000,420056,POS,Walk-in,New,Pending,Yes,5,3.4,37
+WIG0199,2025-05-22,CUST5269,35-45,Benin,Pixie Wig,12,Burgundy,67938,2,0,135876,POS,WhatsApp,Returning,Delivered,No,2,3.9,30.3
+WIG0200,2025-02-10,CUST3935,35-45,Benin,Closure Wig,20,Brown,81310,2,5000,157620,Card,WhatsApp,New,Delivered,No,2,3.1,26.1
+WIG0201,2025-03-24,CUST2691,35-45,Benin,Bone Straight,30,Blonde,122102,1,15000,107102,Cash,Walk-in,New,Pending,No,3,4.2,41.9
+WIG0202,2025-06-04,CUST1108,35-45,Abuja,Bone Straight,26,Burgundy,127975,4,5000,506900,POS,TikTok,New,Returned,No,2,3.3,19.7
+WIG0203,2025-02-11,CUST7732,18-24,Abuja,Frontal Wig,12,Natural Black,128113,2,10000,246226,POS,Walk-in,New,Delivered,Yes,5,3.3,20
+WIG0204,2025-02-13,CUST4594,25-34,Benin,Curly,26,Brown,72440,4,5000,284760,POS,Walk-in,Returning,Delivered,No,4,4.2,17.1
+WIG0205,2025-01-25,CUST3906,25-34,Benin,Closure Wig,22,Ombre,76522,2,10000,143044,Transfer,Walk-in,New,Delivered,No,6,3.3,33.1
+WIG0206,2025-04-08,CUST6742,35-45,Kano,Water Wave,10,Ombre,136224,2,5000,267448,Transfer,Facebook,New,Pending,No,7,3.5,40.8
+WIG0207,2025-01-02,CUST7144,35-45,Abuja,Bob Wig,28,Blonde,51895,1,10000,41895,Card,WhatsApp,New,Delivered,No,6,4.2,22.8
+WIG0208,2025-05-23,CUST8904,18-24,Port Harcourt,Frontal Wig,22,Ombre,154208,4,10000,606832,Card,WhatsApp,Returning,Returned,No,7,4.4,37.1
+WIG0209,2025-05-21,CUST1852,18-24,Ibadan,Water Wave,30,Natural Black,146629,4,0,586516,Transfer,TikTok,Returning,Returned,No,1,3.1,21.7
+WIG0210,2025-05-07,CUST8192,18-24,Abuja,Bone Straight,28,Ombre,99948,2,15000,184896,Cash,TikTok,New,Returned,Yes,5,3.3,16.1
+WIG0211,2025-02-21,CUST9482,18-24,Enugu,Curly,30,Natural Black,90636,4,10000,352544,Transfer,Walk-in,Returning,Returned,No,3,4.9,23.3
+WIG0212,2025-01-19,CUST9243,25-34,Port Harcourt,Frontal Wig,16,Natural Black,99223,1,10000,89223,Cash,Walk-in,Returning,Returned,No,4,4.1,38.1
+WIG0213,2025-06-12,CUST4610,35-45,Enugu,Water Wave,20,Brown,113792,1,5000,108792,Cash,Facebook,Returning,Returned,Yes,6,4.7,22.4
+WIG0214,2025-03-10,CUST3994,35-45,Enugu,Bone Straight,22,Brown,139825,2,10000,269650,Card,TikTok,New,Returned,Yes,7,3.5,21.9
+WIG0215,2025-01-11,CUST8901,25-34,Benin,Water Wave,16,Blonde,144574,1,10000,134574,Card,Walk-in,Returning,Pending,Yes,7,4.8,23.4
+WIG0216,2025-06-25,CUST3863,25-34,Lagos,Curly,28,Ombre,77097,3,5000,226291,Card,WhatsApp,New,Delivered,Yes,4,4.2,24.8
+WIG0217,2025-04-19,CUST4449,25-34,Enugu,Frontal Wig,18,Blonde,126780,2,5000,248560,Cash,Facebook,Returning,Pending,Yes,5,3.3,32.3
+WIG0218,2025-01-03,CUST3893,25-34,Ibadan,Curly,12,Brown,100907,2,5000,196814,Cash,Facebook,Returning,Pending,Yes,4,3.2,19.9
+WIG0219,2025-01-06,CUST7746,18-24,Port Harcourt,Curly,18,Ombre,82622,3,0,247866,POS,Walk-in,New,Pending,No,3,4.3,29.6
+WIG0220,2025-06-11,CUST7631,18-24,Lagos,Pixie Wig,24,Brown,39492,3,5000,113476,Cash,TikTok,Returning,Pending,No,6,3.5,34.3
+WIG0221,2025-03-02,CUST5122,35-45,Enugu,Bob Wig,24,Natural Black,64510,2,15000,114020,POS,TikTok,Returning,Delivered,Yes,1,4.9,29.2
+WIG0222,2025-02-28,CUST5053,35-45,Port Harcourt,Bone Straight,10,Burgundy,147037,4,0,588148,POS,TikTok,New,Delivered,Yes,6,3.7,42.5
+WIG0223,2025-06-12,CUST8126,35-45,Enugu,Water Wave,24,Ombre,103204,4,15000,397816,Cash,WhatsApp,Returning,Returned,Yes,7,3.2,24.2
+WIG0224,2025-05-17,CUST1136,35-45,Ibadan,Closure Wig,18,Burgundy,50012,3,5000,145036,Cash,Instagram,Returning,Pending,Yes,7,3,26.2
+WIG0225,2025-01-21,CUST7917,35-45,Abuja,Closure Wig,26,Ombre,71400,2,0,142800,Cash,WhatsApp,Returning,Pending,Yes,7,3.1,19.1
+WIG0226,2025-05-17,CUST1362,18-24,Lagos,Bone Straight,30,Blonde,154682,2,0,309364,Cash,TikTok,Returning,Returned,Yes,2,3.2,15.4
+WIG0227,2025-01-15,CUST5366,25-34,Lagos,Curly,20,Ombre,110838,1,0,110838,Card,TikTok,New,Pending,No,7,3,44.2
+WIG0228,2025-04-10,CUST6113,25-34,Abuja,Pixie Wig,16,Natural Black,60201,2,5000,115402,Transfer,WhatsApp,Returning,Returned,No,2,3.7,16.6
+WIG0229,2025-01-31,CUST7484,18-24,Lagos,Pixie Wig,16,Natural Black,30987,3,10000,82961,Card,Walk-in,New,Pending,Yes,2,3.3,17.7
+WIG0230,2025-03-01,CUST6189,35-45,Kano,Frontal Wig,20,Blonde,149485,2,5000,293970,Card,TikTok,New,Returned,No,3,4.4,22.5
+WIG0231,2025-04-30,CUST5510,35-45,Kano,Bone Straight,24,Ombre,152344,3,0,457032,POS,Instagram,New,Pending,No,7,3.5,26
+WIG0232,2025-01-17,CUST9830,25-34,Abuja,Bone Straight,30,Ombre,161316,3,15000,468948,Card,Walk-in,New,Returned,No,3,3.8,24.7
+WIG0233,2025-01-26,CUST1521,35-45,Enugu,Bone Straight,26,Burgundy,103739,4,0,414956,Card,Walk-in,Returning,Delivered,No,2,4.2,17.1
+WIG0234,2025-01-15,CUST5355,35-45,Lagos,Curly,30,Natural Black,80480,3,15000,226440,Cash,Instagram,New,Returned,Yes,1,4.5,30.9
+WIG0235,2025-05-28,CUST6864,35-45,Ibadan,Curly,16,Burgundy,102605,1,15000,87605,Transfer,TikTok,New,Returned,No,5,3.7,19.7
+WIG0236,2025-03-03,CUST9939,18-24,Ibadan,Frontal Wig,24,Ombre,113722,3,10000,331166,Cash,WhatsApp,Returning,Pending,No,1,4.5,44.5
+WIG0237,2025-06-26,CUST5521,35-45,Benin,Frontal Wig,10,Ombre,104365,3,0,313095,POS,Instagram,New,Pending,No,2,3.3,26
+WIG0238,2025-03-25,CUST8905,18-24,Ibadan,Frontal Wig,16,Ombre,139774,1,15000,124774,Transfer,Walk-in,Returning,Delivered,No,1,4.6,42.7
+WIG0239,2025-03-20,CUST9591,18-24,Port Harcourt,Bob Wig,20,Ombre,42899,4,0,171596,POS,WhatsApp,New,Delivered,Yes,6,4.5,26.8
+WIG0240,2025-03-28,CUST2352,25-34,Benin,Closure Wig,28,Natural Black,79109,2,0,158218,Card,WhatsApp,New,Pending,No,7,4.4,37.9
+WIG0241,2025-03-10,CUST8046,25-34,Enugu,Closure Wig,26,Ombre,75703,2,0,151406,Transfer,Instagram,Returning,Pending,No,3,3.4,25.3
+WIG0242,2025-02-21,CUST7124,18-24,Kano,Pixie Wig,10,Natural Black,39556,1,0,39556,Transfer,Instagram,New,Returned,Yes,7,4.7,23.6
+WIG0243,2025-05-14,CUST5237,35-45,Ibadan,Bob Wig,12,Ombre,65879,2,10000,121758,POS,Instagram,Returning,Returned,Yes,3,3.3,23.5
+WIG0244,2025-01-05,CUST5792,35-45,Ibadan,Water Wave,28,Brown,115561,3,0,346683,Card,Walk-in,New,Pending,No,7,4.2,17.6
+WIG0245,2025-02-10,CUST1301,25-34,Enugu,Curly,26,Blonde,72816,4,5000,286264,Cash,WhatsApp,New,Returned,No,7,3.1,22.7
+WIG0246,2025-04-08,CUST9531,35-45,Benin,Closure Wig,10,Brown,69884,1,15000,54884,Card,TikTok,New,Pending,No,5,3.7,31.3
+WIG0247,2025-06-17,CUST3589,25-34,Lagos,Curly,30,Ombre,96517,4,0,386068,Transfer,TikTok,Returning,Delivered,Yes,7,3.6,44.2
+WIG0248,2025-06-07,CUST5372,35-45,Benin,Closure Wig,18,Ombre,74632,1,10000,64632,POS,Walk-in,New,Delivered,Yes,3,3.2,38.4
+WIG0249,2025-02-11,CUST4166,18-24,Lagos,Curly,26,Burgundy,131441,4,0,525764,Transfer,WhatsApp,Returning,Delivered,Yes,7,3.4,20.3
+WIG0250,2025-03-22,CUST7457,35-45,Enugu,Closure Wig,28,Ombre,82346,4,15000,314384,Transfer,Walk-in,New,Pending,No,7,4.8,41.3
+WIG0251,2025-03-16,CUST8201,25-34,Port Harcourt,Curly,26,Blonde,121853,1,0,121853,Card,TikTok,Returning,Pending,Yes,6,4,19.3
+WIG0252,2025-03-24,CUST8387,18-24,Abuja,Water Wave,30,Burgundy,97734,4,5000,385936,POS,Facebook,New,Pending,No,6,4.3,36.3
+WIG0253,2025-05-11,CUST3619,25-34,Benin,Curly,12,Burgundy,84963,4,15000,324852,Transfer,TikTok,Returning,Returned,Yes,2,4.7,20.4
+WIG0254,2025-01-01,CUST5146,18-24,Ibadan,Pixie Wig,10,Burgundy,41842,2,0,83684,Card,Walk-in,New,Returned,No,2,3.4,34.8
+WIG0255,2025-02-17,CUST3429,18-24,Enugu,Closure Wig,22,Blonde,50861,2,0,101722,Transfer,TikTok,New,Returned,No,3,4.8,16.5
+WIG0256,2025-03-18,CUST6289,25-34,Ibadan,Closure Wig,14,Natural Black,73254,1,0,73254,Card,Walk-in,New,Pending,No,2,3.2,40.8
+WIG0257,2025-06-26,CUST5705,25-34,Benin,Bob Wig,26,Blonde,48752,1,5000,43752,Cash,Walk-in,Returning,Delivered,No,5,4.5,29.9
+WIG0258,2025-06-10,CUST2932,35-45,Kano,Water Wave,14,Brown,95493,1,5000,90493,Card,Facebook,New,Pending,No,5,4.6,21.4
+WIG0259,2025-06-25,CUST6460,25-34,Ibadan,Pixie Wig,16,Ombre,63206,1,0,63206,Transfer,TikTok,New,Pending,No,6,4,29.2
+WIG0260,2025-01-15,CUST9537,25-34,Benin,Bone Straight,30,Blonde,112793,4,15000,436172,Transfer,TikTok,Returning,Pending,Yes,2,3.6,15.9
+WIG0261,2025-03-22,CUST1518,25-34,Ibadan,Closure Wig,30,Natural Black,101061,3,15000,288183,Card,TikTok,Returning,Pending,No,2,4.1,20.3
+WIG0262,2025-03-29,CUST8921,35-45,Kano,Bob Wig,10,Ombre,64083,2,0,128166,Cash,WhatsApp,New,Delivered,Yes,2,4.4,28.8
+WIG0263,2025-01-12,CUST2689,35-45,Kano,Pixie Wig,26,Blonde,68947,3,5000,201841,Transfer,Walk-in,Returning,Returned,Yes,3,3.4,23.6
+WIG0264,2025-05-24,CUST9422,18-24,Abuja,Frontal Wig,20,Ombre,85643,1,10000,75643,Cash,Walk-in,Returning,Pending,Yes,6,4.6,32.2
+WIG0265,2025-01-13,CUST2735,25-34,Lagos,Curly,12,Natural Black,114399,4,15000,442596,Card,Facebook,New,Returned,No,5,3.7,25
+WIG0266,2025-04-27,CUST6085,35-45,Enugu,Curly,30,Burgundy,80295,4,0,321180,Card,TikTok,New,Delivered,No,3,3.8,36
+WIG0267,2025-04-29,CUST3798,25-34,Kano,Pixie Wig,20,Blonde,61151,3,5000,178453,POS,Walk-in,New,Pending,Yes,3,4.1,17.1
+WIG0268,2025-01-17,CUST6582,18-24,Kano,Bob Wig,26,Ombre,73701,4,5000,289804,Card,Facebook,Returning,Returned,Yes,2,4.3,17.3
+WIG0269,2025-03-20,CUST7648,18-24,Benin,Pixie Wig,28,Natural Black,66378,4,0,265512,Card,WhatsApp,Returning,Returned,Yes,1,3.4,19.2
+WIG0270,2025-05-28,CUST8326,18-24,Abuja,Frontal Wig,30,Blonde,124372,4,10000,487488,Cash,Walk-in,Returning,Pending,No,1,4.2,33.3
+WIG0271,2025-03-14,CUST1510,18-24,Ibadan,Frontal Wig,22,Ombre,136943,3,0,410829,Card,WhatsApp,Returning,Pending,No,4,4.1,34.9
+WIG0272,2025-01-19,CUST1257,18-24,Enugu,Closure Wig,14,Burgundy,104687,2,0,209374,Card,TikTok,New,Delivered,No,7,3.9,38.7
+WIG0273,2025-02-27,CUST4044,25-34,Benin,Frontal Wig,22,Natural Black,120590,4,0,482360,Card,TikTok,Returning,Pending,No,1,5,32
+WIG0274,2025-01-21,CUST9574,35-45,Lagos,Pixie Wig,20,Brown,64498,4,10000,247992,Card,Instagram,Returning,Returned,Yes,3,4.1,15.3
+WIG0275,2025-06-02,CUST5981,35-45,Kano,Closure Wig,26,Ombre,96257,1,15000,81257,Cash,Instagram,Returning,Returned,Yes,5,3.1,44.7
+WIG0276,2025-02-03,CUST5603,25-34,Kano,Water Wave,28,Blonde,90074,3,0,270222,Transfer,Instagram,New,Returned,Yes,6,3.9,39.2
+WIG0277,2025-04-16,CUST7277,18-24,Enugu,Bob Wig,16,Burgundy,69562,2,5000,134124,POS,TikTok,Returning,Delivered,No,7,4.6,16.6
+WIG0278,2025-02-07,CUST9690,25-34,Lagos,Closure Wig,22,Blonde,119798,4,0,479192,Card,Facebook,Returning,Returned,Yes,1,4.8,34.1
+WIG0279,2025-06-22,CUST4961,35-45,Enugu,Water Wave,22,Ombre,113468,4,5000,448872,POS,Walk-in,Returning,Returned,Yes,3,4.1,35.2
+WIG0280,2025-03-14,CUST5127,18-24,Lagos,Water Wave,12,Natural Black,126073,2,15000,237146,Transfer,Instagram,New,Returned,Yes,6,4.9,17.6
+WIG0281,2025-04-27,CUST5528,25-34,Enugu,Frontal Wig,14,Blonde,98205,1,15000,83205,Cash,TikTok,New,Pending,Yes,4,3.8,44.9
+WIG0282,2025-05-06,CUST2776,18-24,Benin,Bob Wig,18,Burgundy,39548,2,15000,64096,POS,Walk-in,New,Pending,No,1,3.1,17.1
+WIG0283,2025-02-08,CUST6403,25-34,Benin,Pixie Wig,18,Natural Black,30056,4,0,120224,Card,Facebook,Returning,Pending,Yes,5,3.5,26.5
+WIG0284,2025-03-29,CUST2318,25-34,Kano,Pixie Wig,24,Blonde,33617,3,10000,90851,POS,TikTok,New,Pending,Yes,3,4.4,41.9
+WIG0285,2025-06-01,CUST4907,25-34,Ibadan,Pixie Wig,20,Natural Black,39171,2,0,78342,Cash,Facebook,Returning,Delivered,Yes,3,3.1,38.6
+WIG0286,2025-01-10,CUST3319,25-34,Enugu,Bone Straight,22,Natural Black,110491,2,0,220982,Card,Walk-in,New,Delivered,Yes,1,3.3,16.5
+WIG0287,2025-02-21,CUST7983,25-34,Kano,Bob Wig,12,Burgundy,73734,2,0,147468,Cash,Instagram,New,Pending,Yes,7,3.1,20.2
+WIG0288,2025-05-29,CUST1666,18-24,Lagos,Bone Straight,12,Ombre,130899,4,0,523596,Card,TikTok,New,Pending,Yes,1,3,42.8
+WIG0289,2025-03-11,CUST9570,25-34,Ibadan,Pixie Wig,30,Brown,38316,2,15000,61632,POS,Walk-in,New,Returned,Yes,6,4,43.5
+WIG0290,2025-04-03,CUST9842,35-45,Abuja,Pixie Wig,18,Burgundy,37700,1,10000,27700,POS,WhatsApp,New,Delivered,Yes,7,3.3,40.3
+WIG0291,2025-03-06,CUST6477,35-45,Kano,Closure Wig,24,Burgundy,55651,2,5000,106302,Transfer,Instagram,New,Returned,Yes,2,4.6,29.6
+WIG0292,2025-03-25,CUST4731,18-24,Abuja,Bone Straight,12,Burgundy,125841,2,0,251682,POS,Facebook,New,Delivered,No,5,4,41.7
+WIG0293,2025-04-02,CUST5418,18-24,Port Harcourt,Curly,16,Brown,129636,2,15000,244272,Transfer,Walk-in,New,Pending,Yes,1,4.7,28.8
+WIG0294,2025-05-14,CUST9015,18-24,Benin,Curly,20,Burgundy,108687,1,5000,103687,Card,WhatsApp,New,Returned,No,6,4.7,22.4
+WIG0295,2025-05-10,CUST1550,25-34,Benin,Closure Wig,28,Burgundy,50665,4,15000,187660,Card,Instagram,Returning,Pending,Yes,1,4.1,15.4
+WIG0296,2025-03-20,CUST3650,35-45,Ibadan,Pixie Wig,22,Ombre,35946,4,15000,128784,Transfer,Facebook,Returning,Delivered,No,2,4.6,26.1
+WIG0297,2025-06-28,CUST9887,35-45,Kano,Closure Wig,30,Brown,93634,4,0,374536,Transfer,Walk-in,Returning,Returned,Yes,5,4.9,35.2
+WIG0298,2025-02-22,CUST3267,25-34,Abuja,Bone Straight,12,Ombre,145194,1,10000,135194,Transfer,Facebook,New,Returned,Yes,3,3.7,23
+WIG0299,2025-05-17,CUST9730,25-34,Ibadan,Pixie Wig,22,Ombre,59649,1,5000,54649,Cash,Instagram,New,Pending,Yes,1,3.8,20.4
+WIG0300,2025-04-17,CUST9870,18-24,Ibadan,Bone Straight,12,Blonde,116596,1,0,116596,Card,Facebook,New,Pending,Yes,1,3,39.1
+WIG0301,2025-03-19,CUST3161,25-34,Abuja,Water Wave,26,Blonde,143720,4,5000,569880,POS,Facebook,Returning,Pending,Yes,2,3.7,28.7
+WIG0302,2025-01-11,CUST6187,35-45,Abuja,Curly,28,Burgundy,107387,2,0,214774,Cash,WhatsApp,New,Delivered,Yes,6,3.6,25.3
+WIG0303,2025-04-28,CUST6246,18-24,Lagos,Bob Wig,24,Ombre,69972,4,0,279888,Cash,WhatsApp,Returning,Pending,Yes,7,4.1,42.2
+WIG0304,2025-04-13,CUST4610,25-34,Port Harcourt,Closure Wig,20,Natural Black,68274,3,0,204822,Cash,Instagram,New,Returned,Yes,7,4.9,23.3
+WIG0305,2025-06-04,CUST9381,18-24,Enugu,Bone Straight,12,Blonde,165570,4,0,662280,Card,TikTok,Returning,Pending,No,3,3,25.3
+WIG0306,2025-04-19,CUST7786,18-24,Kano,Bob Wig,24,Ombre,49135,2,15000,83270,Transfer,TikTok,New,Pending,No,7,4.1,25.1
+WIG0307,2025-02-17,CUST7254,25-34,Benin,Frontal Wig,22,Burgundy,119331,2,0,238662,Transfer,WhatsApp,Returning,Pending,No,2,3.1,15.1
+WIG0308,2025-01-31,CUST5541,25-34,Lagos,Bob Wig,18,Ombre,43138,2,0,86276,Cash,Walk-in,Returning,Returned,No,7,3.5,35.6
+WIG0309,2025-04-29,CUST3219,25-34,Abuja,Pixie Wig,12,Natural Black,40672,2,0,81344,Cash,WhatsApp,Returning,Returned,No,1,3.6,30.9
+WIG0310,2025-06-25,CUST6939,18-24,Benin,Bone Straight,26,Ombre,120403,3,0,361209,Cash,TikTok,New,Delivered,No,3,4.6,27.4
+WIG0311,2025-04-28,CUST2251,18-24,Kano,Curly,12,Brown,90257,1,5000,85257,Transfer,Facebook,Returning,Pending,No,2,4.6,41.7
+WIG0312,2025-02-06,CUST4712,25-34,Abuja,Frontal Wig,26,Brown,68769,2,15000,122538,POS,Instagram,Returning,Returned,Yes,1,3,29.5
+WIG0313,2025-01-12,CUST2085,25-34,Enugu,Closure Wig,10,Natural Black,117302,1,0,117302,Transfer,Instagram,New,Returned,Yes,2,4.3,15.9
+WIG0314,2025-05-29,CUST1229,35-45,Abuja,Curly,18,Brown,115591,1,0,115591,Cash,TikTok,New,Returned,Yes,2,4.8,40.5
+WIG0315,2025-05-12,CUST4728,25-34,Lagos,Closure Wig,20,Blonde,64067,4,0,256268,Transfer,Facebook,New,Returned,Yes,4,4.5,36.1
+WIG0316,2025-04-24,CUST4700,35-45,Ibadan,Frontal Wig,10,Blonde,115434,3,15000,331302,Card,TikTok,New,Pending,No,2,3,35.2
+WIG0317,2025-06-01,CUST2666,35-45,Abuja,Pixie Wig,12,Natural Black,39395,4,15000,142580,Cash,TikTok,Returning,Delivered,No,1,3.5,27.7
+WIG0318,2025-03-13,CUST3414,25-34,Lagos,Closure Wig,18,Natural Black,102459,4,10000,399836,Cash,Facebook,Returning,Delivered,Yes,1,3.2,16.6
+WIG0319,2025-05-14,CUST9064,25-34,Abuja,Bone Straight,24,Blonde,98506,1,15000,83506,Card,Facebook,Returning,Returned,No,7,4.7,31.4
+WIG0320,2025-01-09,CUST3897,35-45,Enugu,Water Wave,10,Blonde,138006,4,0,552024,POS,Facebook,Returning,Delivered,No,6,3.8,37.9
+WIG0321,2025-06-01,CUST7189,35-45,Enugu,Frontal Wig,30,Blonde,131412,3,5000,389236,Cash,WhatsApp,New,Delivered,Yes,2,4.7,25.5
+WIG0322,2025-01-15,CUST5001,18-24,Abuja,Pixie Wig,28,Blonde,52619,4,0,210476,Transfer,Instagram,Returning,Delivered,No,2,3,24.8
+WIG0323,2025-05-27,CUST7394,25-34,Benin,Closure Wig,30,Natural Black,84946,3,5000,249838,Card,Instagram,New,Pending,No,5,4.6,35
+WIG0324,2025-01-13,CUST5871,35-45,Ibadan,Curly,28,Brown,117622,3,0,352866,Transfer,Walk-in,New,Returned,No,3,3.1,39
+WIG0325,2025-04-17,CUST7591,25-34,Benin,Closure Wig,22,Ombre,89563,3,0,268689,Card,Walk-in,New,Delivered,Yes,5,4,34.8
+WIG0326,2025-04-29,CUST3420,18-24,Abuja,Water Wave,24,Blonde,148454,2,0,296908,Card,Facebook,Returning,Delivered,Yes,7,3.8,39.7
+WIG0327,2025-03-21,CUST8604,25-34,Benin,Pixie Wig,14,Burgundy,39827,1,0,39827,Card,Instagram,New,Delivered,No,2,3.1,38.7
+WIG0328,2025-03-22,CUST5882,18-24,Ibadan,Bob Wig,30,Blonde,77224,1,0,77224,Transfer,Facebook,New,Delivered,Yes,5,4.5,43
+WIG0329,2025-05-30,CUST7388,35-45,Enugu,Frontal Wig,30,Brown,76829,3,0,230487,Card,TikTok,New,Delivered,Yes,2,4.9,28.2
+WIG0330,2025-06-24,CUST5036,25-34,Kano,Bob Wig,28,Brown,69961,4,5000,274844,Cash,Facebook,Returning,Pending,Yes,6,4.9,33.2
+WIG0331,2025-04-10,CUST1128,25-34,Port Harcourt,Water Wave,30,Blonde,95997,2,5000,186994,Transfer,TikTok,Returning,Delivered,Yes,4,4.3,41.4
+WIG0332,2025-04-19,CUST2644,18-24,Enugu,Water Wave,30,Blonde,134127,3,15000,387381,Transfer,WhatsApp,Returning,Returned,No,4,4.4,37.9
+WIG0333,2025-05-28,CUST2347,18-24,Abuja,Pixie Wig,30,Brown,56257,3,0,168771,POS,Walk-in,Returning,Pending,No,4,4.7,19
+WIG0334,2025-04-07,CUST4677,18-24,Lagos,Curly,30,Ombre,112936,2,5000,220872,POS,Instagram,Returning,Delivered,No,6,4.7,16.5
+WIG0335,2025-05-15,CUST8129,25-34,Kano,Frontal Wig,22,Burgundy,113224,1,15000,98224,Transfer,TikTok,New,Delivered,No,3,4.5,26.5
+WIG0336,2025-03-16,CUST5289,18-24,Benin,Closure Wig,16,Burgundy,74820,2,0,149640,POS,WhatsApp,Returning,Delivered,Yes,4,3.3,24.7
+WIG0337,2025-01-16,CUST1853,25-34,Abuja,Pixie Wig,22,Burgundy,46792,1,10000,36792,Cash,Walk-in,New,Delivered,No,5,4.2,24.1
+WIG0338,2025-05-07,CUST6557,25-34,Abuja,Closure Wig,30,Natural Black,55390,2,10000,100780,Cash,Walk-in,Returning,Delivered,No,1,3.6,44.4
+WIG0339,2025-02-12,CUST6169,35-45,Ibadan,Closure Wig,18,Brown,84500,3,5000,248500,Card,Instagram,New,Delivered,Yes,2,3.4,29.1
+WIG0340,2025-01-29,CUST3425,18-24,Port Harcourt,Curly,24,Natural Black,85207,4,5000,335828,POS,WhatsApp,New,Delivered,No,5,4.8,32.6
+WIG0341,2025-03-14,CUST2998,25-34,Port Harcourt,Frontal Wig,10,Ombre,97264,3,0,291792,Transfer,WhatsApp,New,Delivered,Yes,4,4.7,34.8
+WIG0342,2025-01-13,CUST5635,25-34,Kano,Closure Wig,30,Natural Black,55747,2,0,111494,Transfer,Walk-in,Returning,Delivered,No,3,3.4,44
+WIG0343,2025-03-18,CUST9042,25-34,Enugu,Water Wave,22,Blonde,117347,2,0,234694,POS,WhatsApp,New,Pending,Yes,4,3.9,26.6
+WIG0344,2025-01-11,CUST9410,25-34,Ibadan,Bob Wig,28,Brown,40912,4,0,163648,POS,Facebook,New,Pending,No,4,3.2,39
+WIG0345,2025-05-12,CUST2763,35-45,Ibadan,Bob Wig,14,Burgundy,51295,1,0,51295,Transfer,Facebook,Returning,Pending,No,5,3.2,30.1
+WIG0346,2025-05-31,CUST8454,35-45,Ibadan,Bone Straight,30,Ombre,155670,3,0,467010,Cash,WhatsApp,New,Delivered,Yes,1,4.5,33.1
+WIG0347,2025-06-17,CUST8817,25-34,Enugu,Water Wave,30,Burgundy,95293,1,0,95293,Card,WhatsApp,Returning,Returned,No,7,3.6,18.8
+WIG0348,2025-03-03,CUST8139,35-45,Kano,Bone Straight,16,Ombre,109668,2,15000,204336,POS,Instagram,Returning,Pending,Yes,4,3.8,18.5
+WIG0349,2025-04-11,CUST1834,25-34,Lagos,Curly,24,Natural Black,131799,3,10000,385397,Card,Facebook,Returning,Returned,No,1,4,29.6
+WIG0350,2025-01-17,CUST5388,35-45,Ibadan,Frontal Wig,28,Burgundy,134246,3,10000,392738,Transfer,Facebook,Returning,Pending,No,1,3.3,36.8
+WIG0351,2025-04-10,CUST7829,35-45,Enugu,Closure Wig,20,Blonde,78796,2,0,157592,Card,TikTok,New,Pending,Yes,6,4,20.2
+WIG0352,2025-04-02,CUST5273,25-34,Enugu,Curly,28,Brown,83225,1,0,83225,POS,Walk-in,New,Delivered,No,4,3.2,21.8
+WIG0353,2025-05-12,CUST2706,35-45,Lagos,Frontal Wig,16,Burgundy,71117,2,15000,127234,Card,Instagram,New,Returned,Yes,7,4.1,30.2
+WIG0354,2025-01-26,CUST3527,35-45,Port Harcourt,Curly,30,Blonde,96920,4,15000,372680,POS,Instagram,New,Pending,No,7,4.5,22.4
+WIG0355,2025-06-11,CUST5021,18-24,Kano,Water Wave,24,Ombre,128815,4,0,515260,Card,TikTok,New,Pending,No,4,4.8,43.6
+WIG0356,2025-03-22,CUST7580,18-24,Ibadan,Frontal Wig,30,Natural Black,66303,1,0,66303,Card,Instagram,New,Returned,Yes,6,5,39
+WIG0357,2025-05-16,CUST3406,35-45,Ibadan,Frontal Wig,18,Burgundy,159575,1,0,159575,POS,Walk-in,Returning,Returned,No,7,4.6,27.1
+WIG0358,2025-01-24,CUST9383,35-45,Port Harcourt,Curly,18,Ombre,74845,3,0,224535,Cash,TikTok,New,Delivered,No,2,4.7,24.1
+WIG0359,2025-06-16,CUST3043,25-34,Port Harcourt,Closure Wig,26,Ombre,84046,1,0,84046,Transfer,Facebook,Returning,Delivered,Yes,3,3.6,35
+WIG0360,2025-04-27,CUST2605,18-24,Enugu,Water Wave,28,Burgundy,147692,2,0,295384,Card,Instagram,New,Delivered,No,2,4,28.4
+WIG0361,2025-06-26,CUST9020,35-45,Ibadan,Bob Wig,30,Brown,73550,4,5000,289200,POS,Walk-in,New,Pending,No,2,4.9,30.4
+WIG0362,2025-04-15,CUST2807,18-24,Port Harcourt,Frontal Wig,12,Ombre,85557,1,10000,75557,Cash,Instagram,New,Delivered,No,3,5,24.1
+WIG0363,2025-05-06,CUST1034,18-24,Benin,Closure Wig,10,Blonde,105280,2,0,210560,Transfer,Instagram,Returning,Pending,No,5,3.9,25.1
+WIG0364,2025-03-25,CUST2463,35-45,Enugu,Closure Wig,24,Ombre,68156,4,0,272624,Card,Facebook,New,Pending,No,5,3.1,35.1
+WIG0365,2025-06-08,CUST9877,35-45,Kano,Closure Wig,18,Natural Black,53251,1,0,53251,POS,Facebook,New,Delivered,Yes,1,3.5,21.2
+WIG0366,2025-03-29,CUST8160,18-24,Ibadan,Water Wave,28,Natural Black,85896,4,0,343584,Cash,Facebook,Returning,Delivered,Yes,1,4.1,23.6
+WIG0367,2025-01-07,CUST1958,25-34,Ibadan,Curly,18,Natural Black,90214,3,0,270642,Cash,TikTok,Returning,Pending,No,4,4.9,42
+WIG0368,2025-03-23,CUST8615,35-45,Ibadan,Bone Straight,16,Natural Black,126407,3,0,379221,Card,Instagram,Returning,Returned,Yes,1,3.5,43.9
+WIG0369,2025-04-06,CUST9854,18-24,Kano,Pixie Wig,12,Brown,35499,2,0,70998,Card,Walk-in,Returning,Delivered,Yes,7,3.9,39.9
+WIG0370,2025-06-11,CUST4485,35-45,Kano,Bob Wig,30,Ombre,38943,4,0,155772,Cash,Instagram,New,Returned,Yes,3,3.2,36
+WIG0371,2025-03-08,CUST8417,25-34,Abuja,Water Wave,14,Blonde,121720,3,15000,350160,Cash,TikTok,Returning,Returned,No,1,4.8,19
+WIG0372,2025-01-21,CUST2270,35-45,Lagos,Bone Straight,28,Burgundy,157459,4,10000,619836,Transfer,WhatsApp,Returning,Returned,No,4,3.4,38
+WIG0373,2025-06-24,CUST6862,18-24,Lagos,Pixie Wig,10,Ombre,30613,1,0,30613,Cash,TikTok,New,Pending,No,1,3.6,42.1
+WIG0374,2025-05-22,CUST4174,35-45,Enugu,Pixie Wig,28,Ombre,48176,4,0,192704,POS,Instagram,New,Returned,Yes,2,3.5,32.1
+WIG0375,2025-04-20,CUST1849,25-34,Ibadan,Curly,26,Burgundy,95146,4,0,380584,Cash,Instagram,Returning,Pending,No,5,4.5,41.5
+WIG0376,2025-01-21,CUST1415,35-45,Abuja,Curly,10,Burgundy,125058,2,0,250116,Transfer,TikTok,New,Delivered,No,3,3.1,33.8
+WIG0377,2025-03-29,CUST1891,25-34,Benin,Bone Straight,24,Brown,151616,4,0,606464,Transfer,Walk-in,Returning,Delivered,No,5,3.2,44.2
+WIG0378,2025-01-27,CUST1914,35-45,Lagos,Bone Straight,22,Blonde,136062,4,0,544248,Card,Facebook,New,Returned,No,2,4.7,38.6
+WIG0379,2025-05-13,CUST6377,35-45,Abuja,Frontal Wig,10,Natural Black,146292,1,5000,141292,Transfer,Instagram,New,Returned,Yes,5,3.3,30.3
+WIG0380,2025-05-30,CUST8140,35-45,Enugu,Bob Wig,22,Blonde,47184,2,0,94368,Cash,Walk-in,New,Delivered,No,3,4.2,23.7
+WIG0381,2025-02-20,CUST4282,35-45,Abuja,Bone Straight,26,Natural Black,171865,4,0,687460,Cash,TikTok,Returning,Returned,No,5,4.4,40.6
+WIG0382,2025-02-26,CUST1060,35-45,Abuja,Frontal Wig,20,Brown,86270,1,5000,81270,Card,Walk-in,New,Delivered,No,6,4.5,39.4
+WIG0383,2025-05-23,CUST2887,18-24,Port Harcourt,Water Wave,22,Burgundy,89664,3,0,268992,POS,Walk-in,Returning,Delivered,Yes,2,3.4,20.2
+WIG0384,2025-06-23,CUST3248,25-34,Enugu,Bob Wig,14,Natural Black,46700,1,0,46700,Cash,TikTok,Returning,Pending,Yes,3,4.6,34.8
+WIG0385,2025-04-06,CUST6209,35-45,Ibadan,Frontal Wig,28,Brown,82143,4,15000,313572,Transfer,Walk-in,New,Returned,No,7,3.3,22.4
+WIG0386,2025-05-11,CUST7358,35-45,Kano,Pixie Wig,18,Ombre,35335,1,0,35335,Cash,Facebook,Returning,Delivered,No,6,3.7,35.8
+WIG0387,2025-02-21,CUST8406,18-24,Ibadan,Pixie Wig,24,Brown,68271,2,0,136542,Cash,Facebook,Returning,Returned,Yes,7,3.7,31.5
+WIG0388,2025-06-09,CUST6511,25-34,Ibadan,Curly,12,Burgundy,128262,4,10000,503048,Card,Facebook,Returning,Pending,No,3,3.8,20.4
+WIG0389,2025-02-28,CUST2612,18-24,Lagos,Curly,18,Blonde,79946,1,0,79946,Transfer,Walk-in,New,Pending,Yes,6,3.7,24.1
+WIG0390,2025-03-14,CUST6679,25-34,Ibadan,Water Wave,30,Ombre,114227,1,0,114227,Transfer,Facebook,New,Pending,Yes,2,4.4,21.3
+WIG0391,2025-06-28,CUST7843,18-24,Ibadan,Curly,26,Burgundy,131438,2,5000,257876,Transfer,WhatsApp,New,Returned,Yes,3,4.9,15.3
+WIG0392,2025-01-06,CUST1527,18-24,Abuja,Water Wave,30,Blonde,119274,3,10000,347822,Card,Facebook,New,Pending,Yes,5,3.8,29.2
+WIG0393,2025-06-04,CUST9005,18-24,Abuja,Bob Wig,28,Brown,41110,1,15000,26110,Transfer,Facebook,Returning,Delivered,Yes,3,4.3,17.1
+WIG0394,2025-05-18,CUST7855,25-34,Enugu,Bone Straight,20,Natural Black,162964,1,0,162964,Card,TikTok,New,Delivered,No,4,4.6,34.9
+WIG0395,2025-02-06,CUST8302,18-24,Kano,Curly,28,Burgundy,110673,2,0,221346,POS,Walk-in,Returning,Returned,No,4,3.9,16.2
+WIG0396,2025-06-08,CUST8079,25-34,Ibadan,Bone Straight,18,Brown,179711,2,0,359422,Transfer,Facebook,New,Delivered,Yes,3,4.8,31.1
+WIG0397,2025-04-26,CUST3700,25-34,Abuja,Pixie Wig,12,Ombre,35015,3,5000,100045,Transfer,Facebook,New,Delivered,No,4,3.7,27
+WIG0398,2025-04-29,CUST2117,18-24,Benin,Curly,22,Brown,71407,4,5000,280628,Card,TikTok,Returning,Pending,Yes,2,4.7,33.2
+WIG0399,2025-04-02,CUST3915,18-24,Enugu,Curly,18,Natural Black,121229,2,5000,237458,POS,Facebook,New,Returned,Yes,4,4.4,28.3
+WIG0400,2025-04-18,CUST1457,18-24,Port Harcourt,Frontal Wig,10,Brown,114105,1,0,114105,Transfer,TikTok,New,Returned,Yes,6,3.3,27.5
+WIG0401,2025-02-24,CUST2734,25-34,Port Harcourt,Bone Straight,20,Brown,137294,1,0,137294,Transfer,Facebook,Returning,Delivered,No,2,3.9,17
+WIG0402,2025-05-18,CUST3809,25-34,Lagos,Water Wave,18,Ombre,119522,4,0,478088,Cash,Facebook,New,Pending,Yes,6,4.5,35.6
+WIG0403,2025-06-13,CUST4808,35-45,Benin,Water Wave,30,Natural Black,138839,4,10000,545356,POS,Instagram,New,Pending,Yes,6,3.9,22.3
+WIG0404,2025-01-10,CUST4900,35-45,Benin,Bone Straight,10,Burgundy,113029,2,15000,211058,Cash,TikTok,Returning,Pending,Yes,5,4.6,27.4
+WIG0405,2025-03-05,CUST4644,35-45,Kano,Water Wave,18,Burgundy,106976,1,15000,91976,Cash,TikTok,Returning,Returned,Yes,1,4.7,17.1
+WIG0406,2025-01-21,CUST7983,35-45,Ibadan,Curly,10,Blonde,88550,2,10000,167100,POS,TikTok,New,Pending,Yes,5,3.5,23.6
+WIG0407,2025-04-23,CUST7925,35-45,Benin,Closure Wig,30,Burgundy,60487,2,5000,115974,POS,Facebook,New,Pending,No,7,3.2,42.2
+WIG0408,2025-03-14,CUST7146,35-45,Benin,Bob Wig,28,Burgundy,71231,3,5000,208693,Transfer,WhatsApp,New,Returned,No,2,3.3,20.7
+WIG0409,2025-06-14,CUST2167,25-34,Lagos,Bone Straight,26,Natural Black,144054,4,0,576216,Card,Walk-in,New,Delivered,No,3,4.5,37.5
+WIG0410,2025-05-03,CUST1565,25-34,Enugu,Bob Wig,26,Natural Black,80642,2,0,161284,POS,WhatsApp,Returning,Returned,Yes,3,3.5,32.4
+WIG0411,2025-02-12,CUST7993,25-34,Enugu,Pixie Wig,14,Blonde,68414,2,5000,131828,Card,Walk-in,Returning,Returned,No,7,4.8,36.8
+WIG0412,2025-05-06,CUST1025,18-24,Lagos,Bone Straight,12,Burgundy,178385,1,0,178385,Card,WhatsApp,Returning,Delivered,Yes,3,3.4,19
+WIG0413,2025-03-08,CUST7697,25-34,Enugu,Closure Wig,14,Ombre,77862,2,0,155724,Transfer,TikTok,New,Pending,Yes,4,3.2,16.9
+WIG0414,2025-05-30,CUST1685,18-24,Abuja,Bone Straight,28,Ombre,125773,1,15000,110773,Transfer,Facebook,Returning,Pending,No,7,3.7,27.9
+WIG0415,2025-03-26,CUST2641,18-24,Ibadan,Bob Wig,30,Burgundy,50702,1,0,50702,POS,Instagram,New,Returned,No,6,4.5,22.5
+WIG0416,2025-03-25,CUST8279,18-24,Benin,Closure Wig,28,Burgundy,74633,3,0,223899,Card,Walk-in,New,Pending,No,4,5,40.7
+WIG0417,2025-05-08,CUST2426,25-34,Kano,Bone Straight,22,Ombre,133517,1,0,133517,Card,TikTok,Returning,Delivered,No,6,4.1,22.3
+WIG0418,2025-03-07,CUST8803,35-45,Lagos,Curly,30,Brown,83824,3,0,251472,Card,Instagram,Returning,Delivered,Yes,6,3.7,42.3
+WIG0419,2025-01-23,CUST6574,35-45,Benin,Pixie Wig,22,Brown,37581,1,0,37581,Transfer,Walk-in,Returning,Delivered,No,4,4.2,15.1
+WIG0420,2025-04-12,CUST1150,35-45,Kano,Bone Straight,28,Burgundy,165202,2,0,330404,Cash,TikTok,Returning,Delivered,No,6,3.9,33
+WIG0421,2025-02-25,CUST9110,25-34,Enugu,Curly,30,Burgundy,111961,4,15000,432844,Transfer,WhatsApp,New,Returned,Yes,7,4.5,39.3
+WIG0422,2025-04-19,CUST8756,25-34,Kano,Pixie Wig,10,Burgundy,40432,4,0,161728,Card,Instagram,Returning,Pending,Yes,6,4.7,26.8
+WIG0423,2025-05-04,CUST5769,18-24,Abuja,Curly,20,Brown,77094,4,15000,293376,POS,Instagram,Returning,Returned,Yes,6,4.6,40.8
+WIG0424,2025-06-16,CUST6545,35-45,Ibadan,Closure Wig,22,Brown,96607,1,10000,86607,Card,TikTok,New,Delivered,Yes,4,4,35.6
+WIG0425,2025-01-30,CUST2353,18-24,Ibadan,Curly,30,Ombre,81745,1,0,81745,POS,Instagram,Returning,Pending,Yes,7,4.2,26.5
+WIG0426,2025-01-06,CUST7451,35-45,Kano,Pixie Wig,22,Ombre,65226,4,15000,245904,Card,Instagram,New,Delivered,Yes,2,4.7,35.9
+WIG0427,2025-05-24,CUST5206,18-24,Lagos,Bone Straight,26,Natural Black,153619,2,0,307238,Cash,WhatsApp,New,Pending,Yes,2,3.6,43.4
+WIG0428,2025-05-18,CUST9365,18-24,Enugu,Frontal Wig,18,Natural Black,156108,3,10000,458324,Transfer,TikTok,New,Delivered,Yes,3,4.7,21.5
+WIG0429,2025-03-07,CUST5270,25-34,Enugu,Curly,28,Brown,98316,1,10000,88316,Card,Facebook,New,Pending,No,6,3.3,21.1
+WIG0430,2025-03-22,CUST8104,25-34,Lagos,Pixie Wig,18,Ombre,63516,4,0,254064,POS,Instagram,Returning,Delivered,Yes,6,4.1,17
+WIG0431,2025-02-26,CUST7203,18-24,Kano,Pixie Wig,12,Natural Black,47933,1,5000,42933,POS,Walk-in,Returning,Returned,No,1,4.1,36
+WIG0432,2025-03-30,CUST9711,35-45,Benin,Water Wave,18,Burgundy,121680,4,0,486720,Card,Walk-in,New,Pending,Yes,6,4,19.7
+WIG0433,2025-04-23,CUST6799,25-34,Benin,Curly,14,Blonde,105044,4,0,420176,Cash,Facebook,New,Pending,Yes,3,3.8,24.4
+WIG0434,2025-03-15,CUST9074,18-24,Ibadan,Bone Straight,30,Ombre,105416,1,15000,90416,POS,Facebook,Returning,Returned,Yes,4,3,20.7
+WIG0435,2025-06-22,CUST9577,18-24,Abuja,Water Wave,10,Natural Black,85551,4,0,342204,Cash,TikTok,Returning,Delivered,No,4,3.8,26.2
+WIG0436,2025-06-11,CUST7449,18-24,Port Harcourt,Bone Straight,20,Ombre,127737,2,0,255474,Transfer,Facebook,Returning,Delivered,No,1,4.2,24.9
+WIG0437,2025-05-06,CUST4236,18-24,Benin,Bob Wig,12,Ombre,82345,1,5000,77345,POS,Facebook,New,Pending,Yes,2,4.5,22.5
+WIG0438,2025-06-18,CUST8198,18-24,Abuja,Closure Wig,22,Blonde,106143,1,5000,101143,Card,Instagram,Returning,Returned,Yes,1,3.4,16.2
+WIG0439,2025-05-21,CUST9119,35-45,Enugu,Closure Wig,22,Brown,76082,4,5000,299328,Cash,Facebook,Returning,Delivered,Yes,1,4.6,18.8
+WIG0440,2025-03-16,CUST5623,25-34,Lagos,Bob Wig,26,Burgundy,38410,4,5000,148640,POS,Walk-in,New,Returned,Yes,2,3.6,18.5
+WIG0441,2025-06-11,CUST3436,18-24,Lagos,Bob Wig,16,Brown,66057,2,10000,122114,Card,Instagram,Returning,Delivered,Yes,4,3,21
+WIG0442,2025-05-03,CUST2005,35-45,Ibadan,Water Wave,10,Natural Black,109068,3,5000,322204,Cash,Instagram,Returning,Pending,No,3,4.4,22.4
+WIG0443,2025-01-26,CUST8059,18-24,Port Harcourt,Bone Straight,14,Burgundy,100359,3,10000,291077,Cash,WhatsApp,Returning,Delivered,Yes,6,3,31.6
+WIG0444,2025-03-12,CUST4441,35-45,Ibadan,Water Wave,14,Natural Black,128705,2,15000,242410,Transfer,TikTok,New,Delivered,Yes,2,4.4,42.8
+WIG0445,2025-02-19,CUST7851,35-45,Enugu,Bone Straight,26,Blonde,176134,1,0,176134,Cash,WhatsApp,Returning,Returned,Yes,4,3.1,27.6
+WIG0446,2025-04-12,CUST9110,35-45,Benin,Frontal Wig,10,Ombre,102965,2,15000,190930,Transfer,TikTok,Returning,Returned,No,5,4.6,27
+WIG0447,2025-05-15,CUST5240,25-34,Kano,Bob Wig,16,Brown,45485,4,10000,171940,Cash,WhatsApp,New,Delivered,Yes,1,4.1,23.8
+WIG0448,2025-06-16,CUST6692,35-45,Benin,Pixie Wig,14,Blonde,46318,1,0,46318,Cash,Instagram,Returning,Returned,Yes,4,4.8,23.8
+WIG0449,2025-06-26,CUST7258,35-45,Port Harcourt,Bone Straight,30,Ombre,96364,1,15000,81364,POS,Facebook,New,Pending,No,2,4.2,39.2
+WIG0450,2025-02-16,CUST8526,18-24,Kano,Water Wave,22,Brown,142784,1,5000,137784,POS,Walk-in,Returning,Returned,Yes,6,3.6,24.3
+WIG0451,2025-04-14,CUST2642,35-45,Benin,Curly,22,Brown,94621,4,15000,363484,Transfer,Walk-in,New,Pending,No,1,3.2,15.4
+WIG0452,2025-05-19,CUST6544,35-45,Lagos,Water Wave,30,Brown,81769,1,0,81769,POS,Facebook,Returning,Delivered,No,3,4,22.3
+WIG0453,2025-04-17,CUST3323,18-24,Abuja,Frontal Wig,18,Natural Black,78476,1,10000,68476,POS,Facebook,Returning,Delivered,No,6,3.6,42.7
+WIG0454,2025-06-07,CUST6467,18-24,Port Harcourt,Pixie Wig,22,Natural Black,36667,3,0,110001,Transfer,Walk-in,New,Delivered,No,5,3.7,20.4
+WIG0455,2025-01-20,CUST1035,18-24,Kano,Closure Wig,14,Brown,63621,3,15000,175863,Cash,TikTok,Returning,Pending,No,7,3.1,32.3
+WIG0456,2025-04-19,CUST8885,35-45,Ibadan,Pixie Wig,18,Ombre,55232,3,5000,160696,Cash,TikTok,New,Pending,No,5,4,31
+WIG0457,2025-04-03,CUST1046,18-24,Kano,Frontal Wig,26,Natural Black,134067,1,0,134067,Cash,Walk-in,Returning,Delivered,Yes,1,4.8,25.8
+WIG0458,2025-02-05,CUST2920,35-45,Enugu,Water Wave,14,Brown,109437,1,15000,94437,Card,Instagram,Returning,Pending,Yes,6,3.2,32.4
+WIG0459,2025-05-26,CUST7823,18-24,Kano,Closure Wig,28,Brown,97873,1,0,97873,Card,TikTok,Returning,Pending,No,6,3.7,38.4
+WIG0460,2025-04-12,CUST7940,35-45,Ibadan,Pixie Wig,10,Ombre,32104,2,0,64208,Cash,Walk-in,Returning,Returned,Yes,4,4.9,23.2
+WIG0461,2025-05-24,CUST2264,35-45,Ibadan,Bone Straight,26,Burgundy,144487,4,0,577948,Cash,Facebook,Returning,Delivered,Yes,7,3.7,27.7
+WIG0462,2025-01-28,CUST2070,18-24,Benin,Bob Wig,12,Natural Black,58770,2,10000,107540,Cash,TikTok,New,Returned,Yes,2,3.5,44.3
+WIG0463,2025-03-14,CUST7523,35-45,Abuja,Frontal Wig,10,Blonde,106232,1,0,106232,Card,WhatsApp,New,Returned,Yes,3,3.8,37.2
+WIG0464,2025-02-08,CUST8587,18-24,Enugu,Bone Straight,26,Natural Black,114685,3,0,344055,POS,TikTok,New,Returned,Yes,5,4,36.9
+WIG0465,2025-06-24,CUST7350,18-24,Abuja,Pixie Wig,26,Ombre,53613,1,15000,38613,Transfer,TikTok,Returning,Delivered,Yes,2,4.5,24.3
+WIG0466,2025-05-28,CUST6952,25-34,Lagos,Water Wave,12,Natural Black,101164,1,0,101164,POS,Facebook,Returning,Pending,No,7,4.8,34.5
+WIG0467,2025-04-04,CUST9396,35-45,Port Harcourt,Curly,12,Blonde,133997,2,5000,262994,Transfer,Facebook,Returning,Pending,Yes,5,5,16.7
+WIG0468,2025-02-27,CUST7360,25-34,Enugu,Water Wave,16,Natural Black,100736,4,0,402944,Cash,Facebook,Returning,Returned,No,1,3.2,37
+WIG0469,2025-05-02,CUST2873,25-34,Ibadan,Closure Wig,22,Natural Black,58450,2,15000,101900,POS,Facebook,New,Returned,Yes,3,4.1,44.6
+WIG0470,2025-04-19,CUST5421,25-34,Enugu,Water Wave,22,Brown,107720,1,15000,92720,Transfer,TikTok,New,Pending,No,1,3.6,36.4
+WIG0471,2025-03-18,CUST3695,18-24,Port Harcourt,Water Wave,22,Burgundy,92116,4,0,368464,Card,Facebook,New,Returned,No,3,4.8,32.1
+WIG0472,2025-02-07,CUST9182,25-34,Lagos,Water Wave,10,Burgundy,81859,2,5000,158718,Cash,Walk-in,New,Pending,Yes,6,3.9,44.1
+WIG0473,2025-02-18,CUST1235,25-34,Kano,Bone Straight,10,Blonde,123655,3,0,370965,Transfer,WhatsApp,Returning,Returned,Yes,6,4,45
+WIG0474,2025-04-20,CUST7113,18-24,Benin,Closure Wig,22,Ombre,105816,2,5000,206632,POS,Walk-in,Returning,Pending,No,7,4.3,35.4
+WIG0475,2025-06-09,CUST9924,18-24,Enugu,Pixie Wig,18,Burgundy,31076,1,5000,26076,Transfer,WhatsApp,Returning,Delivered,Yes,7,3.9,26.4
+WIG0476,2025-05-10,CUST5646,25-34,Enugu,Curly,24,Blonde,115955,3,0,347865,Cash,Facebook,New,Delivered,No,1,3,19.6
+WIG0477,2025-06-07,CUST7444,18-24,Kano,Bob Wig,26,Ombre,56960,4,0,227840,Card,TikTok,Returning,Returned,Yes,4,4.8,30.5
+WIG0478,2025-02-10,CUST6282,18-24,Lagos,Closure Wig,16,Natural Black,65515,3,10000,186545,Transfer,Facebook,New,Returned,Yes,1,4.2,31.3
+WIG0479,2025-02-26,CUST5864,18-24,Benin,Bone Straight,28,Brown,145122,2,15000,275244,Card,WhatsApp,New,Pending,Yes,2,4.3,34.2
+WIG0480,2025-01-24,CUST2267,25-34,Kano,Frontal Wig,12,Blonde,79034,3,0,237102,POS,Facebook,New,Pending,Yes,4,3.1,43.8
+WIG0481,2025-06-18,CUST1515,18-24,Port Harcourt,Bone Straight,16,Blonde,150038,1,0,150038,Card,Walk-in,New,Delivered,No,1,3.4,15.9
+WIG0482,2025-02-26,CUST2367,35-45,Enugu,Bone Straight,26,Brown,162075,3,0,486225,Cash,WhatsApp,Returning,Delivered,Yes,3,4.4,34.6
+WIG0483,2025-01-27,CUST6105,18-24,Kano,Closure Wig,24,Brown,75304,3,5000,220912,Card,Facebook,Returning,Pending,No,7,3.6,18.2
+WIG0484,2025-04-15,CUST5808,35-45,Kano,Closure Wig,22,Ombre,58423,3,10000,165269,Cash,Facebook,New,Delivered,Yes,7,3.6,38.7
+WIG0485,2025-03-23,CUST1178,35-45,Port Harcourt,Bob Wig,16,Brown,78054,1,0,78054,Card,Walk-in,Returning,Delivered,Yes,4,3.6,21.4
+WIG0486,2025-02-20,CUST4229,18-24,Kano,Curly,12,Burgundy,106444,3,0,319332,Card,Instagram,Returning,Pending,Yes,1,3.9,33
+WIG0487,2025-02-03,CUST7599,18-24,Benin,Frontal Wig,22,Ombre,149366,4,0,597464,Transfer,WhatsApp,New,Delivered,No,1,4.7,27.5
+WIG0488,2025-03-18,CUST8447,25-34,Kano,Bob Wig,18,Natural Black,61236,1,5000,56236,Cash,Walk-in,New,Delivered,Yes,1,4.7,19.2
+WIG0489,2025-01-12,CUST2815,18-24,Port Harcourt,Bob Wig,22,Natural Black,40768,1,0,40768,Cash,WhatsApp,Returning,Pending,Yes,2,4.2,18.6
+WIG0490,2025-05-03,CUST9029,25-34,Port Harcourt,Bob Wig,14,Burgundy,76740,2,10000,143480,POS,Instagram,Returning,Pending,Yes,3,4.1,41.2
+WIG0491,2025-04-09,CUST4078,25-34,Lagos,Pixie Wig,30,Blonde,43924,2,5000,82848,POS,Walk-in,Returning,Pending,No,6,3.3,30.1
+WIG0492,2025-04-19,CUST3690,35-45,Port Harcourt,Curly,16,Ombre,120538,1,0,120538,Transfer,TikTok,Returning,Delivered,Yes,2,3,28.8
+WIG0493,2025-02-24,CUST3467,25-34,Benin,Bob Wig,10,Burgundy,64664,3,5000,188992,Cash,Instagram,Returning,Pending,No,1,3.1,26.5
+WIG0494,2025-04-21,CUST2788,35-45,Lagos,Closure Wig,16,Brown,73153,4,10000,282612,Transfer,TikTok,New,Delivered,Yes,5,3.5,17
+WIG0495,2025-02-13,CUST4335,25-34,Enugu,Bone Straight,18,Blonde,124683,4,0,498732,Cash,Instagram,New,Delivered,No,6,3.6,42.2
+WIG0496,2025-05-02,CUST8011,25-34,Lagos,Curly,14,Brown,79103,1,15000,64103,Cash,Instagram,New,Returned,Yes,5,3.7,29.2
+WIG0497,2025-05-09,CUST3741,18-24,Kano,Bone Straight,24,Natural Black,127441,2,10000,244882,Transfer,WhatsApp,Returning,Pending,No,6,3.7,31.4
+WIG0498,2025-03-11,CUST9508,35-45,Enugu,Pixie Wig,24,Natural Black,49735,4,0,198940,POS,Facebook,New,Returned,Yes,3,4,22.3
+WIG0499,2025-06-23,CUST9927,25-34,Benin,Pixie Wig,22,Brown,54758,3,15000,149274,Cash,WhatsApp,Returning,Pending,No,3,3.6,16.2
+WIG0500,2025-05-08,CUST3410,25-34,Enugu,Frontal Wig,20,Brown,139273,1,0,139273,Cash,Walk-in,New,Pending,No,3,3.1,23.8

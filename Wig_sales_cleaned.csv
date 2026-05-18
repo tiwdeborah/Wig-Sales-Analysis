@@ -1,0 +1,501 @@
+order_id,order_date,customer_id,customer_age_group,customer_city,wig_type,wig_length_inches,hair_color,unit_price (NGN),quantity,discount(NGN),Revenue (NGN),payment_method,sales_channel,customer_type,delivery_status,delivery_days,customer_rating,profit_margin (%),Revenue_category,Month Name, Profit amount (NGN) , Average_order_value(NGN) ,Quarter
+WIG0001,1/8/2025,CUST2535,18-24,Abuja,Pixie Curl,12,Ombre,36717,4,0,146868,Transfer,Walk-in,New,Returned,2,3.9,0.233,Low,January,"34,220.24","36,717",Q1
+WIG0002,4/8/2025,CUST2584,25-34,Kano,Deep Wave,10,Blonde,124118,1,0,124118,Cash,Instagram,Returning,Returned,4,3.2,0.238,Low,April,"29,540.08","124,118",Q2
+WIG0003,1/26/2025,CUST7227,25-34,Ibadan,Pixie Curl,28,Blonde,44935,1,0,44935,POS,WhatsApp,Returning,Delivered,6,4.9,0.344,Low,January,"15,457.64","44,935",Q1
+WIG0004,2/28/2025,CUST1525,25-34,Ibadan,Frontal Wig,30,Blonde,114735,3,0,344205,Transfer,TikTok,Returning,Delivered,4,4.8,0.343,Medium,February,"118,062.32","114,735",Q1
+WIG0005,2/5/2025,CUST9348,25-34,Lagos,Jerry Curl,18,Natural Black,102325,3,0,306975,Transfer,TikTok,New,Returned,5,3.1,0.264,Medium,February,"81,041.40","102,325",Q1
+WIG0006,3/17/2025,CUST8123,18-24,Ibadan,Closure Wig,26,Natural Black,65014,3,0,195042,Cash,Walk-in,New,Returned,7,4.3,0.403,Low,March,"78,601.93","65,014",Q1
+WIG0007,1/5/2025,CUST2832,25-34,Kano,Frontal Wig,28,Blonde,135697,3,5000,402091,POS,Instagram,New,Returned,1,4.5,0.395,Medium,January,"158,825.95","134,030",Q1
+WIG0008,5/19/2025,CUST4295,35-45,Port Harcourt,Deep Wave,26,Burgundy,114741,4,0,458964,Cash,Facebook,Returning,Delivered,2,3.1,0.156,Medium,May,"71,598.38","114,741",Q2
+WIG0009,3/26/2025,CUST2160,35-45,Abuja,Frontal Wig,16,Blonde,157778,1,0,157778,Card,TikTok,New,Returned,2,4.6,0.392,Low,March,"61,848.98","157,778",Q1
+WIG0010,4/14/2025,CUST6559,18-24,Abuja,Jerry Curl,12,Brown,126498,1,0,126498,POS,Walk-in,Returning,Delivered,2,3.6,0.225,Low,April,"28,462.05","126,498",Q2
+WIG0011,5/4/2025,CUST4502,25-34,Lagos,Bone Straight,24,Brown,167132,4,5000,663528,Card,Instagram,Returning,Pending,3,3.8,0.437,High,May,"289,961.74","165,882",Q2
+WIG0012,1/13/2025,CUST8811,35-45,Kano,Deep Wave,26,Ombre,87989,3,0,263967,POS,Instagram,New,Delivered,5,3.1,0.409,Medium,January,"107,962.50","87,989",Q1
+WIG0013,2/22/2025,CUST6147,18-24,Port Harcourt,Closure Wig,12,Burgundy,55209,3,0,165627,POS,WhatsApp,Returning,Pending,1,3.9,0.45,Low,February,"74,532.15","55,209",Q1
+WIG0014,3/14/2025,CUST3584,25-34,Kano,Bone Straight,12,Ombre,165468,2,0,330936,Cash,Walk-in,New,Returned,6,3.2,0.413,Medium,March,"136,676.57","165,468",Q1
+WIG0015,6/12/2025,CUST5325,35-45,Ibadan,Bob Wig,12,Blonde,52848,2,15000,90696,Transfer,Instagram,Returning,Pending,1,3.7,0.189,Low,June,"17,141.54","45,348",Q2
+WIG0016,5/30/2025,CUST3426,25-34,Abuja,Bob Wig,14,Natural Black,71759,1,0,71759,Cash,WhatsApp,New,Pending,6,3.5,0.181,Low,May,"12,988.38","71,759",Q2
+WIG0017,3/27/2025,CUST7745,35-45,Kano,Deep Wave,26,Brown,83248,2,15000,151496,Cash,TikTok,New,Pending,7,3.9,0.21,Low,March,"31,814.16","75,748",Q1
+WIG0018,1/18/2025,CUST5573,25-34,Enugu,Closure Wig,20,Ombre,53101,3,0,159303,Card,Walk-in,Returning,Delivered,3,3.4,0.439,Low,January,"69,934.02","53,101",Q1
+WIG0019,5/28/2025,CUST4114,25-34,Lagos,Bob Wig,10,Burgundy,57654,1,5000,52654,Transfer,Walk-in,New,Pending,1,4.9,0.426,Low,May,"22,430.60","52,654",Q2
+WIG0020,3/17/2025,CUST3085,18-24,Ibadan,Frontal Wig,20,Burgundy,152410,4,15000,594640,POS,Walk-in,Returning,Pending,3,3.6,0.279,High,March,"165,904.56","148,660",Q1
+WIG0021,2/13/2025,CUST2389,25-34,Benin,Frontal Wig,28,Ombre,153555,4,15000,599220,Cash,Instagram,New,Returned,2,4.6,0.194,High,February,"116,248.68","149,805",Q1
+WIG0022,4/13/2025,CUST4997,18-24,Enugu,Bone Straight,16,Natural Black,157277,4,5000,624108,Transfer,Facebook,New,Delivered,1,4.1,0.425,High,April,"265,245.90","156,027",Q2
+WIG0023,5/10/2025,CUST7991,35-45,Ibadan,Bone Straight,24,Brown,112477,4,10000,439908,Card,Facebook,Returning,Delivered,7,4.6,0.295,Medium,May,"129,772.86","109,977",Q2
+WIG0024,1/21/2025,CUST3267,18-24,Abuja,Jerry Curl,18,Burgundy,80155,3,10000,230465,POS,TikTok,New,Pending,3,4.1,0.275,Low,January,"63,377.88","76,822",Q1
+WIG0025,4/18/2025,CUST9818,35-45,Enugu,Jerry Curl,22,Ombre,72560,3,5000,212680,POS,Facebook,New,Pending,4,3.1,0.251,Low,April,"53,382.68","70,893",Q2
+WIG0026,4/20/2025,CUST3223,25-34,Abuja,Pixie Curl,22,Natural Black,68790,1,15000,53790,Cash,Facebook,Returning,Delivered,3,3.7,0.414,Low,April,"22,269.06","53,790",Q2
+WIG0027,1/18/2025,CUST1659,18-24,Abuja,Bob Wig,22,Brown,65822,2,15000,116644,Transfer,Walk-in,New,Delivered,4,4.3,0.319,Low,January,"37,209.44","58,322",Q1
+WIG0028,5/28/2025,CUST7149,25-34,Enugu,Jerry Curl,24,Brown,118351,1,0,118351,Transfer,Walk-in,New,Delivered,7,4.4,0.392,Low,May,"46,393.59","118,351",Q2
+WIG0029,4/18/2025,CUST9031,18-24,Ibadan,Deep Wave,28,Blonde,89038,3,0,267114,Card,TikTok,Returning,Delivered,5,4.6,0.311,Medium,April,"83,072.45","89,038",Q2
+WIG0030,5/26/2025,CUST7209,25-34,Lagos,Closure Wig,24,Burgundy,82177,2,5000,159354,Cash,TikTok,Returning,Delivered,7,3.5,0.234,Low,May,"37,288.84","79,677",Q2
+WIG0031,3/3/2025,CUST8800,35-45,Enugu,Frontal Wig,18,Burgundy,76221,4,10000,294884,Card,Instagram,New,Pending,4,4.4,0.242,Medium,March,"71,361.93","73,721",Q1
+WIG0032,3/20/2025,CUST5118,18-24,Lagos,Frontal Wig,20,Brown,137140,4,0,548560,Cash,Instagram,New,Delivered,6,4,0.367,High,March,"201,321.52","137,140",Q1
+WIG0033,1/4/2025,CUST9751,18-24,Port Harcourt,Deep Wave,26,Natural Black,127301,2,0,254602,Transfer,Walk-in,Returning,Returned,6,4.7,0.297,Medium,January,"75,616.79","127,301",Q1
+WIG0034,5/3/2025,CUST2869,18-24,Ibadan,Deep Wave,10,Burgundy,104164,1,0,104164,Transfer,Walk-in,New,Delivered,7,4.1,0.241,Low,May,"25,103.52","104,164",Q2
+WIG0035,5/31/2025,CUST8025,25-34,Benin,Jerry Curl,12,Ombre,124548,4,0,498192,Transfer,Walk-in,New,Delivered,3,4.3,0.197,High,May,"98,143.82","124,548",Q2
+WIG0036,3/1/2025,CUST5720,35-45,Port Harcourt,Jerry Curl,26,Burgundy,90517,3,0,271551,Transfer,TikTok,Returning,Returned,4,3.2,0.217,Medium,March,"58,926.57","90,517",Q1
+WIG0037,4/30/2025,CUST5982,35-45,Ibadan,Jerry Curl,18,Blonde,79359,4,0,317436,Card,Facebook,New,Returned,4,4.5,0.331,Medium,April,"105,071.32","79,359",Q2
+WIG0038,6/16/2025,CUST8245,25-34,Abuja,Bone Straight,12,Ombre,125005,4,10000,490020,Card,Facebook,New,Pending,4,3.7,0.351,High,June,"171,997.02","122,505",Q2
+WIG0039,3/22/2025,CUST5135,25-34,Lagos,Deep Wave,14,Burgundy,84809,4,0,339236,Transfer,Walk-in,Returning,Pending,2,4,0.337,Medium,March,"114,322.53","84,809",Q1
+WIG0040,5/5/2025,CUST2989,18-24,Enugu,Closure Wig,30,Ombre,85003,4,15000,325012,POS,TikTok,Returning,Returned,5,3.8,0.217,Medium,May,"70,527.60","81,253",Q2
+WIG0041,5/4/2025,CUST8736,18-24,Ibadan,Deep Wave,12,Ombre,146698,3,5000,435094,POS,Facebook,New,Returned,7,3.1,0.382,Medium,May,"166,205.91","145,031",Q2
+WIG0042,5/18/2025,CUST8935,25-34,Port Harcourt,Deep Wave,22,Ombre,144178,2,5000,283356,Card,Facebook,Returning,Delivered,5,3.8,0.407,Medium,May,"115,325.89","141,678",Q2
+WIG0043,5/9/2025,CUST6439,18-24,Kano,Closure Wig,10,Burgundy,99968,1,0,99968,Transfer,Walk-in,Returning,Delivered,4,4.7,0.441,Low,May,"44,085.89","99,968",Q2
+WIG0044,6/10/2025,CUST8994,35-45,Lagos,Bone Straight,24,Ombre,129737,4,0,518948,Transfer,TikTok,Returning,Delivered,4,5,0.378,High,June,"196,162.34","129,737",Q2
+WIG0045,4/2/2025,CUST7141,25-34,Abuja,Pixie Curl,12,Brown,33014,1,0,33014,Card,Walk-in,New,Delivered,1,4.2,0.265,Low,April,"8,748.71","33,014",Q2
+WIG0046,1/3/2025,CUST8622,25-34,Enugu,Pixie Curl,16,Ombre,46644,3,15000,124932,POS,Instagram,Returning,Pending,6,4.9,0.357,Low,January,"44,600.72","41,644",Q1
+WIG0047,3/17/2025,CUST1359,35-45,Ibadan,Closure Wig,18,Blonde,63979,3,15000,176937,Transfer,Walk-in,New,Returned,7,4.8,0.236,Low,March,"41,757.13","58,979",Q1
+WIG0048,6/15/2025,CUST1645,25-34,Kano,Deep Wave,16,Burgundy,97927,1,15000,82927,Transfer,Walk-in,Returning,Returned,1,4.8,0.248,Low,June,"20,565.90","82,927",Q2
+WIG0049,5/4/2025,CUST5835,35-45,Kano,Closure Wig,14,Blonde,97953,2,0,195906,Transfer,Facebook,New,Delivered,7,4.4,0.352,Low,May,"68,958.91","97,953",Q2
+WIG0050,6/22/2025,CUST5295,35-45,Ibadan,Closure Wig,26,Blonde,51824,4,0,207296,Transfer,TikTok,Returning,Delivered,5,3.4,0.169,Low,June,"35,033.02","51,824",Q2
+WIG0051,1/25/2025,CUST4846,35-45,Abuja,Deep Wave,24,Burgundy,119893,4,0,479572,Card,WhatsApp,Returning,Returned,4,4.3,0.4,High,January,"191,828.80","119,893",Q1
+WIG0052,1/26/2025,CUST7018,35-45,Enugu,Frontal Wig,22,Blonde,93477,2,0,186954,Transfer,Facebook,Returning,Delivered,7,4.6,0.178,Low,January,"33,277.81","93,477",Q1
+WIG0053,2/23/2025,CUST4538,18-24,Port Harcourt,Jerry Curl,30,Brown,72799,1,10000,62799,Transfer,WhatsApp,New,Delivered,7,3.3,0.348,Low,February,"21,854.05","62,799",Q1
+WIG0054,4/18/2025,CUST9619,18-24,Enugu,Bone Straight,14,Natural Black,96947,1,0,96947,Card,Facebook,Returning,Returned,4,4,0.434,Low,April,"42,075.00","96,947",Q2
+WIG0055,1/28/2025,CUST9032,35-45,Ibadan,Bone Straight,30,Natural Black,163347,4,15000,638388,Transfer,WhatsApp,New,Delivered,3,4.2,0.326,High,January,"208,114.49","159,597",Q1
+WIG0056,1/30/2025,CUST4522,25-34,Ibadan,Pixie Curl,20,Brown,69677,1,15000,54677,Card,WhatsApp,Returning,Pending,6,3.2,0.278,Low,January,"15,200.21","54,677",Q1
+WIG0057,1/25/2025,CUST7105,18-24,Benin,Pixie Curl,18,Natural Black,35978,1,5000,30978,Cash,Instagram,Returning,Pending,7,4.8,0.165,Low,January,"5,111.37","30,978",Q1
+WIG0058,3/31/2025,CUST7022,18-24,Kano,Bob Wig,28,Blonde,41789,2,0,83578,POS,Facebook,New,Returned,1,3.4,0.361,Low,March,"30,171.66","41,789",Q1
+WIG0059,6/12/2025,CUST1502,18-24,Enugu,Bob Wig,20,Ombre,46888,2,15000,78776,POS,Facebook,Returning,Pending,2,3.7,0.366,Low,June,"28,832.02","39,388",Q2
+WIG0060,6/19/2025,CUST7947,25-34,Benin,Deep Wave,28,Burgundy,90693,3,5000,267079,Card,WhatsApp,New,Returned,3,3.9,0.235,Medium,June,"62,763.57","89,026",Q2
+WIG0061,2/22/2025,CUST5938,18-24,Kano,Pixie Curl,28,Brown,44451,1,0,44451,Cash,WhatsApp,Returning,Delivered,4,4.5,0.203,Low,February,"9,023.55","44,451",Q1
+WIG0062,4/28/2025,CUST2275,25-34,Benin,Closure Wig,26,Burgundy,96421,4,0,385684,Card,Facebook,Returning,Delivered,1,4.9,0.202,Medium,April,"77,908.17","96,421",Q2
+WIG0063,3/21/2025,CUST6562,18-24,Port Harcourt,Frontal Wig,24,Brown,96891,1,5000,91891,Transfer,Walk-in,New,Returned,7,3.7,0.368,Low,March,"33,815.89","91,891",Q1
+WIG0064,1/20/2025,CUST3902,35-45,Ibadan,Deep Wave,30,Burgundy,102740,2,15000,190480,Card,Walk-in,Returning,Returned,2,3.9,0.291,Low,January,"55,429.68","95,240",Q1
+WIG0065,1/15/2025,CUST7041,25-34,Lagos,Pixie Curl,18,Natural Black,50342,4,0,201368,Card,Facebook,New,Pending,3,4.2,0.3,Low,January,"60,410.40","50,342",Q1
+WIG0066,4/23/2025,CUST8199,35-45,Benin,Bone Straight,24,Ombre,108566,2,15000,202132,POS,WhatsApp,Returning,Pending,4,4.5,0.354,Low,April,"71,554.73","101,066",Q2
+WIG0067,6/18/2025,CUST3463,25-34,Lagos,Bone Straight,30,Ombre,179843,3,0,539529,POS,WhatsApp,Returning,Returned,2,4.2,0.431,High,June,"232,537.00","179,843",Q2
+WIG0068,4/3/2025,CUST6060,18-24,Abuja,Bob Wig,26,Blonde,43375,3,0,130125,Card,TikTok,New,Delivered,1,3.6,0.386,Low,April,"50,228.25","43,375",Q2
+WIG0069,2/16/2025,CUST3712,35-45,Ibadan,Frontal Wig,26,Natural Black,146006,2,0,292012,Card,WhatsApp,New,Pending,7,4.5,0.285,Medium,February,"83,223.42","146,006",Q1
+WIG0070,4/8/2025,CUST9239,35-45,Ibadan,Frontal Wig,16,Brown,153907,4,0,615628,POS,Walk-in,New,Pending,6,4,0.261,High,April,"160,678.91","153,907",Q2
+WIG0071,1/24/2025,CUST4637,25-34,Port Harcourt,Bone Straight,26,Natural Black,111341,2,5000,217682,Card,Instagram,Returning,Returned,2,3.8,0.174,Low,January,"37,876.67","108,841",Q1
+WIG0072,6/28/2025,CUST3273,35-45,Ibadan,Jerry Curl,10,Burgundy,82987,3,5000,243961,Transfer,Instagram,New,Pending,7,3.3,0.432,Medium,June,"105,391.15","81,320",Q2
+WIG0073,6/13/2025,CUST8489,18-24,Lagos,Frontal Wig,26,Burgundy,104472,2,5000,203944,Transfer,Walk-in,New,Returned,3,3.9,0.334,Low,June,"68,117.30","101,972",Q2
+WIG0074,5/1/2025,CUST1713,35-45,Ibadan,Jerry Curl,28,Blonde,94551,1,5000,89551,Cash,Instagram,Returning,Delivered,2,4.5,0.338,Low,May,"30,268.24","89,551",Q2
+WIG0075,5/3/2025,CUST3986,18-24,Lagos,Deep Wave,28,Burgundy,102949,4,15000,396796,Transfer,WhatsApp,New,Delivered,1,3.6,0.243,Medium,May,"96,421.43","99,199",Q2
+WIG0076,2/1/2025,CUST7029,25-34,Ibadan,Closure Wig,26,Burgundy,75048,3,0,225144,Card,WhatsApp,New,Pending,3,4.8,0.306,Low,February,"68,894.06","75,048",Q1
+WIG0077,3/25/2025,CUST5843,25-34,Ibadan,Deep Wave,12,Ombre,122101,1,0,122101,Card,TikTok,Returning,Pending,1,4.5,0.423,Low,March,"51,648.72","122,101",Q1
+WIG0078,6/5/2025,CUST8179,18-24,Abuja,Frontal Wig,22,Natural Black,112619,1,0,112619,POS,WhatsApp,Returning,Pending,5,3.3,0.285,Low,June,"32,096.42","112,619",Q2
+WIG0079,3/13/2025,CUST5089,18-24,Lagos,Bob Wig,20,Brown,72612,3,15000,202836,Card,Walk-in,Returning,Returned,3,4.5,0.361,Low,March,"73,223.80","67,612",Q1
+WIG0080,4/24/2025,CUST2438,35-45,Kano,Jerry Curl,28,Blonde,134382,2,15000,253764,Cash,Instagram,Returning,Pending,6,4.4,0.36,Medium,April,"91,355.04","126,882",Q2
+WIG0081,5/22/2025,CUST7044,25-34,Kano,Jerry Curl,20,Ombre,99391,1,0,99391,POS,Walk-in,New,Delivered,4,5,0.366,Low,May,"36,377.11","99,391",Q2
+WIG0082,5/13/2025,CUST6644,18-24,Kano,Frontal Wig,22,Ombre,149192,4,15000,581768,POS,TikTok,Returning,Returned,7,3.2,0.196,High,May,"114,026.53","145,442",Q2
+WIG0083,5/22/2025,CUST5496,18-24,Enugu,Jerry Curl,14,Blonde,99552,2,15000,184104,Transfer,Walk-in,New,Returned,2,4.3,0.366,Low,May,"67,382.06","92,052",Q2
+WIG0084,4/17/2025,CUST1496,25-34,Enugu,Frontal Wig,20,Ombre,70958,2,10000,131916,Cash,WhatsApp,Returning,Delivered,3,3.9,0.357,Low,April,"47,094.01","65,958",Q2
+WIG0085,3/23/2025,CUST6658,25-34,Abuja,Jerry Curl,24,Blonde,133471,3,15000,385413,Transfer,WhatsApp,New,Pending,3,3.9,0.192,Medium,March,"73,999.30","128,471",Q1
+WIG0086,5/8/2025,CUST9433,25-34,Ibadan,Bone Straight,18,Blonde,145351,2,0,290702,Card,Instagram,New,Pending,2,3.4,0.256,Medium,May,"74,419.71","145,351",Q2
+WIG0087,4/4/2025,CUST7606,25-34,Lagos,Bone Straight,18,Burgundy,159866,3,15000,464598,Transfer,Walk-in,New,Pending,1,3.8,0.285,High,April,"132,410.43","154,866",Q2
+WIG0088,2/20/2025,CUST9341,25-34,Benin,Frontal Wig,18,Natural Black,116629,3,0,349887,Transfer,Instagram,New,Returned,7,3.9,0.287,Medium,February,"100,417.57","116,629",Q1
+WIG0089,5/11/2025,CUST9721,25-34,Enugu,Frontal Wig,26,Ombre,86299,3,10000,248897,Cash,Facebook,New,Pending,6,3.2,0.275,Medium,May,"68,446.68","82,966",Q2
+WIG0090,6/11/2025,CUST7229,18-24,Kano,Bob Wig,30,Brown,52401,2,10000,94802,Transfer,Walk-in,New,Delivered,4,3.6,0.195,Low,June,"18,486.39","47,401",Q2
+WIG0091,3/25/2025,CUST8837,35-45,Ibadan,Pixie Curl,16,Blonde,39049,2,10000,68098,POS,Facebook,Returning,Returned,6,4.5,0.366,Low,March,"24,923.87","34,049",Q1
+WIG0092,3/15/2025,CUST4396,35-45,Enugu,Pixie Curl,18,Burgundy,66574,2,0,133148,Cash,Facebook,Returning,Returned,3,3.2,0.353,Low,March,"47,001.24","66,574",Q1
+WIG0093,3/7/2025,CUST8849,18-24,Abuja,Closure Wig,22,Ombre,55513,4,15000,207052,Cash,Walk-in,Returning,Delivered,5,4.5,0.222,Low,March,"45,965.54","51,763",Q1
+WIG0094,5/1/2025,CUST2647,35-45,Kano,Bone Straight,30,Brown,164604,3,15000,478812,Transfer,Walk-in,New,Pending,4,4.3,0.377,High,May,"180,512.12","159,604",Q2
+WIG0095,1/10/2025,CUST7504,25-34,Abuja,Bob Wig,20,Blonde,40862,4,0,163448,Transfer,Instagram,Returning,Returned,3,3.6,0.447,Low,January,"73,061.26","40,862",Q1
+WIG0096,4/28/2025,CUST5215,35-45,Abuja,Frontal Wig,26,Natural Black,100761,3,0,302283,Cash,WhatsApp,New,Delivered,7,3.9,0.248,Medium,April,"74,966.18","100,761",Q2
+WIG0097,3/2/2025,CUST8319,25-34,Port Harcourt,Closure Wig,30,Blonde,112580,3,5000,332740,Transfer,WhatsApp,Returning,Returned,1,4.3,0.29,Medium,March,"96,494.60","110,913",Q1
+WIG0098,2/4/2025,CUST8834,18-24,Ibadan,Jerry Curl,22,Ombre,110760,2,0,221520,Cash,Facebook,Returning,Returned,7,3.5,0.376,Low,February,"83,291.52","110,760",Q1
+WIG0099,5/10/2025,CUST4312,35-45,Benin,Deep Wave,12,Brown,94707,1,10000,84707,POS,WhatsApp,Returning,Delivered,6,4.2,0.177,Low,May,"14,993.14","84,707",Q2
+WIG0100,3/20/2025,CUST1356,25-34,Port Harcourt,Frontal Wig,24,Natural Black,119450,4,15000,462800,POS,Walk-in,New,Delivered,3,4.4,0.312,High,March,"144,393.60","115,700",Q1
+WIG0101,4/25/2025,CUST7184,25-34,Lagos,Bone Straight,12,Ombre,156875,3,5000,465625,POS,WhatsApp,New,Delivered,5,3.3,0.444,High,April,"206,737.50","155,208",Q2
+WIG0102,3/30/2025,CUST3541,25-34,Abuja,Deep Wave,10,Natural Black,110102,2,5000,215204,Transfer,Facebook,New,Delivered,1,3.2,0.16,Low,March,"34,432.64","107,602",Q1
+WIG0103,2/5/2025,CUST9255,25-34,Abuja,Frontal Wig,30,Ombre,117725,2,0,235450,Cash,Walk-in,Returning,Delivered,2,5,0.306,Low,February,"72,047.70","117,725",Q1
+WIG0104,6/14/2025,CUST7244,35-45,Port Harcourt,Closure Wig,18,Burgundy,72955,1,0,72955,Card,TikTok,Returning,Pending,7,4.1,0.222,Low,June,"16,196.01","72,955",Q2
+WIG0105,3/4/2025,CUST5177,18-24,Port Harcourt,Jerry Curl,18,Natural Black,130689,2,5000,256378,Card,WhatsApp,New,Returned,1,3.5,0.352,Medium,March,"90,245.06","128,189",Q1
+WIG0106,2/24/2025,CUST4113,35-45,Lagos,Frontal Wig,10,Burgundy,127835,3,0,383505,POS,Walk-in,New,Pending,5,3.6,0.235,Medium,February,"90,123.68","127,835",Q1
+WIG0107,5/1/2025,CUST6246,18-24,Port Harcourt,Closure Wig,26,Blonde,97139,1,15000,82139,Card,Instagram,New,Returned,1,3.5,0.43,Low,May,"35,319.77","82,139",Q2
+WIG0108,6/17/2025,CUST6530,25-34,Kano,Frontal Wig,22,Burgundy,95149,4,10000,370596,Card,Facebook,New,Returned,2,3.3,0.314,Medium,June,"116,367.14","92,649",Q2
+WIG0109,6/11/2025,CUST4791,18-24,Enugu,Jerry Curl,26,Brown,77698,4,0,310792,Transfer,TikTok,Returning,Pending,5,4.3,0.43,Medium,June,"133,640.56","77,698",Q2
+WIG0110,3/12/2025,CUST9777,25-34,Lagos,Closure Wig,30,Ombre,119758,1,10000,109758,Card,TikTok,New,Delivered,2,3.4,0.308,Low,March,"33,805.46","109,758",Q1
+WIG0111,6/25/2025,CUST2320,35-45,Kano,Deep Wave,20,Natural Black,111877,2,0,223754,Transfer,Facebook,Returning,Pending,1,4.3,0.361,Low,June,"80,775.19","111,877",Q2
+WIG0112,5/26/2025,CUST8790,25-34,Lagos,Bone Straight,24,Natural Black,151873,2,15000,288746,Cash,Walk-in,New,Delivered,1,4.9,0.326,Medium,May,"94,131.20","144,373",Q2
+WIG0113,2/5/2025,CUST2284,35-45,Enugu,Deep Wave,22,Blonde,123480,4,15000,478920,Transfer,Instagram,Returning,Delivered,3,4.2,0.334,High,February,"159,959.28","119,730",Q1
+WIG0114,4/7/2025,CUST8075,18-24,Enugu,Frontal Wig,22,Ombre,124054,3,10000,362162,Card,Instagram,Returning,Delivered,1,3.5,0.264,Medium,April,"95,610.77","120,721",Q2
+WIG0115,4/3/2025,CUST5419,18-24,Abuja,Deep Wave,30,Natural Black,80680,3,5000,237040,POS,Facebook,Returning,Returned,1,3.1,0.256,Low,April,"60,682.24","79,013",Q2
+WIG0116,5/24/2025,CUST4977,35-45,Benin,Bone Straight,28,Brown,173386,1,15000,158386,Card,TikTok,New,Pending,3,4,0.169,Low,May,"26,767.23","158,386",Q2
+WIG0117,6/7/2025,CUST4203,25-34,Lagos,Closure Wig,18,Brown,60082,4,10000,230328,Cash,Instagram,Returning,Pending,7,4.7,0.282,Low,June,"64,952.50","57,582",Q2
+WIG0118,4/12/2025,CUST6228,25-34,Enugu,Closure Wig,30,Burgundy,92030,3,0,276090,POS,WhatsApp,Returning,Pending,3,3.2,0.319,Medium,April,"88,072.71","92,030",Q2
+WIG0119,1/18/2025,CUST7703,35-45,Ibadan,Frontal Wig,26,Brown,157847,3,15000,458541,Cash,TikTok,Returning,Returned,6,3.8,0.263,Medium,January,"120,596.28","152,847",Q1
+WIG0120,5/18/2025,CUST2392,18-24,Kano,Closure Wig,28,Brown,116402,3,15000,334206,Cash,TikTok,New,Returned,7,3.7,0.389,Medium,May,"130,006.13","111,402",Q2
+WIG0121,4/11/2025,CUST8586,35-45,Benin,Bone Straight,10,Ombre,107924,4,0,431696,POS,WhatsApp,New,Pending,3,3.8,0.439,Medium,April,"189,514.54","107,924",Q2
+WIG0122,1/25/2025,CUST8178,35-45,Enugu,Bone Straight,14,Burgundy,140656,3,5000,416968,Cash,Instagram,Returning,Delivered,1,4.7,0.344,Medium,January,"143,436.99","138,989",Q1
+WIG0123,4/14/2025,CUST4022,18-24,Enugu,Pixie Curl,14,Burgundy,66690,4,0,266760,Card,Instagram,New,Pending,4,3,0.214,Medium,April,"57,086.64","66,690",Q2
+WIG0124,3/9/2025,CUST9019,35-45,Enugu,Bob Wig,12,Blonde,70185,4,0,280740,Card,Walk-in,Returning,Returned,3,3.7,0.287,Medium,March,"80,572.38","70,185",Q1
+WIG0125,2/16/2025,CUST7116,35-45,Abuja,Jerry Curl,30,Ombre,81108,3,0,243324,Card,Facebook,New,Returned,4,3.4,0.341,Medium,February,"82,973.48","81,108",Q1
+WIG0126,1/14/2025,CUST6882,18-24,Ibadan,Pixie Curl,30,Brown,42261,4,10000,159044,POS,Facebook,Returning,Pending,4,4.4,0.283,Low,January,"45,009.45","39,761",Q1
+WIG0127,3/15/2025,CUST3755,25-34,Benin,Jerry Curl,12,Burgundy,74044,2,10000,138088,Transfer,Walk-in,New,Pending,5,4.6,0.162,Low,March,"22,370.26","69,044",Q1
+WIG0128,3/9/2025,CUST6711,18-24,Ibadan,Pixie Curl,24,Natural Black,46222,1,5000,41222,POS,TikTok,Returning,Returned,2,4.2,0.385,Low,March,"15,870.47","41,222",Q1
+WIG0129,3/16/2025,CUST5740,35-45,Port Harcourt,Deep Wave,16,Ombre,102069,3,15000,291207,Transfer,TikTok,Returning,Delivered,7,4.3,0.36,Medium,March,"104,834.52","97,069",Q1
+WIG0130,4/26/2025,CUST2237,35-45,Kano,Jerry Curl,16,Natural Black,112217,4,5000,443868,Card,Walk-in,Returning,Returned,4,4.9,0.248,Medium,April,"110,079.26","110,967",Q2
+WIG0131,3/24/2025,CUST5646,25-34,Benin,Bone Straight,12,Ombre,155089,4,0,620356,POS,Walk-in,Returning,Pending,1,3.2,0.385,High,March,"238,837.06","155,089",Q1
+WIG0132,3/19/2025,CUST3604,25-34,Lagos,Closure Wig,10,Blonde,109836,2,15000,204672,Cash,Instagram,Returning,Returned,1,3.8,0.242,Low,March,"49,530.62","102,336",Q1
+WIG0133,6/1/2025,CUST4705,35-45,Enugu,Pixie Curl,16,Burgundy,43986,1,0,43986,Transfer,Instagram,Returning,Delivered,6,3.3,0.171,Low,June,"7,521.61","43,986",Q2
+WIG0134,6/23/2025,CUST3340,18-24,Benin,Closure Wig,12,Ombre,98177,2,15000,181354,Transfer,Walk-in,New,Pending,6,3.4,0.374,Low,June,"67,826.40","90,677",Q2
+WIG0135,3/22/2025,CUST3290,18-24,Port Harcourt,Closure Wig,28,Natural Black,63168,3,5000,184504,POS,Walk-in,Returning,Returned,7,4.7,0.413,Low,March,"76,200.15","61,501",Q1
+WIG0136,1/29/2025,CUST4949,25-34,Enugu,Jerry Curl,26,Ombre,136784,4,5000,542136,Transfer,Walk-in,New,Pending,2,3.8,0.402,High,January,"217,938.67","135,534",Q1
+WIG0137,2/25/2025,CUST1652,18-24,Kano,Closure Wig,20,Burgundy,111736,1,0,111736,Cash,Walk-in,Returning,Pending,1,4.3,0.311,Low,February,"34,749.90","111,736",Q1
+WIG0138,6/12/2025,CUST2083,25-34,Enugu,Jerry Curl,18,Burgundy,110620,4,10000,432480,POS,Instagram,New,Delivered,1,3.9,0.333,Medium,June,"144,015.84","108,120",Q2
+WIG0139,5/14/2025,CUST9474,35-45,Port Harcourt,Bob Wig,30,Brown,35830,4,0,143320,Cash,TikTok,Returning,Returned,7,4.8,0.251,Low,May,"35,973.32","35,830",Q2
+WIG0140,5/8/2025,CUST3734,25-34,Abuja,Closure Wig,18,Blonde,60101,3,0,180303,Transfer,Walk-in,New,Delivered,1,4.7,0.154,Low,May,"27,766.66","60,101",Q2
+WIG0141,3/5/2025,CUST7819,35-45,Port Harcourt,Bone Straight,24,Blonde,142707,2,0,285414,Transfer,Walk-in,Returning,Delivered,2,3.4,0.305,Medium,March,"87,051.27","142,707",Q1
+WIG0142,2/21/2025,CUST5777,35-45,Kano,Bone Straight,22,Blonde,104034,1,0,104034,POS,Facebook,Returning,Returned,7,4.6,0.37,Low,February,"38,492.58","104,034",Q1
+WIG0143,1/1/2025,CUST7164,35-45,Enugu,Frontal Wig,16,Blonde,95539,1,0,95539,Transfer,TikTok,New,Pending,1,4.9,0.193,Low,January,"18,439.03","95,539",Q1
+WIG0144,1/25/2025,CUST9280,18-24,Enugu,Bob Wig,12,Burgundy,69062,1,10000,59062,Transfer,Walk-in,New,Pending,2,3.6,0.405,Low,January,"23,920.11","59,062",Q1
+WIG0145,1/28/2025,CUST3546,18-24,Abuja,Deep Wave,22,Burgundy,106569,2,10000,203138,Card,WhatsApp,Returning,Delivered,7,3.4,0.242,Low,January,"49,159.40","101,569",Q1
+WIG0146,2/7/2025,CUST2494,35-45,Abuja,Bob Wig,12,Blonde,79961,2,0,159922,Card,Walk-in,New,Returned,3,4.6,0.202,Low,February,"32,304.24","79,961",Q1
+WIG0147,2/26/2025,CUST3141,18-24,Kano,Closure Wig,24,Burgundy,110560,1,0,110560,Cash,Instagram,Returning,Delivered,1,3.4,0.344,Low,February,"38,032.64","110,560",Q1
+WIG0148,4/12/2025,CUST9128,18-24,Ibadan,Deep Wave,14,Burgundy,102018,4,15000,393072,POS,WhatsApp,New,Delivered,3,3.9,0.195,Medium,April,"76,649.04","98,268",Q2
+WIG0149,3/13/2025,CUST7275,18-24,Ibadan,Frontal Wig,28,Brown,130390,1,0,130390,POS,Walk-in,New,Pending,4,4.1,0.295,Low,March,"38,465.05","130,390",Q1
+WIG0150,1/15/2025,CUST8728,35-45,Port Harcourt,Frontal Wig,26,Ombre,68416,1,0,68416,POS,TikTok,New,Delivered,3,4.1,0.387,Low,January,"26,476.99","68,416",Q1
+WIG0151,1/8/2025,CUST6761,35-45,Benin,Pixie Curl,10,Brown,45502,3,10000,126506,POS,Facebook,Returning,Delivered,1,3.2,0.22,Low,January,"27,831.32","42,169",Q1
+WIG0152,2/15/2025,CUST6301,18-24,Lagos,Jerry Curl,10,Brown,132650,3,15000,382950,POS,Instagram,Returning,Delivered,6,4.9,0.269,Medium,February,"103,013.55","127,650",Q1
+WIG0153,5/24/2025,CUST6846,18-24,Enugu,Bone Straight,20,Ombre,134552,2,15000,254104,POS,Facebook,Returning,Returned,2,3.4,0.151,Medium,May,"38,369.70","127,052",Q2
+WIG0154,3/26/2025,CUST2274,18-24,Port Harcourt,Pixie Curl,28,Blonde,44476,4,0,177904,POS,Instagram,Returning,Pending,3,3.4,0.358,Low,March,"63,689.63","44,476",Q1
+WIG0155,4/7/2025,CUST6754,35-45,Ibadan,Bob Wig,18,Natural Black,38155,4,5000,147620,Card,Walk-in,New,Delivered,1,4.6,0.16,Low,April,"23,619.20","36,905",Q2
+WIG0156,1/24/2025,CUST6536,35-45,Benin,Bone Straight,20,Burgundy,129226,1,10000,119226,Transfer,Facebook,New,Returned,2,3.1,0.249,Low,January,"29,687.27","119,226",Q1
+WIG0157,5/27/2025,CUST9043,18-24,Lagos,Jerry Curl,22,Blonde,104768,1,5000,99768,Transfer,Facebook,New,Pending,2,3.2,0.212,Low,May,"21,150.82","99,768",Q2
+WIG0158,6/14/2025,CUST9914,25-34,Abuja,Pixie Curl,18,Blonde,60863,3,0,182589,Card,WhatsApp,New,Pending,3,3.9,0.229,Low,June,"41,812.88","60,863",Q2
+WIG0159,1/16/2025,CUST7342,35-45,Ibadan,Deep Wave,18,Ombre,134262,2,10000,258524,Card,Walk-in,New,Pending,1,3.8,0.406,Medium,January,"104,960.74","129,262",Q1
+WIG0160,2/19/2025,CUST3067,18-24,Ibadan,Bone Straight,26,Natural Black,169870,2,0,339740,Card,TikTok,New,Returned,3,4.8,0.424,Medium,February,"144,049.76","169,870",Q1
+WIG0161,6/9/2025,CUST9561,25-34,Lagos,Bone Straight,12,Burgundy,145868,1,15000,130868,POS,TikTok,New,Delivered,7,3.6,0.311,Low,June,"40,699.95","130,868",Q2
+WIG0162,3/12/2025,CUST7602,18-24,Benin,Bob Wig,22,Ombre,77912,1,0,77912,Card,Instagram,Returning,Pending,1,4.5,0.426,Low,March,"33,190.51","77,912",Q1
+WIG0163,4/24/2025,CUST6257,25-34,Enugu,Bob Wig,10,Burgundy,55378,2,0,110756,Transfer,TikTok,Returning,Delivered,6,4,0.305,Low,April,"33,780.58","55,378",Q2
+WIG0164,5/26/2025,CUST1474,18-24,Abuja,Bob Wig,10,Brown,39300,2,10000,68600,Transfer,TikTok,New,Pending,3,4.4,0.232,Low,May,"15,915.20","34,300",Q2
+WIG0165,6/2/2025,CUST8308,18-24,Kano,Deep Wave,24,Burgundy,111711,3,5000,330133,Cash,WhatsApp,New,Pending,3,3.1,0.165,Medium,June,"54,471.95","110,044",Q2
+WIG0166,1/6/2025,CUST1145,25-34,Abuja,Deep Wave,28,Brown,115269,4,10000,451076,Transfer,TikTok,Returning,Returned,6,4.9,0.343,Medium,January,"154,719.07","112,769",Q1
+WIG0167,1/27/2025,CUST1120,35-45,Enugu,Closure Wig,22,Blonde,78601,4,10000,304404,Cash,WhatsApp,New,Pending,3,5,0.342,Medium,January,"104,106.17","76,101",Q1
+WIG0168,3/23/2025,CUST3292,35-45,Lagos,Deep Wave,18,Burgundy,87441,4,15000,334764,Cash,WhatsApp,Returning,Pending,6,3.1,0.362,Medium,March,"121,184.57","83,691",Q1
+WIG0169,6/18/2025,CUST3967,25-34,Lagos,Frontal Wig,16,Burgundy,153063,3,0,459189,POS,WhatsApp,New,Returned,6,3.2,0.257,Medium,June,"118,011.57","153,063",Q2
+WIG0170,1/14/2025,CUST2166,25-34,Abuja,Pixie Curl,18,Ombre,49270,1,5000,44270,Transfer,Facebook,Returning,Pending,7,4.7,0.191,Low,January,"8,455.57","44,270",Q1
+WIG0171,6/11/2025,CUST3897,25-34,Enugu,Jerry Curl,20,Natural Black,129974,4,0,519896,Transfer,Facebook,Returning,Delivered,5,4.5,0.297,High,June,"154,409.11","129,974",Q2
+WIG0172,1/10/2025,CUST9745,18-24,Enugu,Deep Wave,12,Blonde,142573,4,0,570292,Transfer,WhatsApp,New,Delivered,6,4.5,0.218,High,January,"124,323.66","142,573",Q1
+WIG0173,3/18/2025,CUST5764,25-34,Enugu,Bob Wig,18,Ombre,60136,1,0,60136,Cash,Facebook,New,Pending,3,4.5,0.199,Low,March,"11,967.06","60,136",Q1
+WIG0174,4/4/2025,CUST1612,25-34,Enugu,Deep Wave,22,Blonde,146143,2,0,292286,Transfer,Walk-in,New,Returned,6,4.7,0.164,Medium,April,"47,934.90","146,143",Q2
+WIG0175,4/18/2025,CUST2654,35-45,Benin,Bone Straight,22,Blonde,153237,1,0,153237,POS,Facebook,New,Returned,3,3.2,0.182,Low,April,"27,889.13","153,237",Q2
+WIG0176,5/21/2025,CUST9132,18-24,Enugu,Jerry Curl,28,Burgundy,104471,2,0,208942,Cash,TikTok,New,Delivered,1,4.7,0.351,Low,May,"73,338.64","104,471",Q2
+WIG0177,4/29/2025,CUST1820,18-24,Kano,Jerry Curl,12,Brown,79836,3,0,239508,Transfer,WhatsApp,Returning,Returned,4,4.5,0.178,Low,April,"42,632.42","79,836",Q2
+WIG0178,1/24/2025,CUST7105,25-34,Abuja,Deep Wave,10,Natural Black,137372,3,15000,397116,Card,Facebook,Returning,Pending,6,4.7,0.39,Medium,January,"154,875.24","132,372",Q1
+WIG0179,6/23/2025,CUST8178,18-24,Benin,Pixie Curl,14,Burgundy,36796,4,10000,137184,Cash,Walk-in,New,Returned,4,4.8,0.184,Low,June,"25,241.86","34,296",Q2
+WIG0180,5/14/2025,CUST2560,25-34,Enugu,Closure Wig,24,Brown,91187,3,10000,263561,Card,WhatsApp,Returning,Delivered,1,4.3,0.197,Medium,May,"51,921.52","87,854",Q2
+WIG0181,5/10/2025,CUST4648,35-45,Enugu,Deep Wave,24,Burgundy,123371,3,0,370113,Card,TikTok,New,Pending,7,4.1,0.176,Medium,May,"65,139.89","123,371",Q2
+WIG0182,5/21/2025,CUST1002,18-24,Kano,Closure Wig,24,Ombre,52329,1,10000,42329,Cash,Walk-in,New,Returned,3,3.7,0.166,Low,May,"7,026.61","42,329",Q2
+WIG0183,2/26/2025,CUST1035,25-34,Port Harcourt,Jerry Curl,24,Blonde,132014,1,15000,117014,Cash,Instagram,New,Delivered,2,4.6,0.373,Low,February,"43,646.22","117,014",Q1
+WIG0184,3/28/2025,CUST2765,25-34,Lagos,Closure Wig,12,Ombre,65826,2,15000,116652,Transfer,Facebook,Returning,Returned,4,3,0.371,Low,March,"43,277.89","58,326",Q1
+WIG0185,4/10/2025,CUST6273,35-45,Ibadan,Frontal Wig,22,Burgundy,155677,2,0,311354,POS,WhatsApp,Returning,Pending,4,4.6,0.191,Medium,April,"59,468.61","155,677",Q2
+WIG0186,2/3/2025,CUST3913,35-45,Benin,Frontal Wig,26,Blonde,91330,3,15000,258990,Transfer,WhatsApp,Returning,Returned,6,4.5,0.402,Medium,February,"104,113.98","86,330",Q1
+WIG0187,3/10/2025,CUST3636,25-34,Enugu,Bob Wig,22,Blonde,41977,1,0,41977,POS,Instagram,Returning,Delivered,3,4.6,0.181,Low,March,"7,597.84","41,977",Q1
+WIG0188,4/10/2025,CUST7825,35-45,Port Harcourt,Deep Wave,30,Ombre,117701,1,5000,112701,Transfer,Instagram,Returning,Delivered,7,3.5,0.34,Low,April,"38,318.34","112,701",Q2
+WIG0189,2/14/2025,CUST9418,18-24,Ibadan,Pixie Curl,30,Natural Black,59413,1,0,59413,Card,WhatsApp,Returning,Delivered,5,4.7,0.152,Low,February,"9,030.78","59,413",Q1
+WIG0190,3/23/2025,CUST9608,18-24,Abuja,Closure Wig,14,Ombre,56665,3,0,169995,Transfer,Walk-in,New,Pending,1,3.7,0.415,Low,March,"70,547.93","56,665",Q1
+WIG0191,6/21/2025,CUST6668,25-34,Abuja,Pixie Curl,20,Ombre,64766,1,0,64766,POS,Instagram,Returning,Pending,4,3.5,0.367,Low,June,"23,769.12","64,766",Q2
+WIG0192,5/12/2025,CUST2349,18-24,Abuja,Bone Straight,26,Ombre,144146,2,0,288292,Transfer,Instagram,New,Returned,7,4.4,0.401,Medium,May,"115,605.09","144,146",Q2
+WIG0193,1/19/2025,CUST1889,18-24,Kano,Jerry Curl,26,Blonde,79452,1,0,79452,Transfer,Walk-in,New,Pending,4,3.9,0.271,Low,January,"21,531.49","79,452",Q1
+WIG0194,5/9/2025,CUST2738,25-34,Kano,Bob Wig,10,Blonde,70050,1,0,70050,Transfer,WhatsApp,Returning,Pending,7,4.3,0.292,Low,May,"20,454.60","70,050",Q2
+WIG0195,5/22/2025,CUST3316,18-24,Lagos,Frontal Wig,16,Natural Black,148105,3,0,444315,Card,Walk-in,New,Pending,6,4.5,0.368,Medium,May,"163,507.92","148,105",Q2
+WIG0196,2/16/2025,CUST1891,35-45,Ibadan,Jerry Curl,22,Ombre,137181,2,0,274362,Transfer,WhatsApp,New,Pending,2,4.5,0.296,Medium,February,"81,211.15","137,181",Q1
+WIG0197,4/26/2025,CUST6379,35-45,Enugu,Bob Wig,20,Blonde,41556,3,5000,119668,POS,Walk-in,Returning,Pending,2,3,0.224,Low,April,"26,805.63","39,889",Q2
+WIG0198,4/2/2025,CUST6004,25-34,Benin,Jerry Curl,30,Natural Black,106264,4,5000,420056,POS,Walk-in,New,Pending,5,3.4,0.37,Medium,April,"155,420.72","105,014",Q2
+WIG0199,5/22/2025,CUST5269,35-45,Benin,Pixie Curl,12,Burgundy,67938,2,0,135876,POS,WhatsApp,Returning,Delivered,2,3.9,0.303,Low,May,"41,170.43","67,938",Q2
+WIG0200,2/10/2025,CUST3935,35-45,Benin,Closure Wig,20,Brown,81310,2,5000,157620,Card,WhatsApp,New,Delivered,2,3.1,0.261,Low,February,"41,138.82","78,810",Q1
+WIG0201,3/24/2025,CUST2691,35-45,Benin,Bone Straight,30,Blonde,122102,1,15000,107102,Cash,Walk-in,New,Pending,3,4.2,0.419,Low,March,"44,875.74","107,102",Q1
+WIG0202,6/4/2025,CUST1108,35-45,Abuja,Bone Straight,26,Burgundy,127975,4,5000,506900,POS,TikTok,New,Returned,2,3.3,0.197,High,June,"99,859.30","126,725",Q2
+WIG0203,2/11/2025,CUST7732,18-24,Abuja,Frontal Wig,12,Natural Black,128113,2,10000,246226,POS,Walk-in,New,Delivered,5,3.3,0.2,Medium,February,"49,245.20","123,113",Q1
+WIG0204,2/13/2025,CUST4594,25-34,Benin,Jerry Curl,26,Brown,72440,4,5000,284760,POS,Walk-in,Returning,Delivered,4,4.2,0.171,Medium,February,"48,693.96","71,190",Q1
+WIG0205,1/25/2025,CUST3906,25-34,Benin,Closure Wig,22,Ombre,76522,2,10000,143044,Transfer,Walk-in,New,Delivered,6,3.3,0.331,Low,January,"47,347.56","71,522",Q1
+WIG0206,4/8/2025,CUST6742,35-45,Kano,Deep Wave,10,Ombre,136224,2,5000,267448,Transfer,Facebook,New,Pending,7,3.5,0.408,Medium,April,"109,118.78","133,724",Q2
+WIG0207,1/2/2025,CUST7144,35-45,Abuja,Bob Wig,28,Blonde,51895,1,10000,41895,Card,WhatsApp,New,Delivered,6,4.2,0.228,Low,January,"9,552.06","41,895",Q1
+WIG0208,5/23/2025,CUST8904,18-24,Port Harcourt,Frontal Wig,22,Ombre,154208,4,10000,606832,Card,WhatsApp,Returning,Returned,7,4.4,0.371,High,May,"225,134.67","151,708",Q2
+WIG0209,5/21/2025,CUST1852,18-24,Ibadan,Deep Wave,30,Natural Black,146629,4,0,586516,Transfer,TikTok,Returning,Returned,1,3.1,0.217,High,May,"127,273.97","146,629",Q2
+WIG0210,5/7/2025,CUST8192,18-24,Abuja,Bone Straight,28,Ombre,99948,2,15000,184896,Cash,TikTok,New,Returned,5,3.3,0.161,Low,May,"29,768.26","92,448",Q2
+WIG0211,2/21/2025,CUST9482,18-24,Enugu,Jerry Curl,30,Natural Black,90636,4,10000,352544,Transfer,Walk-in,Returning,Returned,3,4.9,0.233,Medium,February,"82,142.75","88,136",Q1
+WIG0212,1/19/2025,CUST9243,25-34,Port Harcourt,Frontal Wig,16,Natural Black,99223,1,10000,89223,Cash,Walk-in,Returning,Returned,4,4.1,0.381,Low,January,"33,993.96","89,223",Q1
+WIG0213,6/12/2025,CUST4610,35-45,Enugu,Deep Wave,20,Brown,113792,1,5000,108792,Cash,Facebook,Returning,Returned,6,4.7,0.224,Low,June,"24,369.41","108,792",Q2
+WIG0214,3/10/2025,CUST3994,35-45,Enugu,Bone Straight,22,Brown,139825,2,10000,269650,Card,TikTok,New,Returned,7,3.5,0.219,Medium,March,"59,053.35","134,825",Q1
+WIG0215,1/11/2025,CUST8901,25-34,Benin,Deep Wave,16,Blonde,144574,1,10000,134574,Card,Walk-in,Returning,Pending,7,4.8,0.234,Low,January,"31,490.32","134,574",Q1
+WIG0216,6/25/2025,CUST3863,25-34,Lagos,Jerry Curl,28,Ombre,77097,3,5000,226291,Card,WhatsApp,New,Delivered,4,4.2,0.248,Low,June,"56,120.17","75,430",Q2
+WIG0217,4/19/2025,CUST4449,25-34,Enugu,Frontal Wig,18,Blonde,126780,2,5000,248560,Cash,Facebook,Returning,Pending,5,3.3,0.323,Medium,April,"80,284.88","124,280",Q2
+WIG0218,1/3/2025,CUST3893,25-34,Ibadan,Jerry Curl,12,Brown,100907,2,5000,196814,Cash,Facebook,Returning,Pending,4,3.2,0.199,Low,January,"39,165.99","98,407",Q1
+WIG0219,1/6/2025,CUST7746,18-24,Port Harcourt,Jerry Curl,18,Ombre,82622,3,0,247866,POS,Walk-in,New,Pending,3,4.3,0.296,Medium,January,"73,368.34","82,622",Q1
+WIG0220,6/11/2025,CUST7631,18-24,Lagos,Pixie Curl,24,Brown,39492,3,5000,113476,Cash,TikTok,Returning,Pending,6,3.5,0.343,Low,June,"38,922.27","37,825",Q2
+WIG0221,3/2/2025,CUST5122,35-45,Enugu,Bob Wig,24,Natural Black,64510,2,15000,114020,POS,TikTok,Returning,Delivered,1,4.9,0.292,Low,March,"33,293.84","57,010",Q1
+WIG0222,2/28/2025,CUST5053,35-45,Port Harcourt,Bone Straight,10,Burgundy,147037,4,0,588148,POS,TikTok,New,Delivered,6,3.7,0.425,High,February,"249,962.90","147,037",Q1
+WIG0223,6/12/2025,CUST8126,35-45,Enugu,Deep Wave,24,Ombre,103204,4,15000,397816,Cash,WhatsApp,Returning,Returned,7,3.2,0.242,Medium,June,"96,271.47","99,454",Q2
+WIG0224,5/17/2025,CUST1136,35-45,Ibadan,Closure Wig,18,Burgundy,50012,3,5000,145036,Cash,Instagram,Returning,Pending,7,3,0.262,Low,May,"37,999.43","48,345",Q2
+WIG0225,1/21/2025,CUST7917,35-45,Abuja,Closure Wig,26,Ombre,71400,2,0,142800,Cash,WhatsApp,Returning,Pending,7,3.1,0.191,Low,January,"27,274.80","71,400",Q1
+WIG0226,5/17/2025,CUST1362,18-24,Lagos,Bone Straight,30,Blonde,154682,2,0,309364,Cash,TikTok,Returning,Returned,2,3.2,0.154,Medium,May,"47,642.06","154,682",Q2
+WIG0227,1/15/2025,CUST5366,25-34,Lagos,Jerry Curl,20,Ombre,110838,1,0,110838,Card,TikTok,New,Pending,7,3,0.442,Low,January,"48,990.40","110,838",Q1
+WIG0228,4/10/2025,CUST6113,25-34,Abuja,Pixie Curl,16,Natural Black,60201,2,5000,115402,Transfer,WhatsApp,Returning,Returned,2,3.7,0.166,Low,April,"19,156.73","57,701",Q2
+WIG0229,1/31/2025,CUST7484,18-24,Lagos,Pixie Curl,16,Natural Black,30987,3,10000,82961,Card,Walk-in,New,Pending,2,3.3,0.177,Low,January,"14,684.10","27,654",Q1
+WIG0230,3/1/2025,CUST6189,35-45,Kano,Frontal Wig,20,Blonde,149485,2,5000,293970,Card,TikTok,New,Returned,3,4.4,0.225,Medium,March,"66,143.25","146,985",Q1
+WIG0231,4/30/2025,CUST5510,35-45,Kano,Bone Straight,24,Ombre,152344,3,0,457032,POS,Instagram,New,Pending,7,3.5,0.26,Medium,April,"118,828.32","152,344",Q2
+WIG0232,1/17/2025,CUST9830,25-34,Abuja,Bone Straight,30,Ombre,161316,3,15000,468948,Card,Walk-in,New,Returned,3,3.8,0.247,High,January,"115,830.16","156,316",Q1
+WIG0233,1/26/2025,CUST1521,35-45,Enugu,Bone Straight,26,Burgundy,103739,4,0,414956,Card,Walk-in,Returning,Delivered,2,4.2,0.171,Medium,January,"70,957.48","103,739",Q1
+WIG0234,1/15/2025,CUST5355,35-45,Lagos,Jerry Curl,30,Natural Black,80480,3,15000,226440,Cash,Instagram,New,Returned,1,4.5,0.309,Low,January,"69,969.96","75,480",Q1
+WIG0235,5/28/2025,CUST6864,35-45,Ibadan,Jerry Curl,16,Burgundy,102605,1,15000,87605,Transfer,TikTok,New,Returned,5,3.7,0.197,Low,May,"17,258.19","87,605",Q2
+WIG0236,3/3/2025,CUST9939,18-24,Ibadan,Frontal Wig,24,Ombre,113722,3,10000,331166,Cash,WhatsApp,Returning,Pending,1,4.5,0.445,Medium,March,"147,368.87","110,389",Q1
+WIG0237,6/26/2025,CUST5521,35-45,Benin,Frontal Wig,10,Ombre,104365,3,0,313095,POS,Instagram,New,Pending,2,3.3,0.26,Medium,June,"81,404.70","104,365",Q2
+WIG0238,3/25/2025,CUST8905,18-24,Ibadan,Frontal Wig,16,Ombre,139774,1,15000,124774,Transfer,Walk-in,Returning,Delivered,1,4.6,0.427,Low,March,"53,278.50","124,774",Q1
+WIG0239,3/20/2025,CUST9591,18-24,Port Harcourt,Bob Wig,20,Ombre,42899,4,0,171596,POS,WhatsApp,New,Delivered,6,4.5,0.268,Low,March,"45,987.73","42,899",Q1
+WIG0240,3/28/2025,CUST2352,25-34,Benin,Closure Wig,28,Natural Black,79109,2,0,158218,Card,WhatsApp,New,Pending,7,4.4,0.379,Low,March,"59,964.62","79,109",Q1
+WIG0241,3/10/2025,CUST8046,25-34,Enugu,Closure Wig,26,Ombre,75703,2,0,151406,Transfer,Instagram,Returning,Pending,3,3.4,0.253,Low,March,"38,305.72","75,703",Q1
+WIG0242,2/21/2025,CUST7124,18-24,Kano,Pixie Curl,10,Natural Black,39556,1,0,39556,Transfer,Instagram,New,Returned,7,4.7,0.236,Low,February,"9,335.22","39,556",Q1
+WIG0243,5/14/2025,CUST5237,35-45,Ibadan,Bob Wig,12,Ombre,65879,2,10000,121758,POS,Instagram,Returning,Returned,3,3.3,0.235,Low,May,"28,613.13","60,879",Q2
+WIG0244,1/5/2025,CUST5792,35-45,Ibadan,Deep Wave,28,Brown,115561,3,0,346683,Card,Walk-in,New,Pending,7,4.2,0.176,Medium,January,"61,016.21","115,561",Q1
+WIG0245,2/10/2025,CUST1301,25-34,Enugu,Jerry Curl,26,Blonde,72816,4,5000,286264,Cash,WhatsApp,New,Returned,7,3.1,0.227,Medium,February,"64,981.93","71,566",Q1
+WIG0246,4/8/2025,CUST9531,35-45,Benin,Closure Wig,10,Brown,69884,1,15000,54884,Card,TikTok,New,Pending,5,3.7,0.313,Low,April,"17,178.69","54,884",Q2
+WIG0247,6/17/2025,CUST3589,25-34,Lagos,Jerry Curl,30,Ombre,96517,4,0,386068,Transfer,TikTok,Returning,Delivered,7,3.6,0.442,Medium,June,"170,642.06","96,517",Q2
+WIG0248,6/7/2025,CUST5372,35-45,Benin,Closure Wig,18,Ombre,74632,1,10000,64632,POS,Walk-in,New,Delivered,3,3.2,0.384,Low,June,"24,818.69","64,632",Q2
+WIG0249,2/11/2025,CUST4166,18-24,Lagos,Jerry Curl,26,Burgundy,131441,4,0,525764,Transfer,WhatsApp,Returning,Delivered,7,3.4,0.203,High,February,"106,730.09","131,441",Q1
+WIG0250,3/22/2025,CUST7457,35-45,Enugu,Closure Wig,28,Ombre,82346,4,15000,314384,Transfer,Walk-in,New,Pending,7,4.8,0.413,Medium,March,"129,840.59","78,596",Q1
+WIG0251,3/16/2025,CUST8201,25-34,Port Harcourt,Jerry Curl,26,Blonde,121853,1,0,121853,Card,TikTok,Returning,Pending,6,4,0.193,Low,March,"23,517.63","121,853",Q1
+WIG0252,3/24/2025,CUST8387,18-24,Abuja,Deep Wave,30,Burgundy,97734,4,5000,385936,POS,Facebook,New,Pending,6,4.3,0.363,Medium,March,"140,094.77","96,484",Q1
+WIG0253,5/11/2025,CUST3619,25-34,Benin,Jerry Curl,12,Burgundy,84963,4,15000,324852,Transfer,TikTok,Returning,Returned,2,4.7,0.204,Medium,May,"66,269.81","81,213",Q2
+WIG0254,1/1/2025,CUST5146,18-24,Ibadan,Pixie Curl,10,Burgundy,41842,2,0,83684,Card,Walk-in,New,Returned,2,3.4,0.348,Low,January,"29,122.03","41,842",Q1
+WIG0255,2/17/2025,CUST3429,18-24,Enugu,Closure Wig,22,Blonde,50861,2,0,101722,Transfer,TikTok,New,Returned,3,4.8,0.165,Low,February,"16,784.13","50,861",Q1
+WIG0256,3/18/2025,CUST6289,25-34,Ibadan,Closure Wig,14,Natural Black,73254,1,0,73254,Card,Walk-in,New,Pending,2,3.2,0.408,Low,March,"29,887.63","73,254",Q1
+WIG0257,6/26/2025,CUST5705,25-34,Benin,Bob Wig,26,Blonde,48752,1,5000,43752,Cash,Walk-in,Returning,Delivered,5,4.5,0.299,Low,June,"13,081.85","43,752",Q2
+WIG0258,6/10/2025,CUST2932,35-45,Kano,Deep Wave,14,Brown,95493,1,5000,90493,Card,Facebook,New,Pending,5,4.6,0.214,Low,June,"19,365.50","90,493",Q2
+WIG0259,6/25/2025,CUST6460,25-34,Ibadan,Pixie Curl,16,Ombre,63206,1,0,63206,Transfer,TikTok,New,Pending,6,4,0.292,Low,June,"18,456.15","63,206",Q2
+WIG0260,1/15/2025,CUST9537,25-34,Benin,Bone Straight,30,Blonde,112793,4,15000,436172,Transfer,TikTok,Returning,Pending,2,3.6,0.159,Medium,January,"69,351.35","109,043",Q1
+WIG0261,3/22/2025,CUST1518,25-34,Ibadan,Closure Wig,30,Natural Black,101061,3,15000,288183,Card,TikTok,Returning,Pending,2,4.1,0.203,Medium,March,"58,501.15","96,061",Q1
+WIG0262,3/29/2025,CUST8921,35-45,Kano,Bob Wig,10,Ombre,64083,2,0,128166,Cash,WhatsApp,New,Delivered,2,4.4,0.288,Low,March,"36,911.81","64,083",Q1
+WIG0263,1/12/2025,CUST2689,35-45,Kano,Pixie Curl,26,Blonde,68947,3,5000,201841,Transfer,Walk-in,Returning,Returned,3,3.4,0.236,Low,January,"47,634.48","67,280",Q1
+WIG0264,5/24/2025,CUST9422,18-24,Abuja,Frontal Wig,20,Ombre,85643,1,10000,75643,Cash,Walk-in,Returning,Pending,6,4.6,0.322,Low,May,"24,357.05","75,643",Q2
+WIG0265,1/13/2025,CUST2735,25-34,Lagos,Jerry Curl,12,Natural Black,114399,4,15000,442596,Card,Facebook,New,Returned,5,3.7,0.25,Medium,January,"110,649.00","110,649",Q1
+WIG0266,4/27/2025,CUST6085,35-45,Enugu,Jerry Curl,30,Burgundy,80295,4,0,321180,Card,TikTok,New,Delivered,3,3.8,0.36,Medium,April,"115,624.80","80,295",Q2
+WIG0267,4/29/2025,CUST3798,25-34,Kano,Pixie Curl,20,Blonde,61151,3,5000,178453,POS,Walk-in,New,Pending,3,4.1,0.171,Low,April,"30,515.46","59,484",Q2
+WIG0268,1/17/2025,CUST6582,18-24,Kano,Bob Wig,26,Ombre,73701,4,5000,289804,Card,Facebook,Returning,Returned,2,4.3,0.173,Medium,January,"50,136.09","72,451",Q1
+WIG0269,3/20/2025,CUST7648,18-24,Benin,Pixie Curl,28,Natural Black,66378,4,0,265512,Card,WhatsApp,Returning,Returned,1,3.4,0.192,Medium,March,"50,978.30","66,378",Q1
+WIG0270,5/28/2025,CUST8326,18-24,Abuja,Frontal Wig,30,Blonde,124372,4,10000,487488,Cash,Walk-in,Returning,Pending,1,4.2,0.333,High,May,"162,333.50","121,872",Q2
+WIG0271,3/14/2025,CUST1510,18-24,Ibadan,Frontal Wig,22,Ombre,136943,3,0,410829,Card,WhatsApp,Returning,Pending,4,4.1,0.349,Medium,March,"143,379.32","136,943",Q1
+WIG0272,1/19/2025,CUST1257,18-24,Enugu,Closure Wig,14,Burgundy,104687,2,0,209374,Card,TikTok,New,Delivered,7,3.9,0.387,Low,January,"81,027.74","104,687",Q1
+WIG0273,2/27/2025,CUST4044,25-34,Benin,Frontal Wig,22,Natural Black,120590,4,0,482360,Card,TikTok,Returning,Pending,1,5,0.32,High,February,"154,355.20","120,590",Q1
+WIG0274,1/21/2025,CUST9574,35-45,Lagos,Pixie Curl,20,Brown,64498,4,10000,247992,Card,Instagram,Returning,Returned,3,4.1,0.153,Medium,January,"37,942.78","61,998",Q1
+WIG0275,6/2/2025,CUST5981,35-45,Kano,Closure Wig,26,Ombre,96257,1,15000,81257,Cash,Instagram,Returning,Returned,5,3.1,0.447,Low,June,"36,321.88","81,257",Q2
+WIG0276,2/3/2025,CUST5603,25-34,Kano,Deep Wave,28,Blonde,90074,3,0,270222,Transfer,Instagram,New,Returned,6,3.9,0.392,Medium,February,"105,927.02","90,074",Q1
+WIG0277,4/16/2025,CUST7277,18-24,Enugu,Bob Wig,16,Burgundy,69562,2,5000,134124,POS,TikTok,Returning,Delivered,7,4.6,0.166,Low,April,"22,264.58","67,062",Q2
+WIG0278,2/7/2025,CUST9690,25-34,Lagos,Closure Wig,22,Blonde,119798,4,0,479192,Card,Facebook,Returning,Returned,1,4.8,0.341,High,February,"163,404.47","119,798",Q1
+WIG0279,6/22/2025,CUST4961,35-45,Enugu,Deep Wave,22,Ombre,113468,4,5000,448872,POS,Walk-in,Returning,Returned,3,4.1,0.352,Medium,June,"158,002.94","112,218",Q2
+WIG0280,3/14/2025,CUST5127,18-24,Lagos,Deep Wave,12,Natural Black,126073,2,15000,237146,Transfer,Instagram,New,Returned,6,4.9,0.176,Low,March,"41,737.70","118,573",Q1
+WIG0281,4/27/2025,CUST5528,25-34,Enugu,Frontal Wig,14,Blonde,98205,1,15000,83205,Cash,TikTok,New,Pending,4,3.8,0.449,Low,April,"37,359.05","83,205",Q2
+WIG0282,5/6/2025,CUST2776,18-24,Benin,Bob Wig,18,Burgundy,39548,2,15000,64096,POS,Walk-in,New,Pending,1,3.1,0.171,Low,May,"10,960.42","32,048",Q2
+WIG0283,2/8/2025,CUST6403,25-34,Benin,Pixie Curl,18,Natural Black,30056,4,0,120224,Card,Facebook,Returning,Pending,5,3.5,0.265,Low,February,"31,859.36","30,056",Q1
+WIG0284,3/29/2025,CUST2318,25-34,Kano,Pixie Curl,24,Blonde,33617,3,10000,90851,POS,TikTok,New,Pending,3,4.4,0.419,Low,March,"38,066.57","30,284",Q1
+WIG0285,6/1/2025,CUST4907,25-34,Ibadan,Pixie Curl,20,Natural Black,39171,2,0,78342,Cash,Facebook,Returning,Delivered,3,3.1,0.386,Low,June,"30,240.01","39,171",Q2
+WIG0286,1/10/2025,CUST3319,25-34,Enugu,Bone Straight,22,Natural Black,110491,2,0,220982,Card,Walk-in,New,Delivered,1,3.3,0.165,Low,January,"36,462.03","110,491",Q1
+WIG0287,2/21/2025,CUST7983,25-34,Kano,Bob Wig,12,Burgundy,73734,2,0,147468,Cash,Instagram,New,Pending,7,3.1,0.202,Low,February,"29,788.54","73,734",Q1
+WIG0288,5/29/2025,CUST1666,18-24,Lagos,Bone Straight,12,Ombre,130899,4,0,523596,Card,TikTok,New,Pending,1,3,0.428,High,May,"224,099.09","130,899",Q2
+WIG0289,3/11/2025,CUST9570,25-34,Ibadan,Pixie Curl,30,Brown,38316,2,15000,61632,POS,Walk-in,New,Returned,6,4,0.435,Low,March,"26,809.92","30,816",Q1
+WIG0290,4/3/2025,CUST9842,35-45,Abuja,Pixie Curl,18,Burgundy,37700,1,10000,27700,POS,WhatsApp,New,Delivered,7,3.3,0.403,Low,April,"11,163.10","27,700",Q2
+WIG0291,3/6/2025,CUST6477,35-45,Kano,Closure Wig,24,Burgundy,55651,2,5000,106302,Transfer,Instagram,New,Returned,2,4.6,0.296,Low,March,"31,465.39","53,151",Q1
+WIG0292,3/25/2025,CUST4731,18-24,Abuja,Bone Straight,12,Burgundy,125841,2,0,251682,POS,Facebook,New,Delivered,5,4,0.417,Medium,March,"104,951.39","125,841",Q1
+WIG0293,4/2/2025,CUST5418,18-24,Port Harcourt,Jerry Curl,16,Brown,129636,2,15000,244272,Transfer,Walk-in,New,Pending,1,4.7,0.288,Medium,April,"70,350.34","122,136",Q2
+WIG0294,5/14/2025,CUST9015,18-24,Benin,Jerry Curl,20,Burgundy,108687,1,5000,103687,Card,WhatsApp,New,Returned,6,4.7,0.224,Low,May,"23,225.89","103,687",Q2
+WIG0295,5/10/2025,CUST1550,25-34,Benin,Closure Wig,28,Burgundy,50665,4,15000,187660,Card,Instagram,Returning,Pending,1,4.1,0.154,Low,May,"28,899.64","46,915",Q2
+WIG0296,3/20/2025,CUST3650,35-45,Ibadan,Pixie Curl,22,Ombre,35946,4,15000,128784,Transfer,Facebook,Returning,Delivered,2,4.6,0.261,Low,March,"33,612.62","32,196",Q1
+WIG0297,6/28/2025,CUST9887,35-45,Kano,Closure Wig,30,Brown,93634,4,0,374536,Transfer,Walk-in,Returning,Returned,5,4.9,0.352,Medium,June,"131,836.67","93,634",Q2
+WIG0298,2/22/2025,CUST3267,25-34,Abuja,Bone Straight,12,Ombre,145194,1,10000,135194,Transfer,Facebook,New,Returned,3,3.7,0.23,Low,February,"31,094.62","135,194",Q1
+WIG0299,5/17/2025,CUST9730,25-34,Ibadan,Pixie Curl,22,Ombre,59649,1,5000,54649,Cash,Instagram,New,Pending,1,3.8,0.204,Low,May,"11,148.40","54,649",Q2
+WIG0300,4/17/2025,CUST9870,18-24,Ibadan,Bone Straight,12,Blonde,116596,1,0,116596,Card,Facebook,New,Pending,1,3,0.391,Low,April,"45,589.04","116,596",Q2
+WIG0301,3/19/2025,CUST3161,25-34,Abuja,Deep Wave,26,Blonde,143720,4,5000,569880,POS,Facebook,Returning,Pending,2,3.7,0.287,High,March,"163,555.56","142,470",Q1
+WIG0302,1/11/2025,CUST6187,35-45,Abuja,Jerry Curl,28,Burgundy,107387,2,0,214774,Cash,WhatsApp,New,Delivered,6,3.6,0.253,Low,January,"54,337.82","107,387",Q1
+WIG0303,4/28/2025,CUST6246,18-24,Lagos,Bob Wig,24,Ombre,69972,4,0,279888,Cash,WhatsApp,Returning,Pending,7,4.1,0.422,Medium,April,"118,112.74","69,972",Q2
+WIG0304,4/13/2025,CUST4610,25-34,Port Harcourt,Closure Wig,20,Natural Black,68274,3,0,204822,Cash,Instagram,New,Returned,7,4.9,0.233,Low,April,"47,723.53","68,274",Q2
+WIG0305,6/4/2025,CUST9381,18-24,Enugu,Bone Straight,12,Blonde,165570,4,0,662280,Card,TikTok,Returning,Pending,3,3,0.253,High,June,"167,556.84","165,570",Q2
+WIG0306,4/19/2025,CUST7786,18-24,Kano,Bob Wig,24,Ombre,49135,2,15000,83270,Transfer,TikTok,New,Pending,7,4.1,0.251,Low,April,"20,900.77","41,635",Q2
+WIG0307,2/17/2025,CUST7254,25-34,Benin,Frontal Wig,22,Burgundy,119331,2,0,238662,Transfer,WhatsApp,Returning,Pending,2,3.1,0.151,Low,February,"36,037.96","119,331",Q1
+WIG0308,1/31/2025,CUST5541,25-34,Lagos,Bob Wig,18,Ombre,43138,2,0,86276,Cash,Walk-in,Returning,Returned,7,3.5,0.356,Low,January,"30,714.26","43,138",Q1
+WIG0309,4/29/2025,CUST3219,25-34,Abuja,Pixie Curl,12,Natural Black,40672,2,0,81344,Cash,WhatsApp,Returning,Returned,1,3.6,0.309,Low,April,"25,135.30","40,672",Q2
+WIG0310,6/25/2025,CUST6939,18-24,Benin,Bone Straight,26,Ombre,120403,3,0,361209,Cash,TikTok,New,Delivered,3,4.6,0.274,Medium,June,"98,971.27","120,403",Q2
+WIG0311,4/28/2025,CUST2251,18-24,Kano,Jerry Curl,12,Brown,90257,1,5000,85257,Transfer,Facebook,Returning,Pending,2,4.6,0.417,Low,April,"35,552.17","85,257",Q2
+WIG0312,2/6/2025,CUST4712,25-34,Abuja,Frontal Wig,26,Brown,68769,2,15000,122538,POS,Instagram,Returning,Returned,1,3,0.295,Low,February,"36,148.71","61,269",Q1
+WIG0313,1/12/2025,CUST2085,25-34,Enugu,Closure Wig,10,Natural Black,117302,1,0,117302,Transfer,Instagram,New,Returned,2,4.3,0.159,Low,January,"18,651.02","117,302",Q1
+WIG0314,5/29/2025,CUST1229,35-45,Abuja,Jerry Curl,18,Brown,115591,1,0,115591,Cash,TikTok,New,Returned,2,4.8,0.405,Low,May,"46,814.36","115,591",Q2
+WIG0315,5/12/2025,CUST4728,25-34,Lagos,Closure Wig,20,Blonde,64067,4,0,256268,Transfer,Facebook,New,Returned,4,4.5,0.361,Medium,May,"92,512.75","64,067",Q2
+WIG0316,4/24/2025,CUST4700,35-45,Ibadan,Frontal Wig,10,Blonde,115434,3,15000,331302,Card,TikTok,New,Pending,2,3,0.352,Medium,April,"116,618.30","110,434",Q2
+WIG0317,6/1/2025,CUST2666,35-45,Abuja,Pixie Curl,12,Natural Black,39395,4,15000,142580,Cash,TikTok,Returning,Delivered,1,3.5,0.277,Low,June,"39,494.66","35,645",Q2
+WIG0318,3/13/2025,CUST3414,25-34,Lagos,Closure Wig,18,Natural Black,102459,4,10000,399836,Cash,Facebook,Returning,Delivered,1,3.2,0.166,Medium,March,"66,372.78","99,959",Q1
+WIG0319,5/14/2025,CUST9064,25-34,Abuja,Bone Straight,24,Blonde,98506,1,15000,83506,Card,Facebook,Returning,Returned,7,4.7,0.314,Low,May,"26,220.88","83,506",Q2
+WIG0320,1/9/2025,CUST3897,35-45,Enugu,Deep Wave,10,Blonde,138006,4,0,552024,POS,Facebook,Returning,Delivered,6,3.8,0.379,High,January,"209,217.10","138,006",Q1
+WIG0321,6/1/2025,CUST7189,35-45,Enugu,Frontal Wig,30,Blonde,131412,3,5000,389236,Cash,WhatsApp,New,Delivered,2,4.7,0.255,Medium,June,"99,255.18","129,745",Q2
+WIG0322,1/15/2025,CUST5001,18-24,Abuja,Pixie Curl,28,Blonde,52619,4,0,210476,Transfer,Instagram,Returning,Delivered,2,3,0.248,Low,January,"52,198.05","52,619",Q1
+WIG0323,5/27/2025,CUST7394,25-34,Benin,Closure Wig,30,Natural Black,84946,3,5000,249838,Card,Instagram,New,Pending,5,4.6,0.35,Medium,May,"87,443.30","83,279",Q2
+WIG0324,1/13/2025,CUST5871,35-45,Ibadan,Jerry Curl,28,Brown,117622,3,0,352866,Transfer,Walk-in,New,Returned,3,3.1,0.39,Medium,January,"137,617.74","117,622",Q1
+WIG0325,4/17/2025,CUST7591,25-34,Benin,Closure Wig,22,Ombre,89563,3,0,268689,Card,Walk-in,New,Delivered,5,4,0.348,Medium,April,"93,503.77","89,563",Q2
+WIG0326,4/29/2025,CUST3420,18-24,Abuja,Deep Wave,24,Blonde,148454,2,0,296908,Card,Facebook,Returning,Delivered,7,3.8,0.397,Medium,April,"117,872.48","148,454",Q2
+WIG0327,3/21/2025,CUST8604,25-34,Benin,Pixie Curl,14,Burgundy,39827,1,0,39827,Card,Instagram,New,Delivered,2,3.1,0.387,Low,March,"15,413.05","39,827",Q1
+WIG0328,3/22/2025,CUST5882,18-24,Ibadan,Bob Wig,30,Blonde,77224,1,0,77224,Transfer,Facebook,New,Delivered,5,4.5,0.43,Low,March,"33,206.32","77,224",Q1
+WIG0329,5/30/2025,CUST7388,35-45,Enugu,Frontal Wig,30,Brown,76829,3,0,230487,Card,TikTok,New,Delivered,2,4.9,0.282,Low,May,"64,997.33","76,829",Q2
+WIG0330,6/24/2025,CUST5036,25-34,Kano,Bob Wig,28,Brown,69961,4,5000,274844,Cash,Facebook,Returning,Pending,6,4.9,0.332,Medium,June,"91,248.21","68,711",Q2
+WIG0331,4/10/2025,CUST1128,25-34,Port Harcourt,Deep Wave,30,Blonde,95997,2,5000,186994,Transfer,TikTok,Returning,Delivered,4,4.3,0.414,Low,April,"77,415.52","93,497",Q2
+WIG0332,4/19/2025,CUST2644,18-24,Enugu,Deep Wave,30,Blonde,134127,3,15000,387381,Transfer,WhatsApp,Returning,Returned,4,4.4,0.379,Medium,April,"146,817.40","129,127",Q2
+WIG0333,5/28/2025,CUST2347,18-24,Abuja,Pixie Curl,30,Brown,56257,3,0,168771,POS,Walk-in,Returning,Pending,4,4.7,0.19,Low,May,"32,066.49","56,257",Q2
+WIG0334,4/7/2025,CUST4677,18-24,Lagos,Jerry Curl,30,Ombre,112936,2,5000,220872,POS,Instagram,Returning,Delivered,6,4.7,0.165,Low,April,"36,443.88","110,436",Q2
+WIG0335,5/15/2025,CUST8129,25-34,Kano,Frontal Wig,22,Burgundy,113224,1,15000,98224,Transfer,TikTok,New,Delivered,3,4.5,0.265,Low,May,"26,029.36","98,224",Q2
+WIG0336,3/16/2025,CUST5289,18-24,Benin,Closure Wig,16,Burgundy,74820,2,0,149640,POS,WhatsApp,Returning,Delivered,4,3.3,0.247,Low,March,"36,961.08","74,820",Q1
+WIG0337,1/16/2025,CUST1853,25-34,Abuja,Pixie Curl,22,Burgundy,46792,1,10000,36792,Cash,Walk-in,New,Delivered,5,4.2,0.241,Low,January,"8,866.87","36,792",Q1
+WIG0338,5/7/2025,CUST6557,25-34,Abuja,Closure Wig,30,Natural Black,55390,2,10000,100780,Cash,Walk-in,Returning,Delivered,1,3.6,0.444,Low,May,"44,746.32","50,390",Q2
+WIG0339,2/12/2025,CUST6169,35-45,Ibadan,Closure Wig,18,Brown,84500,3,5000,248500,Card,Instagram,New,Delivered,2,3.4,0.291,Medium,February,"72,313.50","82,833",Q1
+WIG0340,1/29/2025,CUST3425,18-24,Port Harcourt,Jerry Curl,24,Natural Black,85207,4,5000,335828,POS,WhatsApp,New,Delivered,5,4.8,0.326,Medium,January,"109,479.93","83,957",Q1
+WIG0341,3/14/2025,CUST2998,25-34,Port Harcourt,Frontal Wig,10,Ombre,97264,3,0,291792,Transfer,WhatsApp,New,Delivered,4,4.7,0.348,Medium,March,"101,543.62","97,264",Q1
+WIG0342,1/13/2025,CUST5635,25-34,Kano,Closure Wig,30,Natural Black,55747,2,0,111494,Transfer,Walk-in,Returning,Delivered,3,3.4,0.44,Low,January,"49,057.36","55,747",Q1
+WIG0343,3/18/2025,CUST9042,25-34,Enugu,Deep Wave,22,Blonde,117347,2,0,234694,POS,WhatsApp,New,Pending,4,3.9,0.266,Low,March,"62,428.60","117,347",Q1
+WIG0344,1/11/2025,CUST9410,25-34,Ibadan,Bob Wig,28,Brown,40912,4,0,163648,POS,Facebook,New,Pending,4,3.2,0.39,Low,January,"63,822.72","40,912",Q1
+WIG0345,5/12/2025,CUST2763,35-45,Ibadan,Bob Wig,14,Burgundy,51295,1,0,51295,Transfer,Facebook,Returning,Pending,5,3.2,0.301,Low,May,"15,439.80","51,295",Q2
+WIG0346,5/31/2025,CUST8454,35-45,Ibadan,Bone Straight,30,Ombre,155670,3,0,467010,Cash,WhatsApp,New,Delivered,1,4.5,0.331,High,May,"154,580.31","155,670",Q2
+WIG0347,6/17/2025,CUST8817,25-34,Enugu,Deep Wave,30,Burgundy,95293,1,0,95293,Card,WhatsApp,Returning,Returned,7,3.6,0.188,Low,June,"17,915.08","95,293",Q2
+WIG0348,3/3/2025,CUST8139,35-45,Kano,Bone Straight,16,Ombre,109668,2,15000,204336,POS,Instagram,Returning,Pending,4,3.8,0.185,Low,March,"37,802.16","102,168",Q1
+WIG0349,4/11/2025,CUST1834,25-34,Lagos,Jerry Curl,24,Natural Black,131799,3,10000,385397,Card,Facebook,Returning,Returned,1,4,0.296,Medium,April,"114,077.51","128,466",Q2
+WIG0350,1/17/2025,CUST5388,35-45,Ibadan,Frontal Wig,28,Burgundy,134246,3,10000,392738,Transfer,Facebook,Returning,Pending,1,3.3,0.368,Medium,January,"144,527.58","130,913",Q1
+WIG0351,4/10/2025,CUST7829,35-45,Enugu,Closure Wig,20,Blonde,78796,2,0,157592,Card,TikTok,New,Pending,6,4,0.202,Low,April,"31,833.58","78,796",Q2
+WIG0352,4/2/2025,CUST5273,25-34,Enugu,Jerry Curl,28,Brown,83225,1,0,83225,POS,Walk-in,New,Delivered,4,3.2,0.218,Low,April,"18,143.05","83,225",Q2
+WIG0353,5/12/2025,CUST2706,35-45,Lagos,Frontal Wig,16,Burgundy,71117,2,15000,127234,Card,Instagram,New,Returned,7,4.1,0.302,Low,May,"38,424.67","63,617",Q2
+WIG0354,1/26/2025,CUST3527,35-45,Port Harcourt,Jerry Curl,30,Blonde,96920,4,15000,372680,POS,Instagram,New,Pending,7,4.5,0.224,Medium,January,"83,480.32","93,170",Q1
+WIG0355,6/11/2025,CUST5021,18-24,Kano,Deep Wave,24,Ombre,128815,4,0,515260,Card,TikTok,New,Pending,4,4.8,0.436,High,June,"224,653.36","128,815",Q2
+WIG0356,3/22/2025,CUST7580,18-24,Ibadan,Frontal Wig,30,Natural Black,66303,1,0,66303,Card,Instagram,New,Returned,6,5,0.39,Low,March,"25,858.17","66,303",Q1
+WIG0357,5/16/2025,CUST3406,35-45,Ibadan,Frontal Wig,18,Burgundy,159575,1,0,159575,POS,Walk-in,Returning,Returned,7,4.6,0.271,Low,May,"43,244.83","159,575",Q2
+WIG0358,1/24/2025,CUST9383,35-45,Port Harcourt,Jerry Curl,18,Ombre,74845,3,0,224535,Cash,TikTok,New,Delivered,2,4.7,0.241,Low,January,"54,112.94","74,845",Q1
+WIG0359,6/16/2025,CUST3043,25-34,Port Harcourt,Closure Wig,26,Ombre,84046,1,0,84046,Transfer,Facebook,Returning,Delivered,3,3.6,0.35,Low,June,"29,416.10","84,046",Q2
+WIG0360,4/27/2025,CUST2605,18-24,Enugu,Deep Wave,28,Burgundy,147692,2,0,295384,Card,Instagram,New,Delivered,2,4,0.284,Medium,April,"83,889.06","147,692",Q2
+WIG0361,6/26/2025,CUST9020,35-45,Ibadan,Bob Wig,30,Brown,73550,4,5000,289200,POS,Walk-in,New,Pending,2,4.9,0.304,Medium,June,"87,916.80","72,300",Q2
+WIG0362,4/15/2025,CUST2807,18-24,Port Harcourt,Frontal Wig,12,Ombre,85557,1,10000,75557,Cash,Instagram,New,Delivered,3,5,0.241,Low,April,"18,209.24","75,557",Q2
+WIG0363,5/6/2025,CUST1034,18-24,Benin,Closure Wig,10,Blonde,105280,2,0,210560,Transfer,Instagram,Returning,Pending,5,3.9,0.251,Low,May,"52,850.56","105,280",Q2
+WIG0364,3/25/2025,CUST2463,35-45,Enugu,Closure Wig,24,Ombre,68156,4,0,272624,Card,Facebook,New,Pending,5,3.1,0.351,Medium,March,"95,691.02","68,156",Q1
+WIG0365,6/8/2025,CUST9877,35-45,Kano,Closure Wig,18,Natural Black,53251,1,0,53251,POS,Facebook,New,Delivered,1,3.5,0.212,Low,June,"11,289.21","53,251",Q2
+WIG0366,3/29/2025,CUST8160,18-24,Ibadan,Deep Wave,28,Natural Black,85896,4,0,343584,Cash,Facebook,Returning,Delivered,1,4.1,0.236,Medium,March,"81,085.82","85,896",Q1
+WIG0367,1/7/2025,CUST1958,25-34,Ibadan,Jerry Curl,18,Natural Black,90214,3,0,270642,Cash,TikTok,Returning,Pending,4,4.9,0.42,Medium,January,"113,669.64","90,214",Q1
+WIG0368,3/23/2025,CUST8615,35-45,Ibadan,Bone Straight,16,Natural Black,126407,3,0,379221,Card,Instagram,Returning,Returned,1,3.5,0.439,Medium,March,"166,478.02","126,407",Q1
+WIG0369,4/6/2025,CUST9854,18-24,Kano,Pixie Curl,12,Brown,35499,2,0,70998,Card,Walk-in,Returning,Delivered,7,3.9,0.399,Low,April,"28,328.20","35,499",Q2
+WIG0370,6/11/2025,CUST4485,35-45,Kano,Bob Wig,30,Ombre,38943,4,0,155772,Cash,Instagram,New,Returned,3,3.2,0.36,Low,June,"56,077.92","38,943",Q2
+WIG0371,3/8/2025,CUST8417,25-34,Abuja,Deep Wave,14,Blonde,121720,3,15000,350160,Cash,TikTok,Returning,Returned,1,4.8,0.19,Medium,March,"66,530.40","116,720",Q1
+WIG0372,1/21/2025,CUST2270,35-45,Lagos,Bone Straight,28,Burgundy,157459,4,10000,619836,Transfer,WhatsApp,Returning,Returned,4,3.4,0.38,High,January,"235,537.68","154,959",Q1
+WIG0373,6/24/2025,CUST6862,18-24,Lagos,Pixie Curl,10,Ombre,30613,1,0,30613,Cash,TikTok,New,Pending,1,3.6,0.421,Low,June,"12,888.07","30,613",Q2
+WIG0374,5/22/2025,CUST4174,35-45,Enugu,Pixie Curl,28,Ombre,48176,4,0,192704,POS,Instagram,New,Returned,2,3.5,0.321,Low,May,"61,857.98","48,176",Q2
+WIG0375,4/20/2025,CUST1849,25-34,Ibadan,Jerry Curl,26,Burgundy,95146,4,0,380584,Cash,Instagram,Returning,Pending,5,4.5,0.415,Medium,April,"157,942.36","95,146",Q2
+WIG0376,1/21/2025,CUST1415,35-45,Abuja,Jerry Curl,10,Burgundy,125058,2,0,250116,Transfer,TikTok,New,Delivered,3,3.1,0.338,Medium,January,"84,539.21","125,058",Q1
+WIG0377,3/29/2025,CUST1891,25-34,Benin,Bone Straight,24,Brown,151616,4,0,606464,Transfer,Walk-in,Returning,Delivered,5,3.2,0.442,High,March,"268,057.09","151,616",Q1
+WIG0378,1/27/2025,CUST1914,35-45,Lagos,Bone Straight,22,Blonde,136062,4,0,544248,Card,Facebook,New,Returned,2,4.7,0.386,High,January,"210,079.73","136,062",Q1
+WIG0379,5/13/2025,CUST6377,35-45,Abuja,Frontal Wig,10,Natural Black,146292,1,5000,141292,Transfer,Instagram,New,Returned,5,3.3,0.303,Low,May,"42,811.48","141,292",Q2
+WIG0380,5/30/2025,CUST8140,35-45,Enugu,Bob Wig,22,Blonde,47184,2,0,94368,Cash,Walk-in,New,Delivered,3,4.2,0.237,Low,May,"22,365.22","47,184",Q2
+WIG0381,2/20/2025,CUST4282,35-45,Abuja,Bone Straight,26,Natural Black,171865,4,0,687460,Cash,TikTok,Returning,Returned,5,4.4,0.406,High,February,"279,108.76","171,865",Q1
+WIG0382,2/26/2025,CUST1060,35-45,Abuja,Frontal Wig,20,Brown,86270,1,5000,81270,Card,Walk-in,New,Delivered,6,4.5,0.394,Low,February,"32,020.38","81,270",Q1
+WIG0383,5/23/2025,CUST2887,18-24,Port Harcourt,Deep Wave,22,Burgundy,89664,3,0,268992,POS,Walk-in,Returning,Delivered,2,3.4,0.202,Medium,May,"54,336.38","89,664",Q2
+WIG0384,6/23/2025,CUST3248,25-34,Enugu,Bob Wig,14,Natural Black,46700,1,0,46700,Cash,TikTok,Returning,Pending,3,4.6,0.348,Low,June,"16,251.60","46,700",Q2
+WIG0385,4/6/2025,CUST6209,35-45,Ibadan,Frontal Wig,28,Brown,82143,4,15000,313572,Transfer,Walk-in,New,Returned,7,3.3,0.224,Medium,April,"70,240.13","78,393",Q2
+WIG0386,5/11/2025,CUST7358,35-45,Kano,Pixie Curl,18,Ombre,35335,1,0,35335,Cash,Facebook,Returning,Delivered,6,3.7,0.358,Low,May,"12,649.93","35,335",Q2
+WIG0387,2/21/2025,CUST8406,18-24,Ibadan,Pixie Curl,24,Brown,68271,2,0,136542,Cash,Facebook,Returning,Returned,7,3.7,0.315,Low,February,"43,010.73","68,271",Q1
+WIG0388,6/9/2025,CUST6511,25-34,Ibadan,Jerry Curl,12,Burgundy,128262,4,10000,503048,Card,Facebook,Returning,Pending,3,3.8,0.204,High,June,"102,621.79","125,762",Q2
+WIG0389,2/28/2025,CUST2612,18-24,Lagos,Jerry Curl,18,Blonde,79946,1,0,79946,Transfer,Walk-in,New,Pending,6,3.7,0.241,Low,February,"19,266.99","79,946",Q1
+WIG0390,3/14/2025,CUST6679,25-34,Ibadan,Deep Wave,30,Ombre,114227,1,0,114227,Transfer,Facebook,New,Pending,2,4.4,0.213,Low,March,"24,330.35","114,227",Q1
+WIG0391,6/28/2025,CUST7843,18-24,Ibadan,Jerry Curl,26,Burgundy,131438,2,5000,257876,Transfer,WhatsApp,New,Returned,3,4.9,0.153,Medium,June,"39,455.03","128,938",Q2
+WIG0392,1/6/2025,CUST1527,18-24,Abuja,Deep Wave,30,Blonde,119274,3,10000,347822,Card,Facebook,New,Pending,5,3.8,0.292,Medium,January,"101,564.02","115,941",Q1
+WIG0393,6/4/2025,CUST9005,18-24,Abuja,Bob Wig,28,Brown,41110,1,15000,26110,Transfer,Facebook,Returning,Delivered,3,4.3,0.171,Low,June,"4,464.81","26,110",Q2
+WIG0394,5/18/2025,CUST7855,25-34,Enugu,Bone Straight,20,Natural Black,162964,1,0,162964,Card,TikTok,New,Delivered,4,4.6,0.349,Low,May,"56,874.44","162,964",Q2
+WIG0395,2/6/2025,CUST8302,18-24,Kano,Jerry Curl,28,Burgundy,110673,2,0,221346,POS,Walk-in,Returning,Returned,4,3.9,0.162,Low,February,"35,858.05","110,673",Q1
+WIG0396,6/8/2025,CUST8079,25-34,Ibadan,Bone Straight,18,Brown,179711,2,0,359422,Transfer,Facebook,New,Delivered,3,4.8,0.311,Medium,June,"111,780.24","179,711",Q2
+WIG0397,4/26/2025,CUST3700,25-34,Abuja,Pixie Curl,12,Ombre,35015,3,5000,100045,Transfer,Facebook,New,Delivered,4,3.7,0.27,Low,April,"27,012.15","33,348",Q2
+WIG0398,4/29/2025,CUST2117,18-24,Benin,Jerry Curl,22,Brown,71407,4,5000,280628,Card,TikTok,Returning,Pending,2,4.7,0.332,Medium,April,"93,168.50","70,157",Q2
+WIG0399,4/2/2025,CUST3915,18-24,Enugu,Jerry Curl,18,Natural Black,121229,2,5000,237458,POS,Facebook,New,Returned,4,4.4,0.283,Low,April,"67,200.61","118,729",Q2
+WIG0400,4/18/2025,CUST1457,18-24,Port Harcourt,Frontal Wig,10,Brown,114105,1,0,114105,Transfer,TikTok,New,Returned,6,3.3,0.275,Low,April,"31,378.88","114,105",Q2
+WIG0401,2/24/2025,CUST2734,25-34,Port Harcourt,Bone Straight,20,Brown,137294,1,0,137294,Transfer,Facebook,Returning,Delivered,2,3.9,0.17,Low,February,"23,339.98","137,294",Q1
+WIG0402,5/18/2025,CUST3809,25-34,Lagos,Deep Wave,18,Ombre,119522,4,0,478088,Cash,Facebook,New,Pending,6,4.5,0.356,High,May,"170,199.33","119,522",Q2
+WIG0403,6/13/2025,CUST4808,35-45,Benin,Deep Wave,30,Natural Black,138839,4,10000,545356,POS,Instagram,New,Pending,6,3.9,0.223,High,June,"121,614.39","136,339",Q2
+WIG0404,1/10/2025,CUST4900,35-45,Benin,Bone Straight,10,Burgundy,113029,2,15000,211058,Cash,TikTok,Returning,Pending,5,4.6,0.274,Low,January,"57,829.89","105,529",Q1
+WIG0405,3/5/2025,CUST4644,35-45,Kano,Deep Wave,18,Burgundy,106976,1,15000,91976,Cash,TikTok,Returning,Returned,1,4.7,0.171,Low,March,"15,727.90","91,976",Q1
+WIG0406,1/21/2025,CUST7983,35-45,Ibadan,Jerry Curl,10,Blonde,88550,2,10000,167100,POS,TikTok,New,Pending,5,3.5,0.236,Low,January,"39,435.60","83,550",Q1
+WIG0407,4/23/2025,CUST7925,35-45,Benin,Closure Wig,30,Burgundy,60487,2,5000,115974,POS,Facebook,New,Pending,7,3.2,0.422,Low,April,"48,941.03","57,987",Q2
+WIG0408,3/14/2025,CUST7146,35-45,Benin,Bob Wig,28,Burgundy,71231,3,5000,208693,Transfer,WhatsApp,New,Returned,2,3.3,0.207,Low,March,"43,199.45","69,564",Q1
+WIG0409,6/14/2025,CUST2167,25-34,Lagos,Bone Straight,26,Natural Black,144054,4,0,576216,Card,Walk-in,New,Delivered,3,4.5,0.375,High,June,"216,081.00","144,054",Q2
+WIG0410,5/3/2025,CUST1565,25-34,Enugu,Bob Wig,26,Natural Black,80642,2,0,161284,POS,WhatsApp,Returning,Returned,3,3.5,0.324,Low,May,"52,256.02","80,642",Q2
+WIG0411,2/12/2025,CUST7993,25-34,Enugu,Pixie Curl,14,Blonde,68414,2,5000,131828,Card,Walk-in,Returning,Returned,7,4.8,0.368,Low,February,"48,512.70","65,914",Q1
+WIG0412,5/6/2025,CUST1025,18-24,Lagos,Bone Straight,12,Burgundy,178385,1,0,178385,Card,WhatsApp,Returning,Delivered,3,3.4,0.19,Low,May,"33,893.15","178,385",Q2
+WIG0413,3/8/2025,CUST7697,25-34,Enugu,Closure Wig,14,Ombre,77862,2,0,155724,Transfer,TikTok,New,Pending,4,3.2,0.169,Low,March,"26,317.36","77,862",Q1
+WIG0414,5/30/2025,CUST1685,18-24,Abuja,Bone Straight,28,Ombre,125773,1,15000,110773,Transfer,Facebook,Returning,Pending,7,3.7,0.279,Low,May,"30,905.67","110,773",Q2
+WIG0415,3/26/2025,CUST2641,18-24,Ibadan,Bob Wig,30,Burgundy,50702,1,0,50702,POS,Instagram,New,Returned,6,4.5,0.225,Low,March,"11,407.95","50,702",Q1
+WIG0416,3/25/2025,CUST8279,18-24,Benin,Closure Wig,28,Burgundy,74633,3,0,223899,Card,Walk-in,New,Pending,4,5,0.407,Low,March,"91,126.89","74,633",Q1
+WIG0417,5/8/2025,CUST2426,25-34,Kano,Bone Straight,22,Ombre,133517,1,0,133517,Card,TikTok,Returning,Delivered,6,4.1,0.223,Low,May,"29,774.29","133,517",Q2
+WIG0418,3/7/2025,CUST8803,35-45,Lagos,Jerry Curl,30,Brown,83824,3,0,251472,Card,Instagram,Returning,Delivered,6,3.7,0.423,Medium,March,"106,372.66","83,824",Q1
+WIG0419,1/23/2025,CUST6574,35-45,Benin,Pixie Curl,22,Brown,37581,1,0,37581,Transfer,Walk-in,Returning,Delivered,4,4.2,0.151,Low,January,"5,674.73","37,581",Q1
+WIG0420,4/12/2025,CUST1150,35-45,Kano,Bone Straight,28,Burgundy,165202,2,0,330404,Cash,TikTok,Returning,Delivered,6,3.9,0.33,Medium,April,"109,033.32","165,202",Q2
+WIG0421,2/25/2025,CUST9110,25-34,Enugu,Jerry Curl,30,Burgundy,111961,4,15000,432844,Transfer,WhatsApp,New,Returned,7,4.5,0.393,Medium,February,"170,107.69","108,211",Q1
+WIG0422,4/19/2025,CUST8756,25-34,Kano,Pixie Curl,10,Burgundy,40432,4,0,161728,Card,Instagram,Returning,Pending,6,4.7,0.268,Low,April,"43,343.10","40,432",Q2
+WIG0423,5/4/2025,CUST5769,18-24,Abuja,Jerry Curl,20,Brown,77094,4,15000,293376,POS,Instagram,Returning,Returned,6,4.6,0.408,Medium,May,"119,697.41","73,344",Q2
+WIG0424,6/16/2025,CUST6545,35-45,Ibadan,Closure Wig,22,Brown,96607,1,10000,86607,Card,TikTok,New,Delivered,4,4,0.356,Low,June,"30,832.09","86,607",Q2
+WIG0425,1/30/2025,CUST2353,18-24,Ibadan,Jerry Curl,30,Ombre,81745,1,0,81745,POS,Instagram,Returning,Pending,7,4.2,0.265,Low,January,"21,662.43","81,745",Q1
+WIG0426,1/6/2025,CUST7451,35-45,Kano,Pixie Curl,22,Ombre,65226,4,15000,245904,Card,Instagram,New,Delivered,2,4.7,0.359,Medium,January,"88,279.54","61,476",Q1
+WIG0427,5/24/2025,CUST5206,18-24,Lagos,Bone Straight,26,Natural Black,153619,2,0,307238,Cash,WhatsApp,New,Pending,2,3.6,0.434,Medium,May,"133,341.29","153,619",Q2
+WIG0428,5/18/2025,CUST9365,18-24,Enugu,Frontal Wig,18,Natural Black,156108,3,10000,458324,Transfer,TikTok,New,Delivered,3,4.7,0.215,Medium,May,"98,539.66","152,775",Q2
+WIG0429,3/7/2025,CUST5270,25-34,Enugu,Jerry Curl,28,Brown,98316,1,10000,88316,Card,Facebook,New,Pending,6,3.3,0.211,Low,March,"18,634.68","88,316",Q1
+WIG0430,3/22/2025,CUST8104,25-34,Lagos,Pixie Curl,18,Ombre,63516,4,0,254064,POS,Instagram,Returning,Delivered,6,4.1,0.17,Medium,March,"43,190.88","63,516",Q1
+WIG0431,2/26/2025,CUST7203,18-24,Kano,Pixie Curl,12,Natural Black,47933,1,5000,42933,POS,Walk-in,Returning,Returned,1,4.1,0.36,Low,February,"15,455.88","42,933",Q1
+WIG0432,3/30/2025,CUST9711,35-45,Benin,Deep Wave,18,Burgundy,121680,4,0,486720,Card,Walk-in,New,Pending,6,4,0.197,High,March,"95,883.84","121,680",Q1
+WIG0433,4/23/2025,CUST6799,25-34,Benin,Jerry Curl,14,Blonde,105044,4,0,420176,Cash,Facebook,New,Pending,3,3.8,0.244,Medium,April,"102,522.94","105,044",Q2
+WIG0434,3/15/2025,CUST9074,18-24,Ibadan,Bone Straight,30,Ombre,105416,1,15000,90416,POS,Facebook,Returning,Returned,4,3,0.207,Low,March,"18,716.11","90,416",Q1
+WIG0435,6/22/2025,CUST9577,18-24,Abuja,Deep Wave,10,Natural Black,85551,4,0,342204,Cash,TikTok,Returning,Delivered,4,3.8,0.262,Medium,June,"89,657.45","85,551",Q2
+WIG0436,6/11/2025,CUST7449,18-24,Port Harcourt,Bone Straight,20,Ombre,127737,2,0,255474,Transfer,Facebook,Returning,Delivered,1,4.2,0.249,Medium,June,"63,613.03","127,737",Q2
+WIG0437,5/6/2025,CUST4236,18-24,Benin,Bob Wig,12,Ombre,82345,1,5000,77345,POS,Facebook,New,Pending,2,4.5,0.225,Low,May,"17,402.63","77,345",Q2
+WIG0438,6/18/2025,CUST8198,18-24,Abuja,Closure Wig,22,Blonde,106143,1,5000,101143,Card,Instagram,Returning,Returned,1,3.4,0.162,Low,June,"16,385.17","101,143",Q2
+WIG0439,5/21/2025,CUST9119,35-45,Enugu,Closure Wig,22,Brown,76082,4,5000,299328,Cash,Facebook,Returning,Delivered,1,4.6,0.188,Medium,May,"56,273.66","74,832",Q2
+WIG0440,3/16/2025,CUST5623,25-34,Lagos,Bob Wig,26,Burgundy,38410,4,5000,148640,POS,Walk-in,New,Returned,2,3.6,0.185,Low,March,"27,498.40","37,160",Q1
+WIG0441,6/11/2025,CUST3436,18-24,Lagos,Bob Wig,16,Brown,66057,2,10000,122114,Card,Instagram,Returning,Delivered,4,3,0.21,Low,June,"25,643.94","61,057",Q2
+WIG0442,5/3/2025,CUST2005,35-45,Ibadan,Deep Wave,10,Natural Black,109068,3,5000,322204,Cash,Instagram,Returning,Pending,3,4.4,0.224,Medium,May,"72,173.70","107,401",Q2
+WIG0443,1/26/2025,CUST8059,18-24,Port Harcourt,Bone Straight,14,Burgundy,100359,3,10000,291077,Cash,WhatsApp,Returning,Delivered,6,3,0.316,Medium,January,"91,980.33","97,026",Q1
+WIG0444,3/12/2025,CUST4441,35-45,Ibadan,Deep Wave,14,Natural Black,128705,2,15000,242410,Transfer,TikTok,New,Delivered,2,4.4,0.428,Medium,March,"103,751.48","121,205",Q1
+WIG0445,2/19/2025,CUST7851,35-45,Enugu,Bone Straight,26,Blonde,176134,1,0,176134,Cash,WhatsApp,Returning,Returned,4,3.1,0.276,Low,February,"48,612.98","176,134",Q1
+WIG0446,4/12/2025,CUST9110,35-45,Benin,Frontal Wig,10,Ombre,102965,2,15000,190930,Transfer,TikTok,Returning,Returned,5,4.6,0.27,Low,April,"51,551.10","95,465",Q2
+WIG0447,5/15/2025,CUST5240,25-34,Kano,Bob Wig,16,Brown,45485,4,10000,171940,Cash,WhatsApp,New,Delivered,1,4.1,0.238,Low,May,"40,921.72","42,985",Q2
+WIG0448,6/16/2025,CUST6692,35-45,Benin,Pixie Curl,14,Blonde,46318,1,0,46318,Cash,Instagram,Returning,Returned,4,4.8,0.238,Low,June,"11,023.68","46,318",Q2
+WIG0449,6/26/2025,CUST7258,35-45,Port Harcourt,Bone Straight,30,Ombre,96364,1,15000,81364,POS,Facebook,New,Pending,2,4.2,0.392,Low,June,"31,894.69","81,364",Q2
+WIG0450,2/16/2025,CUST8526,18-24,Kano,Deep Wave,22,Brown,142784,1,5000,137784,POS,Walk-in,Returning,Returned,6,3.6,0.243,Low,February,"33,481.51","137,784",Q1
+WIG0451,4/14/2025,CUST2642,35-45,Benin,Jerry Curl,22,Brown,94621,4,15000,363484,Transfer,Walk-in,New,Pending,1,3.2,0.154,Medium,April,"55,976.54","90,871",Q2
+WIG0452,5/19/2025,CUST6544,35-45,Lagos,Deep Wave,30,Brown,81769,1,0,81769,POS,Facebook,Returning,Delivered,3,4,0.223,Low,May,"18,234.49","81,769",Q2
+WIG0453,4/17/2025,CUST3323,18-24,Abuja,Frontal Wig,18,Natural Black,78476,1,10000,68476,POS,Facebook,Returning,Delivered,6,3.6,0.427,Low,April,"29,239.25","68,476",Q2
+WIG0454,6/7/2025,CUST6467,18-24,Port Harcourt,Pixie Curl,22,Natural Black,36667,3,0,110001,Transfer,Walk-in,New,Delivered,5,3.7,0.204,Low,June,"22,440.20","36,667",Q2
+WIG0455,1/20/2025,CUST1035,18-24,Kano,Closure Wig,14,Brown,63621,3,15000,175863,Cash,TikTok,Returning,Pending,7,3.1,0.323,Low,January,"56,803.75","58,621",Q1
+WIG0456,4/19/2025,CUST8885,35-45,Ibadan,Pixie Curl,18,Ombre,55232,3,5000,160696,Cash,TikTok,New,Pending,5,4,0.31,Low,April,"49,815.76","53,565",Q2
+WIG0457,4/3/2025,CUST1046,18-24,Kano,Frontal Wig,26,Natural Black,134067,1,0,134067,Cash,Walk-in,Returning,Delivered,1,4.8,0.258,Low,April,"34,589.29","134,067",Q2
+WIG0458,2/5/2025,CUST2920,35-45,Enugu,Deep Wave,14,Brown,109437,1,15000,94437,Card,Instagram,Returning,Pending,6,3.2,0.324,Low,February,"30,597.59","94,437",Q1
+WIG0459,5/26/2025,CUST7823,18-24,Kano,Closure Wig,28,Brown,97873,1,0,97873,Card,TikTok,Returning,Pending,6,3.7,0.384,Low,May,"37,583.23","97,873",Q2
+WIG0460,4/12/2025,CUST7940,35-45,Ibadan,Pixie Curl,10,Ombre,32104,2,0,64208,Cash,Walk-in,Returning,Returned,4,4.9,0.232,Low,April,"14,896.26","32,104",Q2
+WIG0461,5/24/2025,CUST2264,35-45,Ibadan,Bone Straight,26,Burgundy,144487,4,0,577948,Cash,Facebook,Returning,Delivered,7,3.7,0.277,High,May,"160,091.60","144,487",Q2
+WIG0462,1/28/2025,CUST2070,18-24,Benin,Bob Wig,12,Natural Black,58770,2,10000,107540,Cash,TikTok,New,Returned,2,3.5,0.443,Low,January,"47,640.22","53,770",Q1
+WIG0463,3/14/2025,CUST7523,35-45,Abuja,Frontal Wig,10,Blonde,106232,1,0,106232,Card,WhatsApp,New,Returned,3,3.8,0.372,Low,March,"39,518.30","106,232",Q1
+WIG0464,2/8/2025,CUST8587,18-24,Enugu,Bone Straight,26,Natural Black,114685,3,0,344055,POS,TikTok,New,Returned,5,4,0.369,Medium,February,"126,956.30","114,685",Q1
+WIG0465,6/24/2025,CUST7350,18-24,Abuja,Pixie Curl,26,Ombre,53613,1,15000,38613,Transfer,TikTok,Returning,Delivered,2,4.5,0.243,Low,June,"9,382.96","38,613",Q2
+WIG0466,5/28/2025,CUST6952,25-34,Lagos,Deep Wave,12,Natural Black,101164,1,0,101164,POS,Facebook,Returning,Pending,7,4.8,0.345,Low,May,"34,901.58","101,164",Q2
+WIG0467,4/4/2025,CUST9396,35-45,Port Harcourt,Jerry Curl,12,Blonde,133997,2,5000,262994,Transfer,Facebook,Returning,Pending,5,5,0.167,Medium,April,"43,920.00","131,497",Q2
+WIG0468,2/27/2025,CUST7360,25-34,Enugu,Deep Wave,16,Natural Black,100736,4,0,402944,Cash,Facebook,Returning,Returned,1,3.2,0.37,Medium,February,"149,089.28","100,736",Q1
+WIG0469,5/2/2025,CUST2873,25-34,Ibadan,Closure Wig,22,Natural Black,58450,2,15000,101900,POS,Facebook,New,Returned,3,4.1,0.446,Low,May,"45,447.40","50,950",Q2
+WIG0470,4/19/2025,CUST5421,25-34,Enugu,Deep Wave,22,Brown,107720,1,15000,92720,Transfer,TikTok,New,Pending,1,3.6,0.364,Low,April,"33,750.08","92,720",Q2
+WIG0471,3/18/2025,CUST3695,18-24,Port Harcourt,Deep Wave,22,Burgundy,92116,4,0,368464,Card,Facebook,New,Returned,3,4.8,0.321,Medium,March,"118,276.94","92,116",Q1
+WIG0472,2/7/2025,CUST9182,25-34,Lagos,Deep Wave,10,Burgundy,81859,2,5000,158718,Cash,Walk-in,New,Pending,6,3.9,0.441,Low,February,"69,994.64","79,359",Q1
+WIG0473,2/18/2025,CUST1235,25-34,Kano,Bone Straight,10,Blonde,123655,3,0,370965,Transfer,WhatsApp,Returning,Returned,6,4,0.45,Medium,February,"166,934.25","123,655",Q1
+WIG0474,4/20/2025,CUST7113,18-24,Benin,Closure Wig,22,Ombre,105816,2,5000,206632,POS,Walk-in,Returning,Pending,7,4.3,0.354,Low,April,"73,147.73","103,316",Q2
+WIG0475,6/9/2025,CUST9924,18-24,Enugu,Pixie Curl,18,Burgundy,31076,1,5000,26076,Transfer,WhatsApp,Returning,Delivered,7,3.9,0.264,Low,June,"6,884.06","26,076",Q2
+WIG0476,5/10/2025,CUST5646,25-34,Enugu,Jerry Curl,24,Blonde,115955,3,0,347865,Cash,Facebook,New,Delivered,1,3,0.196,Medium,May,"68,181.54","115,955",Q2
+WIG0477,6/7/2025,CUST7444,18-24,Kano,Bob Wig,26,Ombre,56960,4,0,227840,Card,TikTok,Returning,Returned,4,4.8,0.305,Low,June,"69,491.20","56,960",Q2
+WIG0478,2/10/2025,CUST6282,18-24,Lagos,Closure Wig,16,Natural Black,65515,3,10000,186545,Transfer,Facebook,New,Returned,1,4.2,0.313,Low,February,"58,388.59","62,182",Q1
+WIG0479,2/26/2025,CUST5864,18-24,Benin,Bone Straight,28,Brown,145122,2,15000,275244,Card,WhatsApp,New,Pending,2,4.3,0.342,Medium,February,"94,133.45","137,622",Q1
+WIG0480,1/24/2025,CUST2267,25-34,Kano,Frontal Wig,12,Blonde,79034,3,0,237102,POS,Facebook,New,Pending,4,3.1,0.438,Low,January,"103,850.68","79,034",Q1
+WIG0481,6/18/2025,CUST1515,18-24,Port Harcourt,Bone Straight,16,Blonde,150038,1,0,150038,Card,Walk-in,New,Delivered,1,3.4,0.159,Low,June,"23,856.04","150,038",Q2
+WIG0482,2/26/2025,CUST2367,35-45,Enugu,Bone Straight,26,Brown,162075,3,0,486225,Cash,WhatsApp,Returning,Delivered,3,4.4,0.346,High,February,"168,233.85","162,075",Q1
+WIG0483,1/27/2025,CUST6105,18-24,Kano,Closure Wig,24,Brown,75304,3,5000,220912,Card,Facebook,Returning,Pending,7,3.6,0.182,Low,January,"40,205.98","73,637",Q1
+WIG0484,4/15/2025,CUST5808,35-45,Kano,Closure Wig,22,Ombre,58423,3,10000,165269,Cash,Facebook,New,Delivered,7,3.6,0.387,Low,April,"63,959.10","55,090",Q2
+WIG0485,3/23/2025,CUST1178,35-45,Port Harcourt,Bob Wig,16,Brown,78054,1,0,78054,Card,Walk-in,Returning,Delivered,4,3.6,0.214,Low,March,"16,703.56","78,054",Q1
+WIG0486,2/20/2025,CUST4229,18-24,Kano,Jerry Curl,12,Burgundy,106444,3,0,319332,Card,Instagram,Returning,Pending,1,3.9,0.33,Medium,February,"105,379.56","106,444",Q1
+WIG0487,2/3/2025,CUST7599,18-24,Benin,Frontal Wig,22,Ombre,149366,4,0,597464,Transfer,WhatsApp,New,Delivered,1,4.7,0.275,High,February,"164,302.60","149,366",Q1
+WIG0488,3/18/2025,CUST8447,25-34,Kano,Bob Wig,18,Natural Black,61236,1,5000,56236,Cash,Walk-in,New,Delivered,1,4.7,0.192,Low,March,"10,797.31","56,236",Q1
+WIG0489,1/12/2025,CUST2815,18-24,Port Harcourt,Bob Wig,22,Natural Black,40768,1,0,40768,Cash,WhatsApp,Returning,Pending,2,4.2,0.186,Low,January,"7,582.85","40,768",Q1
+WIG0490,5/3/2025,CUST9029,25-34,Port Harcourt,Bob Wig,14,Burgundy,76740,2,10000,143480,POS,Instagram,Returning,Pending,3,4.1,0.412,Low,May,"59,113.76","71,740",Q2
+WIG0491,4/9/2025,CUST4078,25-34,Lagos,Pixie Curl,30,Blonde,43924,2,5000,82848,POS,Walk-in,Returning,Pending,6,3.3,0.301,Low,April,"24,937.25","41,424",Q2
+WIG0492,4/19/2025,CUST3690,35-45,Port Harcourt,Jerry Curl,16,Ombre,120538,1,0,120538,Transfer,TikTok,Returning,Delivered,2,3,0.288,Low,April,"34,714.94","120,538",Q2
+WIG0493,2/24/2025,CUST3467,25-34,Benin,Bob Wig,10,Burgundy,64664,3,5000,188992,Cash,Instagram,Returning,Pending,1,3.1,0.265,Low,February,"50,082.88","62,997",Q1
+WIG0494,4/21/2025,CUST2788,35-45,Lagos,Closure Wig,16,Brown,73153,4,10000,282612,Transfer,TikTok,New,Delivered,5,3.5,0.17,Medium,April,"48,044.04","70,653",Q2
+WIG0495,2/13/2025,CUST4335,25-34,Enugu,Bone Straight,18,Blonde,124683,4,0,498732,Cash,Instagram,New,Delivered,6,3.6,0.422,High,February,"210,464.90","124,683",Q1
+WIG0496,5/2/2025,CUST8011,25-34,Lagos,Jerry Curl,14,Brown,79103,1,15000,64103,Cash,Instagram,New,Returned,5,3.7,0.292,Low,May,"18,718.08","64,103",Q2
+WIG0497,5/9/2025,CUST3741,18-24,Kano,Bone Straight,24,Natural Black,127441,2,10000,244882,Transfer,WhatsApp,Returning,Pending,6,3.7,0.314,Medium,May,"76,892.95","122,441",Q2
+WIG0498,3/11/2025,CUST9508,35-45,Enugu,Pixie Curl,24,Natural Black,49735,4,0,198940,POS,Facebook,New,Returned,3,4,0.223,Low,March,"44,363.62","49,735",Q1
+WIG0499,6/23/2025,CUST9927,25-34,Benin,Pixie Curl,22,Brown,54758,3,15000,149274,Cash,WhatsApp,Returning,Pending,3,3.6,0.162,Low,June,"24,182.39","49,758",Q2
+WIG0500,5/8/2025,CUST3410,25-34,Enugu,Frontal Wig,20,Brown,139273,1,0,139273,Cash,Walk-in,New,Pending,3,3.1,0.238,Low,May,"33,146.97","139,273",Q2
